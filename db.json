@@ -1,19 +1,1504 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+ "NewArrivals":[
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1809/conoid-universal-magnetic-charging-stand-images/Conoid-Universal-Magnetic-Charging-Stand-vw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Conoid Universal Magnetic Wireless Charging Stand (15W)",
+    "price": "Rs.2999 \n\n 5999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1809/surge-2-in-1-magnetic-charging-station-images/Surge-2-In-1-Magnetic-Charging-Station.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "DailyObjects SURGE™ 2-In-1 Universal Magnetic Wireless Charging Station (18W)",
+    "price": "Rs.3999\n\n7999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1103/dailyobjects-walnut-brown-snapon-envelope-sleeve-for-macbook-pro-35-56cm-14-inch-images/DailyObjects-Walnut-Brown-Slim-Envelope-Sleeve-For-Macbook-Pro-14-vw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Walnut Brown SnapOn Envelope Sleeve For Macbook Pro 35.56cm (14 inch)",
+    "price": "Rs.1499\n\n2199",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1103/dailyobjects-terracotta-red-snapon-envelope-sleeve-for-macbook-air-pro-33-02cm-13-inch-images/DailyObjects-Terracotta-Red-Slim-Envelope-Sleeve-For-Macbook-Air-33-13-vw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Terracotta Red SnapOn Envelope Sleeve For Macbook Air/Pro 33.02cm (13 inch)",
+    "price": "Rs.1399\n\n1999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1103/dailyobjects-space-blue-snapon-envelope-sleeve-for-macbook-pro-40-64cm-16-inch-images/DailyObjects-Space-Blue-Slim-Envelope-Sleeve-For-Macbook-Pro-16-vw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Space Blue SnapOn Envelope Sleeve For Macbook Pro 40.64cm (16 inch)",
+    "price": "Rs.1599\n\n2499",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1202/ivory-olive-commute-messenger-medium-images/Ivory-Olive-Commute-Messenger-Small-vw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Ivory - Olive Commute Messenger Medium",
+    "price": "Rs.3999\n\n5499",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1202/all-clove-commute-messenger-medium-images/All-Clove-Commute-Messenger-Small-Vw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "All Clove Commute Messenger Medium",
+    "price": "Rs.3999\n\n5499",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1202/ivory-clove-commute-messenger-large-images/Ivory-Clove-Commute-Messenger-Large-vw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Ivory - Clove Commute Messenger Large",
+    "price": "Rs.4399\n\n6499",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1202/walnut-brown-urban-classic-briefcase-bag-images/Walnut-Brown-Urban-Classic-Briefcase-Bag-vw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Walnut Brown Urban Classic Briefcase Bag",
+    "price": "Rs.4999\n\n5999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1202/ivory-navy-commute-messenger-medium-images/Ivory-Navy-Commute-Messenger-Medium.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Ivory - Navy Commute Messenger Medium",
+    "price": "Rs.3999\n\n5499",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1201/all-navy-9-to-9-backpack-images/All-Navy-9-to-9-Backpack.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "All Navy 9 to 9 Backpack",
+    "price": "Rs.3499\n\n5999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1202/space-urban-classic-briefcase-bag-images/Space-Blue-Urban-Classic-Briefcase-Bag-vw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Space Blue Urban Classic Briefcase Bag",
+    "price": "Rs.4999\n\n5999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1202/terracotta-red-bask-messenger-bag-images/Terracotta-Red-Bask-Messenger-Bag.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Terracotta Red Bask Messenger Bag",
+    "price": "Rs.3499\n\n4999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1202/space-blue-bask-messenger-bag-images/Space-Blue-Bask-Messenger-Bag.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Space Blue Bask Messenger Bag",
+    "price": "Rs.3499\n\n4999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1702/mesa-monitor-stand-red-images/Mesa-Monitor-Stands-Red.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Mesa Monitor Stand - (Red)",
+    "price": "Rs.4999\n\n5999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1703/hunter-green-array-planner-and-organiser-images/Hunter-Green-SOT-Weekly-Planner.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Hunter Green Array Organiser with Planner",
+    "price": "Rs.1999\n\n2499",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1702/mesa-monitor-stand-blue-images/Mesa-Monitor-Stands-Blue.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Mesa Monitor Stand - (Blue)",
+    "price": "Rs.4999\n\n5999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1702/morph-foldable-deskmat-with-laptop-stand-images/Morph-Desk-Mat.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Morph Foldable Deskmat with Laptop Stand",
+    "price": "Rs.1999\n\n2999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1702/cirque-phone-and-pen-stand-blue-images/Cirque-Phone-and-Pen-Stand-Blue-v.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Cirque Phone and Pen Stand - (Blue)",
+    "price": "Rs.2799\n\n2999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1703/space-blue-array-planner-and-organiser-images/Space-Blue-SOT-Weekly-Planner.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Space Blue Array Organiser with Planner",
+    "price": "Rs.1999\n\n2499",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1702/brown-navy-shift-desk-mat-images/Brown-Navy-SHIFT-Desk-Mat.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Brown-Navy SHIFT Desk Mat",
+    "price": "Rs.999\n\n1999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1702/arete-laptop-stand-ivory-images/Arete-Laptop-Stand-Ivory-v.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Arete Laptop Stand - (Ivory)",
+    "price": "Rs.2499\n\n2999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1702/mount-adjustable-phone-stand-green-images/Mount-Adjustable-Phone-Stand-Green-v.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Mount Adjustable Phone Stand - (Green)",
+    "price": "Rs.2199\n\n2499",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1702/cirque-phone-and-pen-stand-red-images/Cirque-Phone-and-Pen-Stand-Red-v.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Cirque Phone and Pen Stand - (Red)",
+    "price": "Rs.2799\n\n2999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1702/mount-adjustable-phone-stand-blue-images/Mount-Adjustable-Phone-Stand-Blue-v.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Mount Adjustable Phone Stand - (Blue)",
+    "price": "Rs.2199\n\n2499",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1702/mesa-monitor-stand-ivory-images/Mesa-Monitor-Stands-Ivory.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Mesa Monitor Stand - (Ivory)",
+    "price": "Rs.4999\n\n5999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1702/arete-laptop-stand-blue-images/Arete-Laptop-Stand-Blue-v.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Arete Laptop Stand - (Blue)",
+    "price": "Rs.2499\n\n2999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1702/arete-laptop-stand-green-images/Arete-Laptop-Stand-Green-v.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Arete Laptop Stand - (Green)",
+    "price": "Rs.2499\n\n2999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1702/cirque-phone-and-pen-stand-green-images/Cirque-Phone-and-Pen-Stand-Green-v.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Cirque Phone and Pen Stand - (Green)",
+    "price": "Rs.2799\n\n2999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1702/mount-adjustable-phone-stand-ivory-images/Mount-Adjustable-Phone-Stand-Ivory-v.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Mount Adjustable Phone Stand - (Ivory)",
+    "price": "Rs.2199\n\n2499",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1702/arete-laptop-stand-red-images/Arete-Laptop-Stand-Red-v.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Arete Laptop Stand - (Red)",
+    "price": "Rs.2499\n\n2999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1702/mount-adjustable-phone-stand-red-images/Mount-Adjustable-Phone-Stand-Red-v.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Mount Adjustable Phone Stand - (Red)",
+    "price": "Rs.2199\n\n2499",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1702/mesa-monitor-stand-green-images/Mesa-Monitor-Stands-Green.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Mesa Monitor Stand - (Green)",
+    "price": "Rs.4999\n\n5999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1702/cirque-phone-and-pen-stand-ivory-images/Cirque-Phone-and-Pen-Stand-Ivory-v.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Cirque Phone and Pen Stand - (Ivory)",
+    "price": "Rs.2799\n\n2999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1703/terracotta-red-array-planner-and-organiser-images/Terracotta-Red-SOT-Weekly-Planner.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Terracotta Red Array Organiser with Planner",
+    "price": "Rs.1999\n\n2499",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1703/walnut-brown-array-planner-and-organiser-images/Walnut-Brown-SOT-Weekly-Planner.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Walnut Brown Array Organiser with Planner",
+    "price": "Rs.1999\n\n2499",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1103/dailyobjects-walnut-brown-snapon-envelope-sleeve-for-macbook-air-pro-33-02cm-13-inch-images/DailyObjects-Walnut-Brown-Slim-Envelope-Sleeve-For-Macbook-Air-13-vw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Walnut Brown SnapOn Envelope Sleeve For Macbook Air/Pro 33.02cm (13 inch)",
+    "price": "Rs.1399\n\n1999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1103/dailyobjects-space-blue-snapon-envelope-sleeve-for-macbook-air-pro-33-02cm-13-inch-images/DailyObjects-Space-Blue-Slim-Envelope-Sleeve-For-Macbook-Air-13-vw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Space Blue SnapOn Envelope Sleeve For Macbook Air/Pro 33.02cm (13 inch)",
+    "price": "Rs.1399\n\n1999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1202/walnut-brown-bask-messenger-bag-images/Walnut-Brown-Bask-Messenger-Bag.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Walnut Brown Bask Messenger Bag",
+    "price": "Rs.3499\n\n4999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1202/black-urban-classic-briefcase-bag-images/Black-Urban-Classic-Briefcase-Bag-vw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Black Urban Classic Briefcase Bag",
+    "price": "Rs.4999\n\n5999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
   }
+],
+
+"laptopCover" : [
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1103/alligator-siesta-sleeve-13-inch-images/Blue-Siesta-Laptop-Sleeve-13-inch.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Alligator Siesta Sleeve (13 inch)",
+    "price": "Rs.1499\n\n2499",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1103/squid-siesta-sleeve-13-inch-images/Green-Siesta-Laptop-Sleeve-13-inch.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Squid Siesta Sleeve (13 inch)",
+    "price": "Rs.1499\n\n2499",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1103/langoor-siesta-sleeve-13-inch-images/White-Siesta-Laptop-Sleeve-13-inch.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Langoor Siesta Sleeve (13 inch)",
+    "price": "Rs.1499\n\n2499",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1103/grey-frosted-hardshell-case-for-macbook-air-13-2022-images/Grey-Frosted-Hardshell-Case-for-Macbook-Air-13-2022.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Grey Hardshell Case for Macbook Air 13 2022",
+    "price": "Rs.2199\n\n2999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1103/frosted-hardshell-case-for-macbook-air-13-2022-images/Clear-Frosted-Hardshell-Case-for-Macbook-Air-13-2020-vw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Frosted Hardshell Case for Macbook Air 13 2022",
+    "price": "Rs.2199\n\n2999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1103/wood-hardshell-case-for-macbook-pro-16-2021-images/Wood-Hardshell-Case-for-Macbook-Pro-16-2022-2n.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Wood Hardshell Case for Macbook Pro 16 2021",
+    "price": "Rs.2199\n\n2999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1103/midnight-blue-frosted-hardshell-case-for-macbook-air-13-2022-images/Midnight-Blue-Frosted-Hardshell-Case-for-Macbook-Air-13-2022.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Midnight Blue Frosted Hardshell Case for Macbook Air 13 2022",
+    "price": "Rs.2199\n\n2999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1103/dailyobjects-walnut-brown-snapon-envelope-sleeve-for-macbook-pro-35-56cm-14-inch-images/DailyObjects-Walnut-Brown-Slim-Envelope-Sleeve-For-Macbook-Pro-14-vw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Walnut Brown SnapOn Envelope Sleeve For Macbook Pro 35.56cm (14 inch)",
+    "price": "Rs.1499\n\n2199",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1103/dailyobjects-space-blue-snapon-envelope-sleeve-for-macbook-pro-40-64cm-16-inch-images/DailyObjects-Space-Blue-Slim-Envelope-Sleeve-For-Macbook-Pro-16-vw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Space Blue SnapOn Envelope Sleeve For Macbook Pro 40.64cm (16 inch)",
+    "price": "Rs.1599\n\n2499",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1103/dailyobjects-terracotta-red-snapon-envelope-sleeve-for-macbook-air-pro-33-02cm-13-inch-images/DailyObjects-Terracotta-Red-Slim-Envelope-Sleeve-For-Macbook-Air-33-13-vw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Terracotta Red SnapOn Envelope Sleeve For Macbook Air/Pro 33.02cm (13 inch)",
+    "price": "Rs.1399\n\n1999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1103/dailyobjects-mustard-yellow-skipper-sleeve-large-images/DailyObjects-Mustard-Yellow-Skipper-Sleeve-Large.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Mustard Yellow Skipper Sleeve Large For MacBook/Laptop upto 38.01cm (15 inch)",
+    "price": "Rs.1399\n\n1999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1103/dailyobjects-crimson-red-skipper-sleeve-large-images/DailyObjects-Crimson-Red-Skipper-Sleeve-Large.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Crimson Red Skipper Sleeve Large For MacBook/Laptop upto 38.01cm (15 inch)",
+    "price": "Rs.1399\n\n1999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1103/dailyobjects-olive-green-skipper-sleeve-small-images/DailyObjects-Olive-Green-Skipper-Sleeve-Small.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Olive Green Skipper Sleeve Small For iPads/Tablet 28cm (11 inch)",
+    "price": "Rs.999\n\n1599",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1103/dailyobjects-midnigh-blue-skipper-sleeve-small-images/DailyObjects-Midnigh-Blue-Skipper-Sleeve-Small.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Midnight Blue Skipper Sleeve Small For iPads/Tablet 28cm (11 inch)",
+    "price": "Rs.999\n\n1599",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1103/dailyobjects-wavey-green-zippered-sleeve-for-laptop-macbook-28cm-11-inch-images/DailyObjects-Wavey-Green-Zippered-Sleeve-For-Laptop-MacBook-28cm-11-inch.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Wavey Green Zippered Sleeve For Laptop/MacBook 28cm (11 inch)",
+    "price": "Rs.899\n\n2199",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1103/dailyobjects-green-checkerboard-zippered-sleeve-for-laptop-macbook-33-02cm-13-inch-images/DailyObjects-Green-Checkerboard-Zippered-Sleeve-For-Laptop-MacBook-33-02cm-13-inch.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Green Checkerboard Zippered Sleeve For Laptop/MacBook 33.02cm (13 inch)",
+    "price": "Rs.1099\n\n2199",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1103/dailyobjects-brown-houndstooth-zippered-sleeve-for-laptop-macbook-28cm-11-inch-images/DailyObjects-Brown-Houndstooth-Zippered-Sleeve-For-Laptop-MacBook-28cm-11-inch.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Brown Houndstooth Zippered Sleeve For Laptop/MacBook 28cm (11 inch)",
+    "price": "Rs.899\n\n2199",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1103/dailyobjects-red-striped-checks-zippered-sleeve-for-laptop-macbook-28cm-11-inch-images/DailyObjects-Red-Striped-Checks-Zippered-Sleeve-For-Laptop-MacBook-28cm-11-in.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Red Striped Checks Zippered Sleeve For Laptop/MacBook 28cm (11 inch)",
+    "price": "Rs.899\n\n2199",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/undefined/undefined-images/DailyObjects-Black-Real-Leather-Envelope-Sleeve-For-Macbook-Air-33-02c-13.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Black Real Leather Envelope Sleeve For Macbook Pro 33.02cm (13 inch)",
+    "price": "Rs.1999\n\n2499",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/undefined/undefined-images/DailyObjects-Tan-Real-Leather-Envelope-Sleeve-For-Macbook-Air-33-02c-13.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Tan Real Leather Envelope Sleeve For Macbook Pro 33.02cm (13 inch)",
+    "price": "Rs.1999\n\n2499",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  }
+],
+
+"airpods":   [
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1104/black-airpods-pro-2-leather-case-cover-images/Black-Airpods-Pro-2-Leather-Case-Cover.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Black Airpods Pro 2 Leather Case Cover",
+    "price": "Rs.499\n\n1999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1104/green-airpods-pro-2-leather-case-cover-images/Green-Airpods-Pro-2-Leather-Case-Cover.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Green Airpods Pro 2 Leather Case Cover",
+    "price": "Rs.499\n\n1999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1104/red-coast-airpods-pro-2-case-for-airpods-2-0-images/Red-Coast-Airpods-Pro-2-AirPods-Case-Cover.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Red Coast Airpods Pro 2 Case Cover",
+    "price": "Rs.499\n\n1199",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1104/pink-silicone-sling-airpods-pro-case-cover-images/pink-silicone-sling-airpods-pro-case-cover.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Pink Silicone Sling AirPods Pro Case Cover",
+    "price": "Rs.399\n\n1499",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1104/white-silicone-sling-airpods-pro-case-cover-images/white-silicone-sling-airpods-pro-case-cover.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "White Silicone Sling AirPods Pro Case Cover",
+    "price": "Rs.399\n\n1499",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1104/red-coast-airpods-pro-case-for-airpods-2-0-images/Red-Coast-Airpods-Pro-AirPods-Case-Cover.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Red Coast Airpods Pro Case Cover",
+    "price": "Rs.499\n\n1199",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1104/white-silicone-sling-airpods-case-cover-images/white-silicone-sling-airpods-case-cover.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "White Silicone Sling AirPods Case Cover",
+    "price": "Rs.399\n\n1499",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1104/pink-silicone-sling-airpods-case-cover-images/pink-silicone-sling-airpods-case-cover.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Pink Silicone Sling AirPods Case Cover",
+    "price": "Rs.399\n\n1499",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1104/red-airpods-3-leather-case-cover-images/Red-Airpods-3-Leather-Case-Cover.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Red Airpods 3 Leather Case Cover",
+    "price": "Rs.499\n\n1999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1104/mustard-airpods-3-leather-case-cover-images/Mustard-Airpods-3-Leather-Case-Cover.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Mustard Airpods 3 Leather Case Cover",
+    "price": "Rs.499\n\n1999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/undefined/undefined-images/Blue-Airpods-Leather-Case-Cover-vw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Blue Airpods Leather Case Cover",
+    "price": "Rs.499\n\n1999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1104/coast-airpods-shock-absorbing-case-cover-black-images/coast-airpods-shock-absorbing-case-cover-black.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Coast Airpods Case Cover - (Black)",
+    "price": "Rs.399\n\n1199",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1104/coast-airpods-shock-absorbing-case-cover-green-images/coast-airpods-shock-absorbing-case-cover-green.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Coast Airpods Case Cover - (Green)",
+    "price": "Rs.399\n\n1199",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1104/coast-airpods-shock-absorbing-case-cover-yellow-images/coast-airpods-shock-absorbing-case-cover-yellow.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Coast Airpods Case Cover - (Yellow)",
+    "price": "Rs.399\n\n1199",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1104/poncho-airpods-case-skin-yellow-images/poncho-airpods-case-skin-yellow.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Poncho Airpods Case Cover - (Yellow)",
+    "price": "Rs.399\n\n1199",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1104/coast-airpods-shock-absorbing-case-cover-blush-images/coast-airpods-shock-absorbing-case-cover-blush.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Coast Airpods Case Cover - (Blush)",
+    "price": "Rs.399\n\n1199",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1104/coast-airpods-shock-absorbing-case-cover-grey-images/coast-airpods-shock-absorbing-case-cover-grey.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Coast Airpods Case Cover - (Grey)",
+    "price": "Rs.399\n\n1199",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1104/coast-airpods-shock-absorbing-case-cover-red-images/coast-airpods-shock-absorbing-case-cover-red.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Coast Airpods Case Cover - (Red)",
+    "price": "Rs.399\n\n1199",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/undefined/undefined-images/Green-Airpods-Leather-Case-Cover-vw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Green Airpods Leather Case Cover",
+    "price": "Rs.499\n\n1999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1104/poncho-airpods-case-skin-beige-images/poncho-airpods-case-skin-beige.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Poncho Airpods Case Cover - (Beige)",
+    "price": "Rs.399\n\n1199",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  }
+],
+
+
+"passportholder": [
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1403/dailyobjects-red-buterflies-passport-cover-images/DailyObjects-Red-Buterflies-Passport-Cover.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Red Buterflies Passport Cover",
+    "price": "Rs.799\n\n1699",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1403/dailyobjects-royal-decree-passport-cover-images/DailyObjects-Royal-Decree-Passport-Cover.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Royal Decree Passport Cover",
+    "price": "Rs.899\n\n1699",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/undefined/undefined-images/DailyObjects-3-To-Go-Scooter-Yellow-Striped-Passport-Cover-vw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "3 To Go Scooter Yellow Striped Passport Cover",
+    "price": "Rs.799\n\n1699",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1403/dailyobjects-rajput-facial-hair-passport-cover-images/DailyObjects-Rajput-Facial-Hair-Passport-Cover.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Rajput Facial Hair Passport Cover",
+    "price": "Rs.399\n\n1699",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/undefined/undefined-images/DailyObjects-Black-Ballistic-Nylon-Organiser-Passport-Wallet-vw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Black Ballistic Nylon Organiser Passport Wallet",
+    "price": "Rs.799\n\n2299",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1403/dailyobjects-no-signal-passport-cover-images/DailyObjects-No-Signal-Passport-Cover.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "No Signal Passport Cover",
+    "price": "Rs.799\n\n1699",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1403/dailyobjects-space-cadet-passport-cover-images/DailyObjects-Space-Cadet-Passport-Cover.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Space Cadet Passport Cover",
+    "price": "Rs.899\n\n1699",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/bags-and-sleeves/dailyobjects/passport-wallet/dailyobjects-flight-the-world-travel-organiser-passport-wallet-images/DailyObjects-Flight-The-World-Travel-Organiser-Passport-Wallet.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Flight The World Travel Organiser Passport Wallet",
+    "price": "Rs.899\n\n1999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/bags-and-sleeves/dailyobjects/passport-wallet/dailyobjects-time-to-travel-travel-organiser-passport-wallet-images/DailyObjects-Time-To-Travel-Travel-Organiser-Passport-Wallet.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Time To Travel Travel Organiser Passport Wallet",
+    "price": "Rs.799\n\n1999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1403/dailyobjects-offline-passport-cover-images/DailyObjects-Offline-Passport-Cover.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Offline Passport Cover",
+    "price": "Rs.899\n\n1699",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/undefined/undefined-images/DailyObjects-Travel-Bucket-Passport-Cover.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Travel Bucket Passport Cover",
+    "price": "Rs.899\n\n1699",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1403/dailyobjects-midnight-chrysanthemums-passport-cover-images/DailyObjects-Midnight-Chrysanthemums-Passport-Cover.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Midnight Chrysanthemums Passport Cover",
+    "price": "Rs.1299\n\n1699",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1403/dailyobjects-backpacking-passport-cover-images/DailyObjects-Backpacking-Passport-Cover.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Backpacking Passport Cover",
+    "price": "Rs.899\n\n1699",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/undefined/undefined-images/DailyObjects-Twlight-Blue-Travel-Organiser-Passport-Wallet.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Twlight Blue Travel Organiser Passport Cover",
+    "price": "Rs.899\n\n2299",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1403/dailyobjects-krishna-swings-passport-cover-images/DailyObjects-Krishna-Swings-Passport-Cover.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Krishna Swings Passport Cover",
+    "price": "Rs.799\n\n1699",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/undefined/undefined-images/DailyObjects-White-Lillies-Passport-Cover.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "White Lillies Passport Cover",
+    "price": "Rs.899\n\n1699",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/undefined/undefined-images/DailyObjects-Turquoise-Stripes-Passport-Cover.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Turquoise Stripes Passport Cover",
+    "price": "Rs.899\n\n1699",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/undefined/undefined-images/DailyObjects-Lush-Midnight-Passport-Cover.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Lush Midnight Passport Cover",
+    "price": "Rs.899\n\n1699",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/undefined/undefined-images/DailyObjects-Twlight-Blue-Passport-Cover.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Twlight Blue Passport Cover",
+    "price": "Rs.799\n\n1699",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1403/dailyobjects-dark-camo-passport-cover-images/DailyObjects-Dark-Camo-Passport-Cover.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Dark Camo Passport Cover",
+    "price": "Rs.799\n\n1699",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  }
+],
+
+"watchbands":
+  [
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1801/blue-plunge-apple-watchband-42-44-45-49mm-images/Blue-Plunge-Apple-WatchBand.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Blue Plunge Apple WatchBand (42/44/45/49mm)",
+    "price": "Rs.1699\n\n1999",
+    "brand": "BUY ANY 3 @ 2499 ONLY"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1801/grey-pull-tab-nylon-weave-apple-watchband-42-44-45-49mm-images/Grey-Pull-Tab-Nylon-Weave-Apple-WatchBand.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Grey Pull Tab Nylon Weave Apple WatchBand (42/44/45/49mm)",
+    "price": "Rs.1699\n\n1999",
+    "brand": "BUY ANY 3 @ 2499 ONLY"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1801/black-orange-two-tone-silicone-apple-watchband-42-44-45mm-images/Black-Orange-Two-Tone-Silicone-Apple-WatchBand-VW.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Black-Orange Two Tone Silicone Apple WatchBand (42/44/45/49mm)",
+    "price": "Rs.1699\n\n2199",
+    "brand": "BUY ANY 3 @ 2499 ONLY"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1801/green-ridge-loop-apple-watchband-38-40-41mm-images/Olive-Ridge-Loop-Apple-WatchBand-3-view.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Green Ridge Loop Apple WatchBand (38/40/41mm)",
+    "price": "Rs.1699\n\n1999",
+    "brand": "BUY ANY 3 @ 2499 ONLY"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1801/starlight-ridge-loop-apple-watchband-38-40-41mm-images/Off-White-Ridge-Loop-Apple-WatchBand-3-view.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Starlight Ridge Loop Apple WatchBand (38/40/41mm)",
+    "price": "Rs.1699\n\n1999",
+    "brand": "BUY ANY 3 @ 2499 ONLY"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1801/orange-ridge-loop-apple-watchband-38-40-41mm-images/Orange-Ridge-Loop-Apple-WatchBand-3-view.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Orange Ridge Loop Apple WatchBand (38/40/41mm)",
+    "price": "Rs.1699\n\n1999",
+    "brand": "BUY ANY 3 @ 2499 ONLY"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1801/black-gray-two-tone-silicone-apple-watchband-38-40-41mm-images/Black-Gray-Two-Tone-Silicone-Apple-WatchBand-VW.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Black-Gray Two Tone Silicone Apple WatchBand (38/40/41mm)",
+    "price": "Rs.1699\n\n2199",
+    "brand": "BUY ANY 3 @ 2499 ONLY"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1801/blue-ribbed-fit-apple-watch-series-case-with-screen-protector-40mm-images/Blue-Ribbed-Fit-Apple-Watch-Series-Case-with-Screen-Protector.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Blue Ribbed Fit Apple Watch Series Case with Screen Protector (40mm)",
+    "price": "Rs.499\n\n999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1801/pink-plunge-apple-watchband-42-44-45-49mm-images/Pink-Plunge-Apple-WatchBand.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Pink Plunge Apple WatchBand (42/44/45/49mm)",
+    "price": "Rs.1699\n\n1999",
+    "brand": "BUY ANY 3 @ 2499 ONLY"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1801/grey-pull-tab-nylon-weave-apple-watchband-38-40-41mm-images/Grey-Pull-Tab-Nylon-Weave-Apple-WatchBand.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Grey Pull Tab Nylon Weave Apple WatchBand (38/40/41mm)",
+    "price": "Rs.1699\n\n1999",
+    "brand": "BUY ANY 3 @ 2499 ONLY"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1801/black-orange-two-tone-silicone-apple-watchband-38-40-41mm-images/Black-Orange-Two-Tone-Silicone-Apple-WatchBand-VW.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Black-Orange Two Tone Silicone Apple WatchBand (38/40/41mm)",
+    "price": "Rs.1699\n\n2199",
+    "brand": "BUY ANY 3 @ 2499 ONLY"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1801/black-ridge-loop-apple-watchband-38-40-41mm-images/Black-Ridge-Loop-Apple-WatchBand-3-view.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Black Ridge Loop Apple WatchBand (38/40/41mm)",
+    "price": "Rs.1699\n\n1999",
+    "brand": "BUY ANY 3 @ 2499 ONLY"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1801/black-nylon-loop-apple-watchband-with-protective-bumper-case-38-40-41mm-images/Black-Nylon-Loop-Apple-WatchBand-with-Protective-Bumper-Case.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Black Nylon Loop Apple WatchBand with Protective Bumper Case (38/40/41mm)",
+    "price": "Rs.1699\n\n1999",
+    "brand": "BUY ANY 3 @ 2499 ONLY"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1801/black-orange-dual-lock-apple-watchband-with-protective-bumper-case-40mm-images/Black-Orange-Dual-Lock-Apple-WatchBand-with-Protective-Bumper-Case-2n.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Black-Orange Dual Lock Apple WatchBand with Protective Bumper Case (40mm)",
+    "price": "Rs.1699\n\n2499",
+    "brand": "BUY ANY 3 @ 2499 ONLY"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1801/black-tough-fit-apple-watch-series-case-44mm-images/Black-Tough-Fit-Apple-Watch-Series-Case-vw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Black Tough Fit Apple Watch Series Case (44mm)",
+    "price": "Rs.999\n\n1499",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1801/black-lime-ribbed-silicone-apple-watchband-38-40-41mm-images/Black-Green-Ribbed-Silicone-Apple-WatchBand.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Black-Lime Ribbed Silicone Apple WatchBand (38/40/41mm)",
+    "price": "Rs.1699\n\n2199",
+    "brand": "BUY ANY 3 @ 2499 ONLY"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1801/black-gray-ribbed-silicone-apple-watchband-38-40-41mm-images/Black-Gray-Ribbed-Silicone-Apple-WatchBand.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Black-Gray Ribbed Silicone Apple WatchBand (38/40/41mm)",
+    "price": "Rs.1699\n\n2199",
+    "brand": "BUY ANY 3 @ 2499 ONLY"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1801/blue-white-dual-lock-apple-watchband-with-protective-bumper-case-40mm-images/Blue-White-Dual-Lock-Apple-WatchBand-with-Protective-Bumper-Case-2n.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Blue-White Dual Lock Apple WatchBand with Protective Bumper Case (40mm)",
+    "price": "Rs.1699\n\n2499",
+    "brand": "BUY ANY 3 @ 2499 ONLY"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1801/army-green-athletic-fit-apple-watch-series-case-with-screen-protector-44mm-images/Army-Green-Athletic-Fit-Apple-Watch-Series-Case-with-Screen-Protector-vw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Army Green Athletic Fit Apple Watch Series Case with Screen Protector (44mm)",
+    "price": "Rs.899\n\n1499",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1801/black-athletic-fit-apple-watch-series-case-with-screen-protector-44mm-images/Black-Athletic-Fit-Apple-Watch-Series-Case-with-Screen-Protector-vw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Black Athletic Fit Apple Watch Series Case with Screen Protector (44mm)",
+    "price": "Rs.899\n\n1499",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  }
+],
+
+"StandsForLaptop" :
+ [
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1701/meerkat-laptop-and-book-stand-images/Meerkat-Laptop-And-Book-Stand-vw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Meerkat Laptop & Book Stand",
+    "price": "Rs.3499\n\n4999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/undefined/undefined-images/Pebble-MagSafe-Compatible-Charging-Stand-White.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Pebble MagSafe Compatible Charging Stand (White)",
+    "price": "Rs.799\n\n1499",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1809/surge-2-in-1-magnetic-charging-station-images/Surge-2-In-1-Magnetic-Charging-Station.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "DailyObjects SURGE™ 2-In-1 Universal Magnetic Wireless Charging Station (18W)",
+    "price": "Rs.3999\n\n7999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1809/conoid-universal-magnetic-charging-stand-images/Conoid-Universal-Magnetic-Charging-Stand-vw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Conoid Universal Magnetic Wireless Charging Stand (15W)",
+    "price": "Rs.2999\n\n5999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1702/mesa-monitor-stand-red-images/Mesa-Monitor-Stands-Red.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Mesa Monitor Stand - (Red)",
+    "price": "Rs.4999\n\n5999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1702/mesa-monitor-stand-blue-images/Mesa-Monitor-Stands-Blue.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Mesa Monitor Stand - (Blue)",
+    "price": "Rs.4999\n\n5999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1702/cirque-phone-and-pen-stand-blue-images/Cirque-Phone-and-Pen-Stand-Blue-v.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Cirque Phone and Pen Stand - (Blue)",
+    "price": "Rs.2799\n\n2999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1702/mount-adjustable-phone-stand-green-images/Mount-Adjustable-Phone-Stand-Green-v.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Mount Adjustable Phone Stand - (Green)",
+    "price": "Rs.2199\n\n2499",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1702/arete-laptop-stand-ivory-images/Arete-Laptop-Stand-Ivory-v.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Arete Laptop Stand - (Ivory)",
+    "price": "Rs.2499\n\n2999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1702/cirque-phone-and-pen-stand-red-images/Cirque-Phone-and-Pen-Stand-Red-v.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Cirque Phone and Pen Stand - (Red)",
+    "price": "Rs.2799\n\n2999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1702/mount-adjustable-phone-stand-blue-images/Mount-Adjustable-Phone-Stand-Blue-v.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Mount Adjustable Phone Stand - (Blue)",
+    "price": "Rs.2199\n\n2499",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1702/arete-laptop-stand-green-images/Arete-Laptop-Stand-Green-v.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Arete Laptop Stand - (Green)",
+    "price": "Rs.2499\n\n2999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1702/arete-laptop-stand-blue-images/Arete-Laptop-Stand-Blue-v.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Arete Laptop Stand - (Blue)",
+    "price": "Rs.2499\n\n2999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1702/mesa-monitor-stand-ivory-images/Mesa-Monitor-Stands-Ivory.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Mesa Monitor Stand - (Ivory)",
+    "price": "Rs.4999\n\n5999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1702/cirque-phone-and-pen-stand-green-images/Cirque-Phone-and-Pen-Stand-Green-v.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Cirque Phone and Pen Stand - (Green)",
+    "price": "Rs.2799\n\n2999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1702/mount-adjustable-phone-stand-ivory-images/Mount-Adjustable-Phone-Stand-Ivory-v.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Mount Adjustable Phone Stand - (Ivory)",
+    "price": "Rs.2199\n\n2499",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1702/mount-adjustable-phone-stand-red-images/Mount-Adjustable-Phone-Stand-Red-v.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Mount Adjustable Phone Stand - (Red)",
+    "price": "Rs.2199\n\n2499",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1702/mesa-monitor-stand-green-images/Mesa-Monitor-Stands-Green.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Mesa Monitor Stand - (Green)",
+    "price": "Rs.4999\n\n5999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1702/arete-laptop-stand-red-images/Arete-Laptop-Stand-Red-v.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Arete Laptop Stand - (Red)",
+    "price": "Rs.2499\n\n2999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1702/cirque-phone-and-pen-stand-ivory-images/Cirque-Phone-and-Pen-Stand-Ivory-v.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Cirque Phone and Pen Stand - (Ivory)",
+    "price": "Rs.2799\n\n2999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  }
+],
+
+"chargingSolution" :
+      [
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1809/conoid-universal-magnetic-charging-stand-images/Conoid-Universal-Magnetic-Charging-Stand-vw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Conoid Universal Magnetic Wireless Charging Stand (15W)",
+    "price": "Rs.2999\n\n5999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1809/surge-2-in-1-magnetic-charging-station-images/Surge-2-In-1-Magnetic-Charging-Station.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "DailyObjects SURGE™ 2-In-1 Universal Magnetic Wireless Charging Station (18W)",
+    "price": "Rs.3999\n\n7999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1809/dailyobjects-surge-duoport-apple-watch-charger-black-images/DailyObjects-Surge-DuoPort-Apple-Watch-Charger-Black.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "DailyObjects Surge™ DuoPort Apple Watch Charger",
+    "price": "Rs.1399\n\n2499",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1809/dailyobjects-surge-condo-apple-watch-charging-stand-images/DailyObjects-Surge-Apple-Watch-Charging-Dock.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "DailyObjects Surge™ Condo Apple Watch Charging Stand",
+    "price": "Rs.1799\n\n2799",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1809/dailyobjects-surge-porto-apple-watch-charger-images/DailyObjects-Surge-Porto-Apple-Watch-Charger.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "DailyObjects Surge™ Porto Apple Watch Charger",
+    "price": "Rs.1799\n\n2799",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1809/dailyobjects-surge-pd-33w-gan-tech-dual-port-charger-images/DailyObjects-SURGE-PD-33W-GaN-Tech-Dual-Port-Charger-vW.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "DailyObjects SURGE™ PD GaN 33W Dual Port Charger",
+    "price": "Rs.1999\n\n2499",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1809/white-clock-and-dock-charging-station-images/White-Clock-And-Dock-Charging-Station-vw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "White Clock & Dock Charging Station",
+    "price": "Rs.2999\n\n3499",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1809/undefined-images/Trinity-Wireless-Charging-Station.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Trinity Wireless Charging Station",
+    "price": "Rs.3999\n\n7999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1809/dailyobjects-surge-4-in-1-universal-braided-charging-cable-images/DailyObjects-SURGE-4-in-1-Universal-Braided-Charging-Cable.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "DailyObjects SURGE™ 4-in-1 Universal Braided Charging Cable",
+    "price": "Rs.799\n\n999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1809/dailyobjects-surge-pd-gan-33w-dual-port-charger-and-4-in-1-universal-braided-charging-cable-combo-images/SURGE-PD-GaN-33W-Dual-Port-Charger-And-4-in-1-Universal-Braided-Charging-Cable-Combo.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "DailyObjects SURGE™ PD GaN 33W Dual Port Charger & 4-in-1 Universal Braided Charging Cable Combo",
+    "price": "Rs.2499\n\n3499",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1809/black-clock-and-dock-charging-station-images/Black-Clock-And-Dock-Charging-Station-vw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Black Clock & Dock Charging Station",
+    "price": "Rs.2999\n\n3499",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1809/dailyobjects-surge-pd-65w-gan-tech-dual-port-charger-images/DailyObjects-SURGE-PD-65W-GaN-Tech-Dual-Port-Charger.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "DailyObjects SURGE™ PD 65W GaN Tech Dual Port Charger",
+    "price": "Rs.2799\n\n3299",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1809/dailyobjects-surge-pd-20w-dual-port-charger-images/DailyObjects-SURGE-PD-20W-Dual-Port-Charger-vW.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "DailyObjects SURGE™ PD 20W Dual Port Charger",
+    "price": "Rs.1499\n\n1999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1809/dailyobjects-surge-pd-20w-dual-port-charger-and-4-in-1-universal-braided-charging-cable-combo-images/SURGE-PD-20W-Dual-Port-Charger-And-4-in-1-Universal-Braided-Charging-Cable-Combo.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "DailyObjects SURGE™ PD 20W Dual Port Charger & 4-in-1 Universal Braided Charging Cable Combo",
+    "price": "Rs.1999\n\n2999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1809/dailyobjects-surge-pd-gan-65w-dual-port-charger-and-4-in-1-universal-braided-charging-cable-combo-images/SURGE-PD-GaN-65W-Dual-Port-Charger-And-4-in-1-Universal-Braided-Charging-Cable-Combo.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "DailyObjects SURGE™ PD GaN 65W Dual Port Charger & 4-in-1 Universal Braided Charging Cable Combo",
+    "price": "Rs.3299\n\n4299",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1809/surge-3-in-1-magnetic-charging-station-images/Surge-3-In-1-Magnetic-Charging-Station.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "DailyObjects SURGE™ 3-In-1 Magnetic Wireless Charging Station (25W)",
+    "price": "Rs.4999\n\n9999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1809/dailyobjects-quad-wireless-charging-deck-15w-images/DailyObjects-QUAD-Wireless-Charging-Deck-15W.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "QUAD Universal Wireless Charging Deck (15W)",
+    "price": "Rs.1999\n\n3999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  }
+],
+
+
+
+
+"crossbodybag":
+ [
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1203/dailyobjects-black-vegan-leather-trapeze-crossbody-bag-images/DailyObjects-Black-Vegan-Leather-Trapeze-Crossbody-Bag-Viw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Black Vegan Leather - Trapeze Crossbody Bag",
+    "price": "Rs.2499",
+    "brand": "BUY 1 GET 1 FREE"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1203/dailyobjects-lush-midnight-trapeze-crossbody-bag-images/DailyObjects-Lush-Midnight-Trapeze-Crossbody-Bag-vw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Lush Midnight - Trapeze Crossbody Bag",
+    "price": "Rs.2499",
+    "brand": "BUY 1 GET 1 FREE"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/bags-and-sleeves/dailyobjects/crossbody-bags/dailyobjects-romantic-pink-retro-floral-pattern-teal-polka-dots-trapeze-crossbody-bag-images/DailyObjects-Romantic-Pink-Retro-Floral-Pattern-Teal-Polka-Dots-Trapeze-Crossbody-Bag.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Romantic Pink Retro Floral Pattern Teal Polka Dots - Trapeze Crossbody Bag",
+    "price": "Rs.2499",
+    "brand": "BUY 1 GET 1 FREE"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1203/dailyobjects-trio-quin-trapeze-crossbody-bag-images/DailyObjects-Trio-Quin-Trapeze-Crossbody-Bag-vw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Trio Quin - Trapeze Crossbody Bag",
+    "price": "Rs.2499",
+    "brand": "BUY 1 GET 1 FREE"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/bags-and-sleeves/dailyobjects/crossbody-bags/dailyobjects-feathers-33-trapeze-crossbody-bag-images/DailyObjects-Feathers-33-Trapeze-Crossbody-Bag.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Feathers 33 - Trapeze Crossbody Bag",
+    "price": "Rs.2499",
+    "brand": "BUY 1 GET 1 FREE"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/bags-and-sleeves/dailyobjects/crossbody-bags/dailyobjects-butterflies-and-hibiscus-flowers-trapeze-crossbody-bag-images/DailyObjects-Butterflies-And-Hibiscus-Flowers-Trapeze-Crossbody-Bag.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Butterflies And Hibiscus Flowers - Trapeze Crossbody Bag",
+    "price": "Rs.2499",
+    "brand": "BUY 1 GET 1 FREE"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/bags-and-sleeves/dailyobjects/crossbody-bags/dailyobjects-red-and-orange-trapeze-crossbody-bag-images/DailyObjects-Red-And-Orange-Trapeze-Crossbody-Bag.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Red And Orange - Trapeze Crossbody Bag",
+    "price": "Rs.2499",
+    "brand": "BUY 1 GET 1 FREE"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/2001/dailyobjects-navy-peacocking-tallboi-crossbody-bag-images/DailyObjects-Navy-Peacocking-TallBoi-Crossbody-Bag-vw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Navy Peacocking - TallBoi Crossbody Bag",
+    "price": "Rs.1999\n\n2499",
+    "brand": "BUY 1 GET 1 FREE"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1203/dailyobjects-midnight-chrysanthemums-tallboi-crossbody-bag-images/DailyObjects-Midnight-Chrysanthemums-TallBoi-Crossbody-Bag-vw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Midnight Chrysanthemums - TallBoi Crossbody Bag",
+    "price": "Rs.1999\n\n2499",
+    "brand": "BUY 1 GET 1 FREE"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1203/dailyobjects-burgundy-vegan-leather-tallboi-crossbody-bag-images/DailyObjects-Burgundy-Vegan-Leather-TallBoi-Crossbody-Bag-vw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Burgundy Vegan Leather - TallBoi Crossbody Bag",
+    "price": "Rs.1999\n\n2499",
+    "brand": "BUY 1 GET 1 FREE"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1203/dailyobjects-tan-vegan-leather-tallboi-crossbody-bag-images/DailyObjects-Tan-Vegan-Leather-TallBoi-Crossbody-Bag-vw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Tan Vegan Leather - TallBoi Crossbody Bag",
+    "price": "Rs.1999\n\n2499",
+    "brand": "BUY 1 GET 1 FREE"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/2001/dailyobjects-black-vegan-leather-tallboi-crossbody-bag-images/DailyObjects-Black-Vegan-Leather-TallBoi-Crossbody-Bag-vw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Black Vegan Leather - TallBoi Crossbody Bag",
+    "price": "Rs.1999\n\n2499",
+    "brand": "BUY 1 GET 1 FREE"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/bags-and-sleeves/dailyobjects/crossbody-bags/dailyobjects-how-to-chill-like-a-cat-trapeze-crossbody-bag-images/DailyObjects-How-to-Chill-Like-A-Cat-Trapeze-Crossbody-Bag.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "How to Chill Like A Cat - Trapeze Crossbody Bag",
+    "price": "Rs.2499",
+    "brand": "BUY 1 GET 1 FREE"
+  }
+],
+
+"wallets":
+  [
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/bags-and-sleeves/dailyobjects/zip-wallet/dailyobjects-lush-midnight-zip-wallet-images/DailyObjects-Lush-Midnight-Zip-Wallet.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Lush Midnight Zip Wallet",
+    "price": "Rs.1499\n\n2199",
+    "brand": "BUY 1 GET 1 FREE"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/bags-and-sleeves/dailyobjects/card-wallet/dailyobjects-blue-ballistic-nylon-skinny-fit-card-wallet-images/DailyObjects-Blue-Ballistic-Nylon-Skinny-Fit-Card-Wallet-Main-Image-updated.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Blue Ballistic Nylon Skinny Fit Card Wallet",
+    "price": "Rs.799\n\n1299",
+    "brand": "BUY 1 GET 1 FREE"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/bags-and-sleeves/dailyobjects/card-wallet/dailyobjects-blue-ballistic-nylon-flip-top-card-wallet-images/DailyObjects-Blue-Ballistic-Nylon-Flip-Top-Card-Wallet-Main-Image-updated.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Blue Ballistic Nylon Flip Top Card Wallet",
+    "price": "Rs.999\n\n1299",
+    "brand": "BUY 1 GET 1 FREE"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/bags-and-sleeves/dailyobjects/card-wallet/dailyobjects-black-ballistic-nylon-flip-top-card-wallet-images/DailyObjects-Black-Ballistic-Nylon-Flip-Top-Card-Wallet.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Black Ballistic Nylon Flip Top Card Wallet",
+    "price": "Rs.999\n\n1299",
+    "brand": "BUY 1 GET 1 FREE"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/undefined/undefined-images/DailyObjects-Black-Ballistic-Nylon-Card-Wallet.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Black Ballistic Nylon Card Wallet",
+    "price": "Rs.899\n\n1499",
+    "brand": "BUY 1 GET 1 FREE"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/bags-and-sleeves/dailyobjects/zip-wallet/dailyobjects-ddrypp-zip-wallet-images/DailyObjects-Ddrypp-Zip-Wallet-updated-main-view.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Ddrypp Zip Wallet",
+    "price": "Rs.1499\n\n2199",
+    "brand": "BUY 1 GET 1 FREE"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/bags-and-sleeves/dailyobjects/zip-wallet/dailyobjects-black-leather-zip-wallet-images/DailyObjects-Black-Leather-Zip-Wallet-Final-Update.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Black Leather Zip Wallet",
+    "price": "Rs.1499\n\n2199",
+    "brand": "BUY 1 GET 1 FREE"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/bags-and-sleeves/dailyobjects/zip-wallet/dailyobjects-blue-ballistic-nylon-zip-wallet-images/DailyObjects-Blue-Ballistic-Nylon-Zip-Wallet-Final-Update.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Blue Ballistic Nylon Zip Wallet",
+    "price": "Rs.1499\n\n2199",
+    "brand": "BUY 1 GET 1 FREE"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/bags-and-sleeves/dailyobjects/card-wallet/dailyobjects-black-ballistic-nylon-skinny-fit-card-wallet-images/DailyObjects-Black-Ballistic-Nylon-Skinny-Fit-Card-Wallet-updated.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Black Ballistic Nylon Skinny Fit Card Wallet",
+    "price": "Rs.799\n\n1299",
+    "brand": "BUY 1 GET 1 FREE"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/bags-and-sleeves/dailyobjects/card-wallet/dailyobjects-dark-brown-leather-flip-top-card-wallet-images/DailyObjects-Dark-Brown-Leather-Flip-Top-Card-Wallet.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Dark Brown Real Leather Flip Top Card Wallet",
+    "price": "Rs.999\n\n1299",
+    "brand": "BUY 1 GET 1 FREE"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/bags-and-sleeves/dailyobjects/zip-wallet/dailyobjects-red-and-orange-zip-wallet-images/DailyObjects-Red-And-Orange-Zip-Wallet-updated-main-view.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Red And Orange Zip Wallet",
+    "price": "Rs.1499\n\n2199",
+    "brand": "BUY 1 GET 1 FREE"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/designer-goods/dailyobjects/card-wallet/dailyobjects-tan-real-leather-card-wallet-images/dailyobjects-tan-real-leather-card-wallet-1st-view-main-image.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Tan Real Leather Card Wallet",
+    "price": "Rs.899\n\n1499",
+    "brand": "BUY 1 GET 1 FREE"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/bags-and-sleeves/dailyobjects/zip-wallet/dailyobjects-feathers-35-zip-wallet-images/DailyObjects-Feathers-35-Zip-Wallet-updated-main-view.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Feathers 35 Zip Wallet",
+    "price": "Rs.1499\n\n2199",
+    "brand": "BUY 1 GET 1 FREE"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/bags-and-sleeves/dailyobjects/zip-wallet/dailyobjects-green-quad-zip-wallet-images/DailyObjects-Green-Quad-Zip-Wallet.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Green Quad Zip Wallet",
+    "price": "Rs.1499\n\n2199",
+    "brand": "BUY 1 GET 1 FREE"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/bags-and-sleeves/dailyobjects/zip-wallet/dailyobjects-deep-quad-zip-wallet-images/DailyObjects-Deep-Quad-Zip-Wallet.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Deep Quad Zip Wallet",
+    "price": "Rs.1499\n\n2199",
+    "brand": "BUY 1 GET 1 FREE"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/bags-and-sleeves/dailyobjects/classic-billfold-wallet/tan-leather-urbangentleman-wallet-images/Tan-Leather-UrbanGentleman-Wallet.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Tan Leather UrbanGentleman Wallet",
+    "price": "Rs.1799\n\n2199",
+    "brand": "BUY 1 GET 1 FREE"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/bags-and-sleeves/dailyobjects/card-wallet/dailyobjects-black-leather-flip-top-card-wallet-images/DailyObjects-Black-Leather-Flip-Top-Card-Wallet-Main-Image-updated.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Black Real Leather Flip Top Card Wallet",
+    "price": "Rs.999\n\n1299",
+    "brand": "BUY 1 GET 1 FREE"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/bags-and-sleeves/dailyobjects/zip-wallet/dailyobjects-black-vegan-leather-zip-wallet-images/DailyObjects-Black-Vegan-Leather-Zip-Wallet.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Black Vegan Leather Zip Wallet",
+    "price": "Rs.1499\n\n2199",
+    "brand": "BUY 1 GET 1 FREE"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/bags-and-sleeves/dailyobjects/card-wallet/dailyobjects-tan-leather-flip-top-card-wallet-images/DailyObjects-Tan-Leather-Flip-Top-Card-Wallet-main-image.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Tan Real Leather Flip Top Card Wallet",
+    "price": "Rs.999\n\n1299",
+    "brand": "BUY 1 GET 1 FREE"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/bags-and-sleeves/dailyobjects/zip-wallet/dailyobjects-burgundy-vegan-leather-zip-wallet-images/DailyObjects-Burgundy-Vegan-Leather-Zip-Wallet.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Burgundy Vegan Leather Zip Wallet",
+    "price": "Rs.1499\n\n2199",
+    "brand": "BUY 1 GET 1 FREE"
+  }
+],
+
+
+"messengerBags":
+   [
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1202/ivory-olive-commute-messenger-medium-images/Ivory-Olive-Commute-Messenger-Small-vw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Ivory - Olive Commute Messenger Medium",
+    "price": "Rs.3999\n\n5499",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1202/all-clove-commute-messenger-medium-images/All-Clove-Commute-Messenger-Small-Vw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "All Clove Commute Messenger Medium",
+    "price": "Rs.3999\n\n5499",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1202/ivory-clove-commute-messenger-large-images/Ivory-Clove-Commute-Messenger-Large-vw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Ivory - Clove Commute Messenger Large",
+    "price": "Rs.4399\n\n6499",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1202/walnut-brown-urban-classic-briefcase-bag-images/Walnut-Brown-Urban-Classic-Briefcase-Bag-vw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Walnut Brown Urban Classic Briefcase Bag",
+    "price": "Rs.4999\n\n5999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1202/khaki-beige-city-compact-messenger-bag-images/Khaki-Beige-City-Compact-Messenger-Bag.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Khaki Beige City Compact Fleet Messenger Bag",
+    "price": "Rs.3499\n\n4999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1202/ivory-navy-commute-messenger-medium-images/Ivory-Navy-Commute-Messenger-Medium.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Ivory - Navy Commute Messenger Medium",
+    "price": "Rs.3999\n\n5499",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1202/terracotta-red-bask-messenger-bag-images/Terracotta-Red-Bask-Messenger-Bag.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Terracotta Red Bask Messenger Bag",
+    "price": "Rs.3499\n\n4999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1202/space-blue-bask-messenger-bag-images/Space-Blue-Bask-Messenger-Bag.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Space Blue Bask Messenger Bag",
+    "price": "Rs.3499\n\n4999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1202/space-urban-classic-briefcase-bag-images/Space-Blue-Urban-Classic-Briefcase-Bag-vw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Space Blue Urban Classic Briefcase Bag",
+    "price": "Rs.4999\n\n5999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1202/midnight-blue-city-compact-messenger-bag-images/Midnight-Blue-City-Compact-Messenger-Bag.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Midnight Blue City Compact Fleet Messenger Bag",
+    "price": "Rs.3499\n\n4999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1202/mustard-yellow-city-compact-messenger-bag-images/Mustard-Yellow-City-Compact-Messenger-Bag.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Mustard Yellow City Compact Fleet Messenger Bag",
+    "price": "Rs.2999\n\n4999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1202/crimson-red-city-compact-messenger-bag-images/Crimson-Red-City-Compact-Messenger-Bag.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Crimson Red City Compact Fleet Messenger Bag",
+    "price": "Rs.2999\n\n4999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1202/walnut-brown-bask-messenger-bag-images/Walnut-Brown-Bask-Messenger-Bag.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Walnut Brown Bask Messenger Bag",
+    "price": "Rs.3499\n\n4999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1202/olive-green-city-compact-messenger-bag-images/Olive-Green-City-Compact-Messenger-Bag.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Olive Green City Compact Fleet Messenger Bag",
+    "price": "Rs.3499\n\n4999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1202/black-urban-classic-briefcase-bag-images/Black-Urban-Classic-Briefcase-Bag-vw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Black Urban Classic Briefcase Bag",
+    "price": "Rs.4999\n\n5999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1202/clove-city-compact-messenger-bag-images/Clove-City-Compact-Fleet-Messenger-Bag.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Clove City Compact Fleet Messenger Bag",
+    "price": "Rs.3499\n\n4999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1202/all-mustard-commute-messenger-large-images/All-Mustard-Commute-Messenger-Large.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "All Mustard Commute Messenger Large",
+    "price": "Rs.4399\n\n6499",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1202/all-mustard-commute-messenger-medium-images/All-Mustard-Commute-Messenger-Medium.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "All Mustard Commute Messenger Medium",
+    "price": "Rs.3999\n\n5499",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1202/ivory-navy-commute-messenger-large-images/Ivory-Navy-Commute-Messenger-Large.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Ivory - Navy Commute Messenger Large",
+    "price": "Rs.4399\n\n6499",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1202/ivory-olive-commute-messenger-large-images/Ivory-Olive-Commute-Messenger-Large-vw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Ivory - Olive Commute Messenger Large",
+    "price": "Rs.4399\n\n6499",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  }
+],
+        
+"DUFFLEBAGS":
+   [
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1205/all-clove-trail-weekender-images/All-Clove-Trail-Weekender-p.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "All Clove Trail Weekender",
+    "price": "Rs.3999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1205/natural-white-clove-trail-weekender-images/Natural-White-Clove-Trail-Weekender-p.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Ivory - Clove Trail Weekender",
+    "price": "Rs.3999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1205/all-mustard-trail-weekender-images/All-Mustard-Trail-Weekender.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "All Mustard Trail Weekender",
+    "price": "Rs.3999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1205/all-navy-trail-weekender-images/All-Navy-Trail-Weekender.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "All Navy Trail Weekender",
+    "price": "Rs.3999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1205/natural-white-navy-trail-weekender-images/Natural-White-Navy-Trail-Weekender.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Ivory - Navy Trail Weekender",
+    "price": "Rs.3999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1205/natural-white-mustard-trail-weekender-images/Natural-White-Mustard-Trail-Weekender.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Ivory - Mustard Trail Weekender",
+    "price": "Rs.3999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1205/natural-white-olive-trail-weekender-images/Natural-White-Olive-Trail-Weekender.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Ivory - Olive Trail Weekender",
+    "price": "Rs.3999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1205/dailyobjects-midnight-blue-swing-duffle-bag-images/DailyObjects-Blue-Swing-Duffle-Bag.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Midnight Blue Swing Duffle Bag",
+    "price": "Rs.2999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1205/dailyobjects-olive-green-swing-duffle-bag-images/DailyObjects-Green-Swing-Duffle-Bag.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Olive Green Swing Duffle Bag",
+    "price": "Rs.2999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1205/dailyobjects-crimson-red-swing-duffle-bag-images/DailyObjects-Red-Swing-Duffle-Bag.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Crimson Red Swing Duffle Bag",
+    "price": "Rs.2999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1205/dailyobjects-khaki-beige-swing-duffle-bag-images/DailyObjects-Beige-Swing-Duffle-Bag.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Khaki Beige Swing Duffle Bag",
+    "price": "Rs.2999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1205/dailyobjects-yellow-swing-duffle-bag-images/DailyObjects-Yellow-Swing-Duffle-Bag.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Mustard Yellow Swing Duffle Bag",
+    "price": "Rs.2999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  }
+],
+
+
+"DESK":
+   [
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1702/bearcub-pen-stand-images/Bearcub-Pen-Stand.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Bearcub Pen Stand",
+    "price": "Rs.999\n\n1499",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1702/ellie-table-mat-images/Ellie-Table-Mat-vw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Ellie Table Mat",
+    "price": "Rs.2499\n\n3499",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1702/racoon-tray-images/Racoon-Tray.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Racoon Tray",
+    "price": "Rs.1299\n\n1999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1702/valet-vegan-leather-tray-tan-images/Crate-Vegan-Leather-Tray-Tan.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Valet Vegan Leather Tray (Tan)",
+    "price": "Rs.699\n\n1999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1702/mesa-monitor-stand-red-images/Mesa-Monitor-Stands-Red.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Mesa Monitor Stand - (Red)",
+    "price": "Rs.4999\n\n5999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1702/desk-trio-bundle-limited-edition-images/Desk-Trio-Bundle.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Desk Trio Bundle - Limited Edition",
+    "price": "Rs.2499\n\n5999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1702/turf-vegan-leather-desk-mat-tan-images/Turf-Vegan-Leather-Desk-Mat-Tan.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Turf Vegan Leather Desk Mat (Tan)",
+    "price": "Rs.1299\n\n2499",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1702/mesa-monitor-stand-blue-images/Mesa-Monitor-Stands-Blue.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Mesa Monitor Stand - (Blue)",
+    "price": "Rs.4999\n\n5999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1702/morph-foldable-deskmat-with-laptop-stand-images/Morph-Desk-Mat.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Morph Foldable Deskmat with Laptop Stand",
+    "price": "Rs.1999\n\n2999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1702/orb-vegan-leather-mouse-pad-black-images/Orb-Vegan-Leather-Mouse-Pad-black.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Orb Vegan Leather Mouse Pad (Black)",
+    "price": "Rs.399\n\n999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1702/cirque-phone-and-pen-stand-blue-images/Cirque-Phone-and-Pen-Stand-Blue-v.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Cirque Phone and Pen Stand - (Blue)",
+    "price": "Rs.2799\n\n2999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1702/mount-adjustable-phone-stand-green-images/Mount-Adjustable-Phone-Stand-Green-v.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Mount Adjustable Phone Stand - (Green)",
+    "price": "Rs.2199\n\n2499",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1702/arete-laptop-stand-ivory-images/Arete-Laptop-Stand-Ivory-v.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Arete Laptop Stand - (Ivory)",
+    "price": "Rs.2499\n\n2999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1702/turf-2-0-felt-desk-mat-mouse-pad-green-images/Turf-Felt-Desk-Mat-Green.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Turf 2.0 Felt Desk Mat and Mouse Pad - (Green)",
+    "price": "Rs.1499\n\n2999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1702/brown-navy-shift-desk-mat-images/Brown-Navy-SHIFT-Desk-Mat.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Brown-Navy SHIFT Desk Mat",
+    "price": "Rs.999\n\n1999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1702/cirque-phone-and-pen-stand-red-images/Cirque-Phone-and-Pen-Stand-Red-v.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Cirque Phone and Pen Stand - (Red)",
+    "price": "Rs.2799\n\n2999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1702/mount-adjustable-phone-stand-blue-images/Mount-Adjustable-Phone-Stand-Blue-v.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Mount Adjustable Phone Stand - (Blue)",
+    "price": "Rs.2199\n\n2499",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1702/arete-laptop-stand-blue-images/Arete-Laptop-Stand-Blue-v.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Arete Laptop Stand - (Blue)",
+    "price": "Rs.2499\n\n2999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1702/arete-laptop-stand-green-images/Arete-Laptop-Stand-Green-v.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Arete Laptop Stand - (Green)",
+    "price": "Rs.2499\n\n2999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  },
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1702/felt-desk-trio-bundle-limited-edition-images/Felt-Desk-Trio-Bundle-Limited-Edition.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Felt Desk Trio Bundle - Limited Edition",
+    "price": "Rs.1499\n\n5999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  }
+]
+            
 }

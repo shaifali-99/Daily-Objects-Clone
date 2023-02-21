@@ -2,6 +2,9 @@ import React from 'react'
 
 export default function Home() {
   return (
-    <div>Gaurav </div>
+    <div>
+    <h1>Gaurav </h1>
+    
+     </div>
   )
 }

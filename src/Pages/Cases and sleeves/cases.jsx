@@ -40,7 +40,7 @@ function Cases() {
           </Link>
         </div>
         <div className="navLinksToFurther">
-          <Link>
+          <Link to={"/cases/laptopcovers"}>
             <img
               src="https://images.dailyobjects.com/marche/icons/category/cases-sleeves-intermediate-image.jpg?tr=cm-pad_crop,v-2,w-160,h-160,dpr-2,q-60"
               alt=""

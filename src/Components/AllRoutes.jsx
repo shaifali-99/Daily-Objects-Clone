@@ -1,5 +1,8 @@
 import React from 'react'
 import { Route, Routes } from 'react-router-dom'
+import Cases from '../Pages/Cases and sleeves/cases'
+import Home from '../Pages/Home/Home'
+import PhoneCovers from './Cases and covers/GroupSingle/PhoneCovers'
 import Cases from '../Pages/Cases and sleeves/Cases'
 // import Cases from '../Pages/Cases and sleeves/Cases'
 import Home from '../Pages/Home/Home'
@@ -23,6 +26,8 @@ export default function AllRoutes() {
         <Routes>
             <Route path='/' element={<Home/>}/>
             <Route path='/cases' element={<Cases/>}/>
+            <Route path='/cases/phonecovers' element={<PhoneCovers/>}/>
+            {/* <Route path='/rewards' element={<Rewards/>}/> */}
             <Route path='/cases/phonecovers' element={<FilterMobiles/>}/>
             <Route path='/cases/phonecovers/apple' element={<PhoneCovers/>}/>
             <Route path='/cases/phonecovers/samsung' element={<SamsumgCover/>}/>

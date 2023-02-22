@@ -10,9 +10,9 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <ChakraProvider>
     <BrowserRouter>
-    <ProSidebarProvider>
+    {/* <ProSidebarProvider> */}
       <App />
-    </ProSidebarProvider>
+    {/* </ProSidebarProvider> */}
     </BrowserRouter>
   </ChakraProvider>
 );

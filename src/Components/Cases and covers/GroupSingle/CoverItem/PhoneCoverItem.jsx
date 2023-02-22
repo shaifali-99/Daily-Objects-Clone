@@ -1,12 +1,16 @@
 import { Alert, Button, Heading } from "@chakra-ui/react";
 import axios from "axios";
 import React, { useEffect, useState } from "react";
-import {
-  AlertIcon,
-  AlertTitle,
-  AlertDescription,
-} from '@chakra-ui/react'
-export default function PhoneCoverItem({ title, id, price, image, strike,brand }) {
+import { AlertIcon, AlertTitle, AlertDescription } from "@chakra-ui/react";
+import Navbar from "../../../Navbar";
+export default function PhoneCoverItem({
+  title,
+  id,
+  price,
+  image,
+  strike,
+  brand,
+}) {
   const [isThere, setisThere] = useState([]);
   const postItem = async (id) => {
     let result1 = await axios.get(`http://localhost:8080/${brand}/${id}`);
@@ -17,36 +21,40 @@ export default function PhoneCoverItem({ title, id, price, image, strike,brand }
     );
     // return axios.post
   };
-  const handleClick = (id,text) => {
+  const handleClick = (id, text) => {
     // addTowishList();
-    
+
     setisThere([...isThere, id]);
     postItem(id);
-alert(`${text} has been added to your wishlist`)
+    alert(`${text} has been added to your wishlist`);
   };
 
   return (
-    <div style={{ textAlign: "start" }}>
-      <div style={{ backgroundColor: "rgb(247,247,247)" }}>
-        <img src={image} alt="" />
-        <Button
-          isDisabled={isThere.includes(id)}
-          size={"lg"}
-          onClick={() => handleClick(id,title)}
-        >
-          {isThere.includes(id) ? `Added To The list` : `❤️Add To Wishlist`}
-        </Button>
+    <div>
+    
+
+      <div style={{ textAlign: "start" }}>
+        <div style={{ backgroundColor: "rgb(247,247,247)" }}>
+          <img src={image} alt="" />
+          <Button
+            isDisabled={isThere.includes(id)}
+            size={"lg"}
+            onClick={() => handleClick(id, title)}
+          >
+            {isThere.includes(id) ? `Added To The list` : `❤️Add To Wishlist`}
+          </Button>
+        </div>
+        <br />
+        <Heading as={"h4"} size={"xs"}>
+          {title}
+        </Heading>
+        <h1>
+          {price} <del>{strike}</del>{" "}
+        </h1>
+        <Heading size={"xs"} color="red">
+          BUY 1 GET 1 FREE
+        </Heading>
       </div>
-      <br />
-      <Heading as={"h4"} size={"xs"}>
-        {title}
-      </Heading>
-      <h1>
-        {price} <del>{strike}</del>{" "}
-      </h1>
-      <Heading size={"xs"} color="red">
-        BUY 1 GET 1 FREE
-      </Heading>
     </div>
   );
 }

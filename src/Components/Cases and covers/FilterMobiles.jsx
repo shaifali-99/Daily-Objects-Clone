@@ -3,10 +3,12 @@ import React from "react";
 import { Link } from "react-router-dom";
 import { Link as cLink } from "@chakra-ui/react";
 import ImageEveryPage from "./ImageEveryPage";
+import Navbar from "../Navbar";
 
 export default function FilterMobiles() {
   return (
     <div>
+    <Navbar/>
       <div>
         <ImageEveryPage name={`Select Brand`} />
       </div>

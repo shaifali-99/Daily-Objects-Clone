@@ -24,11 +24,11 @@ export default function LaptopCoverNavbar() {
           <img
             src="https://images.dailyobjects.com/marche/icons/new-arrival/all.png?tr=cm-pad_resize,v-2,w-70,h-70,dpr-2,q-60"
             alt=""
-            style={{ borderRadius: "50%", width: "100", margin: "auto" }}
+            style={{ borderRadius: "50%", width: "60px", margin: "auto" }}
           />
           <br />
           {/* <h1>SDDD</h1> */}
-          <h1>All &emsp</h1>
+          <h1>All </h1>
         </Link>
         <Link to={"/cases/laptopcovers/zipped"}>
           <img

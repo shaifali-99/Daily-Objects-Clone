@@ -1157,7 +1157,6 @@
       "brand": "BUY 1 GET 1 FREE"
     }
   ],
-<<<<<<< HEAD
   "messengerBags": [
     {
       "image": "https://images.dailyobjects.com/marche/product-images/1202/ivory-olive-commute-messenger-medium-images/Ivory-Olive-Commute-Messenger-Small-vw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
@@ -1280,9 +1279,7 @@
       "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
     }
   ],
-=======
 
->>>>>>> cf933607f42aa5072647d1a06019a3f3e7220527
   "DUFFLEBAGS": [
     {
       "image": "https://images.dailyobjects.com/marche/product-images/1205/all-clove-trail-weekender-images/All-Clove-Trail-Weekender-p.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
@@ -1522,8 +1519,7 @@
       "password": "test123456",
       "id": 7
     }
-  ]
-}
+  ],
   "WishlistiphoneCovers": [
     {
       "href": "https://www.dailyobjects.com/dailyobjects-dual-holo-satin-glass-case-cover-for-xiaomi-mi-11i/dp?f=pid~GLAS-DUAL-HOLO-SATI-DOB-XI-MI11I&amp;s=referer~lp",
@@ -11667,4 +11663,3 @@
   ],
   "existingWishlist": []
 }
->>>>>>> cf933607f42aa5072647d1a06019a3f3e7220527

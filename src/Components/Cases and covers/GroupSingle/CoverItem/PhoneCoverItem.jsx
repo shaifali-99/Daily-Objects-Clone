@@ -6,7 +6,7 @@ import {
   AlertTitle,
   AlertDescription,
 } from '@chakra-ui/react'
-export default function PhoneCoverItem({ text, id, price, src, strike,brand }) {
+export default function PhoneCoverItem({ title, id, price, image, strike,brand }) {
   const [isThere, setisThere] = useState([]);
   const postItem = async (id) => {
     let result1 = await axios.get(`http://localhost:8080/${brand}/${id}`);
@@ -28,18 +28,18 @@ alert(`${text} has been added to your wishlist`)
   return (
     <div style={{ textAlign: "start" }}>
       <div style={{ backgroundColor: "rgb(247,247,247)" }}>
-        <img src={src} alt="" />
+        <img src={image} alt="" />
         <Button
           isDisabled={isThere.includes(id)}
           size={"lg"}
-          onClick={() => handleClick(id,text)}
+          onClick={() => handleClick(id,title)}
         >
           {isThere.includes(id) ? `Added To The list` : `❤️Add To Wishlist`}
         </Button>
       </div>
       <br />
       <Heading as={"h4"} size={"xs"}>
-        {text}
+        {title}
       </Heading>
       <h1>
         {price} <del>{strike}</del>{" "}

@@ -2,11 +2,10 @@ import { Button, Heading } from "@chakra-ui/react";
 import axios from "axios";
 import React, { useEffect, useState } from "react";
 
-export default function PhoneCoverItem({ text, id, price, src, strike }) {
-  const [existed, setExisted] = useState([]);
+export default function PhoneCoverItem({ text, id, price, src, strike,brand }) {
   const [isThere, setisThere] = useState([]);
   const postItem = async (id) => {
-    let result1 = await axios.get(`http://localhost:8080/iphoneCovers/${id}`);
+    let result1 = await axios.get(`http://localhost:8080/${brand}/${id}`);
     const newObj = result1.data;
     let result2 = await axios.post(
       ` http://localhost:8080/WishlistiphoneCovers`,

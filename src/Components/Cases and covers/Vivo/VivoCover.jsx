@@ -1,12 +1,16 @@
+
+
 import axios from "axios";
 import React, { useEffect, useState } from "react";
+// import PhoneCoverItem from "../CoverItem/PhoneCoverItem";
+// import ImageEveryPage from "../../ImageEveryPage";
 import PhoneCoverItem from "../GroupSingle/CoverItem/PhoneCoverItem";
 import ImageEveryPage from "../ImageEveryPage";
 
 const getCovers = () => {
-  return axios(`  http://localhost:8080/oneplusCovers`);
+  return axios(`http://localhost:8080/vivoCovers`);
 };
-export default function OneplusCover() {
+export default function VivoCover() {
   const [phoneCover, setPhoneCovers] = useState([]);
   useEffect(() => {
     getCovers().then((res) => setPhoneCovers(res.data));
@@ -27,7 +31,7 @@ export default function OneplusCover() {
         }}
       >
         {phoneCover?.map((el) => (
-          <PhoneCoverItem key={el.id} brand={`oneplusCovers`} {...el} />
+          <PhoneCoverItem key={el.id} brand={`vivoCovers`} {...el} />
         ))}
       </div>
     </div>

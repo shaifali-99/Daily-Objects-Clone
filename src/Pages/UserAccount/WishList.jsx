@@ -9,7 +9,7 @@ export const Wishlist =()=>{
     const [wishlistData,setWishlistData] = useState([]);
     const [change,setChange]=useState(false)
     useEffect(()=>{
-        axios.get('http://localhost:8080/Wishlist')
+        axios.get('http://localhost:8080/WishlistiphoneCovers')
         .then((res)=>{
             console.log(res)
             setWishlistData(res.data)

@@ -29,7 +29,7 @@ export const Wishlist =()=>{
                 {wishlistData.map((e)=>{
                     // let id=e.id;
                     const handleDeleteFromWishList = () =>{
-                        axios.delete(`http://localhost:8080/Wishlist/${e.id}`)
+                        axios.delete(`http://localhost:8080/WishlistiphoneCovers/${e.id}`)
                         .then((res)=>{console.log(res)})
                         .catch((err)=>{console.log(err)});
                         setChange((prev)=>!prev)

@@ -1,27 +1,4 @@
 import React, { useState } from 'react';
-// import {
-//   IconButton,
-//   Box,
-//   CloseButton,
-//   Flex,
-//   Icon,
-//   useColorModeValue,
-//   Link,
-//   Drawer,
-//   DrawerContent,
-//   useDisclosure,
-//   HStack,
-//   Heading,
-// } from '@chakra-ui/react';
-// import {
-//   FiHome,
-//   FiTrendingUp,
-//   FiCompass,
-//   FiStar,
-//   FiSettings,
-//   FiMenu,
-// } from 'react-icons/fi';
-// import { Divider } from '@chakra-ui/react';
 import { SlLogin ,SlArrowRight} from "react-icons/sl";
 import { BiUser } from "react-icons/bi";
 import { BsCartCheck, BsHeart, BsGift} from "react-icons/bs";

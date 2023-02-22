@@ -1,6 +1,6 @@
 import React from 'react'
 import { Route, Routes } from 'react-router-dom'
-import Cases from '../Pages/Cases and sleeves/cases'
+import Cases from '../Pages/Cases and sleeves/Cases'
 
 // import Cases from '../Pages/Cases and sleeves/Cases'
 import Home from '../Pages/Home/Home'

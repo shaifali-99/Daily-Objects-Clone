@@ -3,6 +3,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import Navbar from "../../Components/Navbar";
 import { extendTheme } from "@chakra-ui/react";
+import ImageEveryPage from "../../Components/Cases and covers/ImageEveryPage";
 
 
 const navLinks = {
@@ -12,23 +13,7 @@ function Cases() {
   return (
     <div >
       <Navbar />
-      <div className="imageTop">
-        <img
-          src="https://images.dailyobjects.com/marche/assets/images/other/key-valentines-offer-banners-homepage-desktop.jpg?tr=cm-pad_crop,v-2,dpr-2,q-60"
-          alt=""
-        />
-        <div className="imageDown">
-          <br />
-          <br />
-          <Heading as="h6" size={"lg"}>
-            CASES & SLEEVES
-          </Heading>
-          <br />
-          <br />
-          <br />
-        </div>
-        <hr />
-      </div>
+<ImageEveryPage name={`CASES & SLEEVES`}/>
       <div
         style={{
           display: "grid",

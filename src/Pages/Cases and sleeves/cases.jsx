@@ -8,8 +8,8 @@ import ImageEveryPage from "../../Components/Cases and covers/ImageEveryPage";
 
 
 // import Navbar from "../../components/Navbar";
-import ImageEveryPage from "../../Components/Cases and covers/ImageEveryPage";
-import Navbar from "../../Components/Navbar";
+// import ImageEveryPage from "../../Components/Cases and covers/ImageEveryPage";
+// import Navbar from "../../Components/Navbar";
 
 const navLinks = {
   borderRadius: "20%",

@@ -1,7 +1,8 @@
 import { Heading } from "@chakra-ui/react";
 import React from "react";
 import { Link } from "react-router-dom";
-import { extendTheme } from "@chakra-ui/react";
+
+// import Navbar from "../../components/Navbar";
 import ImageEveryPage from "../../Components/Cases and covers/ImageEveryPage";
 import Navbar from "../../Components/Navbar";
 

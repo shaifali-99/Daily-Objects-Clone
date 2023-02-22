@@ -1157,7 +1157,6 @@
       "brand": "BUY 1 GET 1 FREE"
     }
   ],
-
   "DUFFLEBAGS": [
     {
       "image": "https://images.dailyobjects.com/marche/product-images/1205/all-clove-trail-weekender-images/All-Clove-Trail-Weekender-p.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
@@ -1352,6 +1351,50 @@
       "title": "Felt Desk Trio Bundle - Limited Edition",
       "price": "Rs.1499\n\n5999",
       "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+    }
+  ],
+  "users": [
+    {
+      "name": "test1",
+      "email": "test1@gmail.com",
+      "password": "test1@123",
+      "id": 1
+    },
+    {
+      "name": "test2",
+      "email": "test2@gmail.com",
+      "password": "test1@123",
+      "id": 2
+    },
+    {
+      "name": "Shaifali",
+      "email": "shaifali@gmail.com",
+      "password": "shaifali@123",
+      "id": 3
+    },
+    {
+      "name": "Dummy",
+      "email": "dummy@gmail.com",
+      "password": "123456",
+      "id": 4
+    },
+    {
+      "name": "test3",
+      "email": "test3@gmail.com",
+      "password": "12345",
+      "id": 5
+    },
+    {
+      "name": "Gaurav ",
+      "email": "gaurav@gmail.com",
+      "password": "12345",
+      "id": 6
+    },
+    {
+      "name": "test4",
+      "email": "test4@gmail.com",
+      "password": "test123456",
+      "id": 7
     }
   ],
   "WishlistiphoneCovers": [

@@ -1377,8 +1377,7 @@
 ],
 
 
-"DESK":
-   [
+"DESK":[
   {
     "image": "https://images.dailyobjects.com/marche/product-images/1702/bearcub-pen-stand-images/Bearcub-Pen-Stand.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
     "title": "Bearcub Pen Stand",
@@ -1497,6 +1496,15 @@
     "image": "https://images.dailyobjects.com/marche/product-images/1702/felt-desk-trio-bundle-limited-edition-images/Felt-Desk-Trio-Bundle-Limited-Edition.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
     "title": "Felt Desk Trio Bundle - Limited Edition",
     "price": "Rs.1499\n\n5999",
+    "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+  }
+],
+
+"Wishlist":[
+  {
+    "image": "https://images.dailyobjects.com/marche/product-images/1702/bearcub-pen-stand-images/Bearcub-Pen-Stand.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+    "title": "Bearcub Pen Stand",
+    "price": "Rs.999-1499",
     "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
   }
 ]

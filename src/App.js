@@ -1,14 +1,13 @@
-import logo from './logo.svg';
 import './App.css';
+import { Login } from './Pages/UserAccount/Login';
+import { Wishlist } from './Pages/UserAccount/WishList';
 
 function App() {
   return (
     <div className="App">
-<<<<<<< HEAD
-     
-=======
       <h1>Hello</h1>
->>>>>>> e6c22b33f42ec4909b255090bbdaea1e614b6a0a
+      <Login/>
+      <Wishlist/>
     </div>
   );
 }

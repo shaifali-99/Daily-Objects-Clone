@@ -1,7 +1,11 @@
-import { Button, Heading } from "@chakra-ui/react";
+import { Alert, Button, Heading } from "@chakra-ui/react";
 import axios from "axios";
 import React, { useEffect, useState } from "react";
-
+import {
+  AlertIcon,
+  AlertTitle,
+  AlertDescription,
+} from '@chakra-ui/react'
 export default function PhoneCoverItem({ text, id, price, src, strike,brand }) {
   const [isThere, setisThere] = useState([]);
   const postItem = async (id) => {
@@ -13,11 +17,12 @@ export default function PhoneCoverItem({ text, id, price, src, strike,brand }) {
     );
     // return axios.post
   };
-  const handleClick = (id) => {
+  const handleClick = (id,text) => {
     // addTowishList();
+    
     setisThere([...isThere, id]);
     postItem(id);
-    console.log(id);
+alert(`${text} has been added to your wishlist`)
   };
 
   return (
@@ -27,7 +32,7 @@ export default function PhoneCoverItem({ text, id, price, src, strike,brand }) {
         <Button
           isDisabled={isThere.includes(id)}
           size={"lg"}
-          onClick={() => handleClick(id)}
+          onClick={() => handleClick(id,text)}
         >
           {isThere.includes(id) ? `Added To The list` : `❤️Add To Wishlist`}
         </Button>

@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  font-family: "Trade Gothic LT Pro", sans-serif;
 }
 
 .App-logo {
@@ -35,4 +36,61 @@
   to {
     transform: rotate(360deg);
   }
+}
+.wishlistProduct{
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+  justify-content: space-evenly;
+  gap: 3rem;
+  align-items: center;
+}
+.container{
+  width: 100%;
+  display: flex;
+  gap: 5rem;
+  /* border: 1px solid; */
+  justify-content: space-between;
+}
+.sidebar{
+  /* width: 20%; */
+  transition:all 0.5s ;
+  /* position: absolute; */
+  padding: 1rem;
+  /* background-color: lightblue; */
+  border: 1px solid lightgray;
+}
+.top_section{
+display: flex;
+align-items: center;
+}
+.bars{
+  display: flex;
+  font-size: 22px;
+  margin: 1.5rem;
+  gap: 10px;
+  /* flex-direction: row; */
+  /* border: 1px solid; */
+  align-items: center;
+}
+.link{
+  display: flex;
+  /* border: 1px solid; */
+  margin: 1rem;
+  /* padding: 1rem; */
+  padding: 10px 15px;
+  gap: 10px;
+  border-radius: 10px;
+  transition:all 0.5s ;
+  justify-content: space-between;
+}
+.link:hover{
+  transition:all 0.5s ;
+  background: rgb(243, 241, 241);
+  border-radius: 10px;
+}
+.active{
+  background: rgb(243, 241, 241);
+}
+.icon,.link_text,.arrow{
+  font-size: 17px;
 }

@@ -22,6 +22,7 @@ import NewArrivalComp from './NewArrivalComp/NewArrivalComp'
 import NewArrivalsPage from '../Pages/NewArrivalsPage.jsx/NewArrivalsPage'
 
 export default function AllRoutes() {
+  console.log("dbdf")
   return (
     <div>
         <Routes>

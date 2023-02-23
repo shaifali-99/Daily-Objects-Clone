@@ -1,5 +1,5 @@
 import './App.css';
-import AllRoutes from './components/AllRoutes';
+import AllRoutes from './Components/AllRoutes';
 import { AccountPage } from './Pages/UserAccount/AccountPage';
 
 function App() {

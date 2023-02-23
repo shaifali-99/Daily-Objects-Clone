@@ -1,0 +1,137 @@
+#icons {
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 12px;
+    padding: 40px;
+    border-bottom: 1px solid rgb(209, 209, 209);
+  }
+  
+  .socials {
+    padding: 30px;
+    text-decoration: none;
+  }
+  
+  .socials > .leftSocials {
+    display: flex;
+    color: black;
+    line-height: 2.5rem;
+    float: left;
+    gap: 180px;
+    padding: 30px;
+    border-right: 1px solid rgb(209, 209, 209);
+  }
+  
+  .leftSocials > div > ul > a,
+  .bottomTabs_list > div > ul > a,
+  .bottomTabs2 > .bottomTabs2_list > a,
+  .bottomTabs3 > .bottomTabs3_list > div > ul > a,
+  .bottomTabs4 > .bottomTabs4_list > a  {
+      color: black;
+  }
+  .rightSocials {
+    padding: 10px;
+    justify-items: flex-end;
+  }
+  .rightSocials > .rightSocials_img {
+    display: flex;
+    justify-content: center;
+    border-bottom: 1px solid rgb(209, 209, 209);
+    margin-top: 10px;
+    margin-left: 880px;
+    gap: 20px;
+    padding: 20px;
+  }
+  .rightSocials_bottom {
+    padding: 20px;
+    border-bottom: 1px solid rgb(209, 209, 209);
+  }
+  
+  .rightSocials_bottom_img {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+  }
+  
+  .payements_img {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    border-bottom: 1px solid rgb(209, 209, 209);
+    padding: 20px;
+  }
+  
+  .Reviews {
+    border-bottom: 1px solid rgb(209, 209, 209);
+    padding: 20px;
+  }
+  
+  .bottomTabs1 {
+    display: flex;
+    text-decoration: none;
+    color: black;
+  }
+  
+  .bottomTabs1 > .bottomTabs_list {
+    display: flex;
+    line-height: 2rem;
+    font-size: 12px;
+    gap: 60px;
+    padding: 20px;
+  }
+  .bottomTabs2 > div > h4 {
+    float: left;
+    margin-left: 60px;
+  }
+  
+  .bottomTabs2 > .bottomTabs2_list {
+    display: flex;
+    line-height: 2rem;
+    font-size: 12px;
+    padding: 20px;
+    justify-content: space-evenly;
+  }
+  
+  .bottomTabs3 > div > h4 {
+    float: left;
+    margin-left: 60px;
+  }
+  
+  .bottomTabs3 > .bottomTabs3_list {
+    display: flex;
+    line-height: 2rem;
+    font-size: 12px;
+    padding: 20px;
+    justify-content: space-evenly;
+  }
+  
+  .bottomTabs4 {
+    border-bottom: 1px solid rgb(209, 209, 209);
+  }
+  
+  .bottomTabs4 > div > h4 {
+    float: left;
+    margin-left: 60px;
+  }
+  
+  .bottomTabs4 > .bottomTabs4_list {
+    display: flex;
+    line-height: 2rem;
+    font-size: 12px;
+    padding: 20px;
+    justify-content: space-evenly;
+  }
+  
+  .bottomTabs1_list,
+  .bottomTabs2_list,
+  .bottomTabs3_list,
+  .bottomTabs4_list {
+    align-items: right;
+  }
+  
+  footer {
+      background: #111;
+      padding: 25px;
+      font-size: 13px;
+      color: #fff;
+      text-align: left;
+  }

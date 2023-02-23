@@ -3,6 +3,7 @@ import axios from "axios";
 import React, { useEffect, useState } from "react";
 import PhoneCoverItem from "../CoverItem/PhoneCoverItem";
 import ImageEveryPage from "../../ImageEveryPage";
+import Navbar from "../../../Navbar";
 // import PhoneCoverItem from "./CoverItem/PhoneCoverItem";
 const getCovers = () => {
   return axios(`http://localhost:8080/iphoneCovers`);
@@ -15,6 +16,7 @@ export default function PhoneCovers() {
 
   return (
     <div>
+    <Navbar/>
       <div>
         <ImageEveryPage name={`PHONE COVERS`} />
       </div>

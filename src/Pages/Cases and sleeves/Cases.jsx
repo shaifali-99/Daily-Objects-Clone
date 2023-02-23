@@ -6,13 +6,18 @@ import { extendTheme } from "@chakra-ui/react";
 import ImageEveryPage from "../../Components/Cases and covers/ImageEveryPage";
 
 
+// import Navbar from "../../components/Navbar";
+// import ImageEveryPage from "../../Components/Cases and covers/ImageEveryPage";
+// import Navbar from "../../Components/Navbar";
+console.log("dgdf")
 const navLinks = {
   borderRadius: "20%",
 };
 function Cases() {
+  // console.log("dbdf")
   return (
     <div >
-      <Navbar />
+      <Navbar/>
 <ImageEveryPage name={`CASES & SLEEVES`}/>
       <div
         style={{

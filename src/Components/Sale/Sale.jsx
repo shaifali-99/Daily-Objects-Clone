@@ -1,15 +1,18 @@
+
+
 import axios from "axios";
 import React, { useEffect, useState } from "react";
-import Navbar from "../../Navbar";
-// import PhoneCoverItem from "../CoverItem/PhoneCoverItem";
-// import ImageEveryPage from "../../ImageEveryPage";
-import PhoneCoverItem from "../GroupSingle/CoverItem/PhoneCoverItem";
-import ImageEveryPage from "../ImageEveryPage";
+import ImageEveryPage from "../Cases and covers/ImageEveryPage";
+
+// import ImageEveryPage from "../ImageEveryPage";
+import Navbar from "../Navbar";
+import Individual from "./Individual";
+import IndividualForSaleI from "./IndividualForSale";
 
 const getCovers = () => {
-  return axios(` http://localhost:8080/samsungCovers`);
+  return axios(`http://localhost:8080/sale`);
 };
-export default function SamsumgCover() {
+export default function Sale() {
   const [phoneCover, setPhoneCovers] = useState([]);
   useEffect(() => {
     getCovers().then((res) => setPhoneCovers(res.data));
@@ -19,7 +22,7 @@ export default function SamsumgCover() {
     <div>
     <Navbar/>
       <div>
-        <ImageEveryPage name={`PHONE COVERS`} />
+        <IndividualForSaleI name={`SALE`} />
       </div>
       <div
         style={{
@@ -31,7 +34,7 @@ export default function SamsumgCover() {
         }}
       >
         {phoneCover?.map((el) => (
-           <PhoneCoverItem key={el.id} brand={`samsungCovers`} {...el}/>
+          <Individual key={el.id} brand={`sale`} {...el} />
         ))}
       </div>
     </div>

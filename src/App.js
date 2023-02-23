@@ -1,13 +1,16 @@
+import axios from 'axios';
+import { useEffect, useState } from 'react';
 import './App.css';
 import AllRoutes from './Components/AllRoutes';
 import { AccountPage } from './Pages/UserAccount/AccountPage';
 
 function App() {
+
   return (
     <div className="App">     
       <AllRoutes/>
 
-      {/* <AccountPage/> */}
+     
 
     </div>
   );

@@ -1159,174 +1159,127 @@
   ],
   "messengerBags": [
     {
-      "href": "https://www.dailyobjects.com/all-clove-commute-messenger-medium/dp?f=pid~ALL-CLVE-CMUTE-MSG-MED&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1202/all-clove-commute-messenger-medium-images/All-Clove-Commute-Messenger-Small-Vw.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
-      "title": "All Clove Commute Messenger Medium",
-      "price": "Rs.3999",
-      "strike": "5499",
-      "id": 186
-    },
-    {
-      "href": "https://www.dailyobjects.com/ivory-clove-commute-messenger-large/dp?f=pid~IVORY-CLVE-CMUTE-MSG-LARGE&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1202/ivory-clove-commute-messenger-large-images/Ivory-Clove-Commute-Messenger-Large-vw.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
-      "title": "Ivory - Clove Commute Messenger Large",
-      "price": "Rs.4399",
-      "strike": "6499",
-      "id": 187
-    },
-    {
-      "href": "https://www.dailyobjects.com/ivory-olive-commute-messenger-medium/dp?f=pid~IVORY-OLIV-CMUTE-MSG-MED&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1202/ivory-olive-commute-messenger-medium-images/Ivory-Olive-Commute-Messenger-Small-vw.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "image": "https://images.dailyobjects.com/marche/product-images/1202/ivory-olive-commute-messenger-medium-images/Ivory-Olive-Commute-Messenger-Small-vw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
       "title": "Ivory - Olive Commute Messenger Medium",
-      "price": "Rs.3999",
-      "strike": "5499",
-      "id": 188
+      "price": "Rs.3999\n\n5499",
+      "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
     },
     {
-      "href": "https://www.dailyobjects.com/midnight-blue-city-compact-messenger-bag/dp?f=pid~MIDNYT-BLUE-CIT-CMPT-MSG-BAG&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1202/midnight-blue-city-compact-messenger-bag-images/Midnight-Blue-City-Compact-Messenger-Bag.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
-      "title": "Midnight Blue City Compact Fleet Messenger Bag",
-      "price": "Rs.3499",
-      "strike": "4999",
-      "id": 189
+      "image": "https://images.dailyobjects.com/marche/product-images/1202/all-clove-commute-messenger-medium-images/All-Clove-Commute-Messenger-Small-Vw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+      "title": "All Clove Commute Messenger Medium",
+      "price": "Rs.3999\n\n5499",
+      "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
     },
     {
-      "href": "https://www.dailyobjects.com/ivory-navy-commute-messenger-medium/dp?f=pid~IVORT-NVY-CMUTE-MSG-MED&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1202/ivory-navy-commute-messenger-medium-images/Ivory-Navy-Commute-Messenger-Medium.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
-      "title": "Ivory - Navy Commute Messenger Medium",
-      "price": "Rs.3999",
-      "strike": "5499",
-      "id": 190
+      "image": "https://images.dailyobjects.com/marche/product-images/1202/ivory-clove-commute-messenger-large-images/Ivory-Clove-Commute-Messenger-Large-vw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+      "title": "Ivory - Clove Commute Messenger Large",
+      "price": "Rs.4399\n\n6499",
+      "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
     },
     {
-      "href": "https://www.dailyobjects.com/walnut-brown-urban-classic-briefcase-bag/dp?f=pid~WALNT-BRWN-URBN-CLASIC-BREFCASE-BAG&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1202/walnut-brown-urban-classic-briefcase-bag-images/Walnut-Brown-Urban-Classic-Briefcase-Bag-vw.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "image": "https://images.dailyobjects.com/marche/product-images/1202/walnut-brown-urban-classic-briefcase-bag-images/Walnut-Brown-Urban-Classic-Briefcase-Bag-vw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
       "title": "Walnut Brown Urban Classic Briefcase Bag",
-      "price": "Rs.4999",
-      "strike": "5999",
-      "id": 191
+      "price": "Rs.4999\n\n5999",
+      "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
     },
     {
-      "href": "https://www.dailyobjects.com/space-urban-classic-briefcase-bag/dp?f=pid~SPAC-BLUE-URBN-CLASIC-BREFCASE-BAG&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1202/space-urban-classic-briefcase-bag-images/Space-Blue-Urban-Classic-Briefcase-Bag-vw.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
-      "title": "Space Blue Urban Classic Briefcase Bag",
-      "price": "Rs.4999",
-      "strike": "5999",
-      "id": 192
-    },
-    {
-      "href": "https://www.dailyobjects.com/space-blue-bask-messenger-bag/dp?f=pid~SPAC-BLUE-BSK-MSG-BAG&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1202/space-blue-bask-messenger-bag-images/Space-Blue-Bask-Messenger-Bag.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
-      "title": "Space Blue Bask Messenger Bag",
-      "price": "Rs.3499",
-      "strike": "4999",
-      "id": 193
-    },
-    {
-      "href": "https://www.dailyobjects.com/khaki-beige-city-compact-messenger-bag/dp?f=pid~KHKI-BIGE-CIT-CMPT-MSG-BAG&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1202/khaki-beige-city-compact-messenger-bag-images/Khaki-Beige-City-Compact-Messenger-Bag.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "image": "https://images.dailyobjects.com/marche/product-images/1202/khaki-beige-city-compact-messenger-bag-images/Khaki-Beige-City-Compact-Messenger-Bag.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
       "title": "Khaki Beige City Compact Fleet Messenger Bag",
-      "price": "Rs.3499",
-      "strike": "4999",
-      "id": 194
+      "price": "Rs.3499\n\n4999",
+      "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
     },
     {
-      "href": "https://www.dailyobjects.com/terracotta-red-bask-messenger-bag/dp?f=pid~TRACTA-RED-BSK-MSG-BAG&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1202/terracotta-red-bask-messenger-bag-images/Terracotta-Red-Bask-Messenger-Bag.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "image": "https://images.dailyobjects.com/marche/product-images/1202/ivory-navy-commute-messenger-medium-images/Ivory-Navy-Commute-Messenger-Medium.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+      "title": "Ivory - Navy Commute Messenger Medium",
+      "price": "Rs.3999\n\n5499",
+      "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+    },
+    {
+      "image": "https://images.dailyobjects.com/marche/product-images/1202/terracotta-red-bask-messenger-bag-images/Terracotta-Red-Bask-Messenger-Bag.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
       "title": "Terracotta Red Bask Messenger Bag",
-      "price": "Rs.3499",
-      "strike": "4999",
-      "id": 195
+      "price": "Rs.3499\n\n4999",
+      "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
     },
     {
-      "href": "https://www.dailyobjects.com/mustard-yellow-city-compact-messenger-bag/dp?f=pid~MSTRD-YELW-CIT-CMPT-MSG-BAG&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1202/mustard-yellow-city-compact-messenger-bag-images/Mustard-Yellow-City-Compact-Messenger-Bag.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "image": "https://images.dailyobjects.com/marche/product-images/1202/space-blue-bask-messenger-bag-images/Space-Blue-Bask-Messenger-Bag.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+      "title": "Space Blue Bask Messenger Bag",
+      "price": "Rs.3499\n\n4999",
+      "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+    },
+    {
+      "image": "https://images.dailyobjects.com/marche/product-images/1202/space-urban-classic-briefcase-bag-images/Space-Blue-Urban-Classic-Briefcase-Bag-vw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+      "title": "Space Blue Urban Classic Briefcase Bag",
+      "price": "Rs.4999\n\n5999",
+      "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+    },
+    {
+      "image": "https://images.dailyobjects.com/marche/product-images/1202/midnight-blue-city-compact-messenger-bag-images/Midnight-Blue-City-Compact-Messenger-Bag.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+      "title": "Midnight Blue City Compact Fleet Messenger Bag",
+      "price": "Rs.3499\n\n4999",
+      "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+    },
+    {
+      "image": "https://images.dailyobjects.com/marche/product-images/1202/mustard-yellow-city-compact-messenger-bag-images/Mustard-Yellow-City-Compact-Messenger-Bag.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
       "title": "Mustard Yellow City Compact Fleet Messenger Bag",
-      "price": "Rs.2999",
-      "strike": "4999",
-      "id": 196
+      "price": "Rs.2999\n\n4999",
+      "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
     },
     {
-      "href": "https://www.dailyobjects.com/crimson-red-city-compact-messenger-bag/dp?f=pid~CRMSON-RED-CIT-CMPT-MSG-BAG&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1202/crimson-red-city-compact-messenger-bag-images/Crimson-Red-City-Compact-Messenger-Bag.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "image": "https://images.dailyobjects.com/marche/product-images/1202/crimson-red-city-compact-messenger-bag-images/Crimson-Red-City-Compact-Messenger-Bag.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
       "title": "Crimson Red City Compact Fleet Messenger Bag",
-      "price": "Rs.2999",
-      "strike": "4999",
-      "id": 197
+      "price": "Rs.2999\n\n4999",
+      "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
     },
     {
-      "href": "https://www.dailyobjects.com/walnut-brown-bask-messenger-bag/dp?f=pid~WLNT-BRWN-BSK-MSG-BAG&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1202/walnut-brown-bask-messenger-bag-images/Walnut-Brown-Bask-Messenger-Bag.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "image": "https://images.dailyobjects.com/marche/product-images/1202/walnut-brown-bask-messenger-bag-images/Walnut-Brown-Bask-Messenger-Bag.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
       "title": "Walnut Brown Bask Messenger Bag",
-      "price": "Rs.3499",
-      "strike": "4999",
-      "id": 198
+      "price": "Rs.3499\n\n4999",
+      "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
     },
     {
-      "href": "https://www.dailyobjects.com/olive-green-city-compact-messenger-bag/dp?f=pid~OLIV-GRN-CIT-CMPT-MSG-BAG&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1202/olive-green-city-compact-messenger-bag-images/Olive-Green-City-Compact-Messenger-Bag.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "image": "https://images.dailyobjects.com/marche/product-images/1202/olive-green-city-compact-messenger-bag-images/Olive-Green-City-Compact-Messenger-Bag.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
       "title": "Olive Green City Compact Fleet Messenger Bag",
-      "price": "Rs.3499",
-      "strike": "4999",
-      "id": 199
+      "price": "Rs.3499\n\n4999",
+      "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
     },
     {
-      "href": "https://www.dailyobjects.com/black-urban-classic-briefcase-bag/dp?f=pid~BLK-URBN-CLASIC-BREFCASE-BAG&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1202/black-urban-classic-briefcase-bag-images/Black-Urban-Classic-Briefcase-Bag-vw.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "image": "https://images.dailyobjects.com/marche/product-images/1202/black-urban-classic-briefcase-bag-images/Black-Urban-Classic-Briefcase-Bag-vw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
       "title": "Black Urban Classic Briefcase Bag",
-      "price": "Rs.4999",
-      "strike": "5999",
-      "id": 200
+      "price": "Rs.4999\n\n5999",
+      "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
     },
     {
-      "href": "https://www.dailyobjects.com/ivory-olive-commute-messenger-large/dp?f=pid~IVORY-OLIV-CMUTE-MSG-LARGE&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1202/ivory-olive-commute-messenger-large-images/Ivory-Olive-Commute-Messenger-Large-vw.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
-      "title": "Ivory - Olive Commute Messenger Large",
-      "price": "Rs.4399",
-      "strike": "6499",
-      "id": 201
+      "image": "https://images.dailyobjects.com/marche/product-images/1202/clove-city-compact-messenger-bag-images/Clove-City-Compact-Fleet-Messenger-Bag.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+      "title": "Clove City Compact Fleet Messenger Bag",
+      "price": "Rs.3499\n\n4999",
+      "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
     },
     {
-      "href": "https://www.dailyobjects.com/all-clove-commute-messenger-large/dp?f=pid~ALL-CLVE-CMUTE-MSG-LARGE&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1202/all-clove-commute-messenger-large-images/All-Clove-Commute-Messenger-Large-vw.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
-      "title": "All Clove Commute Messenger Large",
-      "price": "Rs.4399",
-      "strike": "6499",
-      "id": 202
+      "image": "https://images.dailyobjects.com/marche/product-images/1202/all-mustard-commute-messenger-large-images/All-Mustard-Commute-Messenger-Large.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+      "title": "All Mustard Commute Messenger Large",
+      "price": "Rs.4399\n\n6499",
+      "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
     },
     {
-      "href": "https://www.dailyobjects.com/all-navy-commute-messenger-medium/dp?f=pid~ALL-NVY-CMUTE-MSG-MED&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1202/all-navy-commute-messenger-medium-images/All-Navy-Commute-Messenger-Small-Vw.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
-      "title": "All Navy Commute Messenger Medium",
-      "price": "Rs.3999",
-      "strike": "5499",
-      "id": 203
+      "image": "https://images.dailyobjects.com/marche/product-images/1202/all-mustard-commute-messenger-medium-images/All-Mustard-Commute-Messenger-Medium.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+      "title": "All Mustard Commute Messenger Medium",
+      "price": "Rs.3999\n\n5499",
+      "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
     },
     {
-      "href": "https://www.dailyobjects.com/all-navy-commute-messenger-large/dp?f=pid~ALL-NVY-CMUTE-MSG-LARGE&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1202/all-navy-commute-messenger-large-images/All-Navy-Commute-Messenger-Large-vw.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
-      "title": "All Navy Commute Messenger Large",
-      "price": "Rs.4399",
-      "strike": "6499",
-      "id": 204
-    },
-    {
-      "href": "https://www.dailyobjects.com/ivory-navy-commute-messenger-large/dp?f=pid~IVORT-NVY-CMUTE-MSG-LARGE&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1202/ivory-navy-commute-messenger-large-images/Ivory-Navy-Commute-Messenger-Large.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "image": "https://images.dailyobjects.com/marche/product-images/1202/ivory-navy-commute-messenger-large-images/Ivory-Navy-Commute-Messenger-Large.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
       "title": "Ivory - Navy Commute Messenger Large",
-      "price": "Rs.4399",
-      "strike": "6499",
-      "id": 205
+      "price": "Rs.4399\n\n6499",
+      "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
     },
     {
-      "href": "https://www.dailyobjects.com/ivory-clove-commute-messenger-medium/dp?f=pid~IVORY-CLVE-CMUTE-MSG-MED&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1202/ivory-clove-commute-messenger-medium-images/Ivory-Clove-Commute-Messenger-Small-vw.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
-      "title": "Ivory - Clove Commute Messenger Medium",
-      "price": "Rs.3999",
-      "strike": "5499",
-      "id": 206
+      "image": "https://images.dailyobjects.com/marche/product-images/1202/ivory-olive-commute-messenger-large-images/Ivory-Olive-Commute-Messenger-Large-vw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+      "title": "Ivory - Olive Commute Messenger Large",
+      "price": "Rs.4399\n\n6499",
+      "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
     }
   ],
+
   "DUFFLEBAGS": [
     {
       "image": "https://images.dailyobjects.com/marche/product-images/1205/all-clove-trail-weekender-images/All-Clove-Trail-Weekender-p.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
@@ -1565,16 +1518,32 @@
       "email": "test4@gmail.com",
       "password": "test123456",
       "id": 7
+    },
+    {
+      "name": "gaurav",
+      "email": "gaurav123@gmail.com",
+      "password": "gauru1234",
+      "id": 8,
+      "area": "dholakpur",
+      "state": "puranapardesh",
+      "city": "mayanagari",
+      "phone": "9205098889",
+      "houseNo": "111",
+      "pincode": "110022"
     }
   ],
   "WishlistiphoneCovers": [
     {
-      "href": "https://www.dailyobjects.com/dailyobjects-lavender-flekt-silicone-case-cover-for-iphone-14/dp?f=pid~LVNDR-FLKT-SLCN-DOB-AP-IPH14&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-lavender-flekt-silicone-case-cover-for-iphone-14-images/DailyObjects-Lavender-Flekt-Silicone-Case-Cover-For-iPhone-14.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
-      "title": "Lavender Flekt Silicone Case Cover For iPhone 14",
-      "price": "Rs.1799",
-      "strike": "1999",
-      "id": 4
+      "href": "https://www.dailyobjects.com/dailyobjects-dual-holo-satin-glass-case-cover-for-xiaomi-mi-11i/dp?f=pid~GLAS-DUAL-HOLO-SATI-DOB-XI-MI11I&amp;s=referer~lp",
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-dual-holo-satin-glass-case-cover-for-xiaomi-mi-11i-images/DailyObjects-Dual-Holo-Satin-Glass-Case-Cover-For-Xiaomi-Mi-11i.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "title": "Dual Holo Satin Glass Case Cover For Xiaomi Mi 11i",
+      "id": 699
+    },
+    {
+      "href": "https://www.dailyobjects.com/dailyobjects-guwahati-city-tag-glass-case-cover-for-xiaomi-mi-11i/dp?f=pid~GLAS-GUWA-CITY-TAG-DOB-XI-MI11I&amp;s=referer~lp",
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-guwahati-city-tag-glass-case-cover-for-xiaomi-mi-11i-images/DailyObjects-Guwahati-City-Tag-Glass-Case-Cover-For-Xiaomi-Mi-11i.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "title": "Guwahati City Tag Glass Case Cover For Xiaomi Mi 11i",
+      "id": 700
     }
   ],
   "iphoneCovers": [

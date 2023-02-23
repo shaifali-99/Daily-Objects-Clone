@@ -15,16 +15,10 @@ function App() {
 
   return (
 
-    <div className="App">     
-      <AllRoutes/>
-
-     
-
 
     <div className="App">
       <AllRoutes />
       <Footer />
-      {/* <AccountPage/> */}
 
     </div>
   );

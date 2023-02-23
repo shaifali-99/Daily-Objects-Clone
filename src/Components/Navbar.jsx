@@ -15,7 +15,7 @@ const Navbar = () => {
             <nav class="menu">
               <ul class="menu-main">
                 <li class="menu-item-has-children">
-                  <Link to={"newarrivalspage"} id="new">
+                  <Link to={"/newarrivalspage"} id="new">
                     NEW ARRIVAL
                   </Link>
                   <div class="sub-menu mega-menu mega-menu-column-4">
@@ -201,9 +201,9 @@ const Navbar = () => {
                   </div>
                 </li>
                 <li class="menu-item-has-children">
-                  <a href="#" id="new">
+                  <Link to={"/accesories"} id="new">
                     ACCESSORIES
-                  </a>
+                  </Link>
                   <div class="sub-menu mega-menu mega-menu-column-4">
                     <div class="list-item">
                       <ul>
@@ -309,14 +309,14 @@ const Navbar = () => {
                   </div>
                 </li>
                 <li class="menu-item-has-children">
-                  <a href="" id="new">
+                  <Link to={"/sale"} id="new">
                     SALE
-                  </a>
+                  </Link>
                 </li>
                 <li class="menu-item-has-children">
-                  <a href="" id="new">
+                  <Link to={"/wallets"} id="new">
                     BAGS & WALLETS
-                  </a>
+                  </Link>
                   <div class="sub-menu mega-menu mega-menu-column-4">
                     <div class="list-item">
                       <ul>

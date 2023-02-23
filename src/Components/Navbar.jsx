@@ -15,9 +15,9 @@ const Navbar = () => {
             <nav class="menu">
               <ul class="menu-main">
                 <li class="menu-item-has-children">
-                  <a href="" id="new">
+                  <Link to={"newarrivalspage"} id="new">
                     NEW ARRIVAL
-                  </a>
+                  </Link>
                   <div class="sub-menu mega-menu mega-menu-column-4">
                     <div class="list-item">
                       <ul>

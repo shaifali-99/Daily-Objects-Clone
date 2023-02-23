@@ -1,18 +1,22 @@
 import { background, Button, Heading } from "@chakra-ui/react";
 import axios from "axios";
 import React, { useEffect, useState } from "react";
-import { useParams } from "react-router-dom";
+import { useNavigate, useParams } from "react-router-dom";
 import Navbar from "../../Navbar";
 import ImageEveryPage from "../ImageEveryPage";
 
 export default function IndividualPhoneCoverData() {
   const params = useParams();
-
+const navigate = useNavigate()
   console.log(params);
   const [individualData, setIndividual] = useState([]);
   const handleClick = ()=>{
     const newObj = individualData
     axios.post(`http://localhost:8080/cartItems`,newObj)
+    alert(`${individualData.title} has been added to the cart`)
+  }
+  const handleCart  = ()=>{
+navigate(`/cart`)
   }
   useEffect(() => {
     axios
@@ -26,8 +30,12 @@ export default function IndividualPhoneCoverData() {
     <div>
       <Navbar />
       <ImageEveryPage />
+      <div style={{textAlign:"end"}}>
+
+     <Button marginTop={"-250px"} marginLeft="300px" onClick={handleCart} >Go To Cart >></Button>
+      </div>
       {
-        <div style={{ display: "flex",marginTop:"-140px" }}>
+        <div style={{ display: "flex",marginTop:"-100px" }}>
           <div
             style={{
              

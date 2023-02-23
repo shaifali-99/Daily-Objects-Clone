@@ -22,6 +22,8 @@ import NewArrivalsPage from "../Pages/NewArrivalsPage.jsx/NewArrivalsPage";
 import AllAccessories from "./Accessories/AllAccessories";
 import Sale from "./Sale/Sale";
 import IndividualPhoneCoverData from "./Cases and covers/SingleSingle/IndividualPhoneCoverData";
+import Cart from "../Pages/cart/Cart";
+import BuyNow from "../Pages/BuyNow";
 
 export default function AllRoutes() {
   console.log("dbdf");
@@ -39,7 +41,10 @@ export default function AllRoutes() {
         <Route path="/cases/phonecovers/oneplus" element={<OneplusCover />} />
         <Route path="/cases/phonecovers/vivo" element={<VivoCover />} />
         <Route path="/cases/phonecovers/oppo" element={<OppoCover />} />
-        <Route path="/iphoneCovers/:id" element={<IndividualPhoneCoverData/>} />
+        <Route
+          path="/iphoneCovers/:id"
+          element={<IndividualPhoneCoverData />}
+        />
         <Route path="/cases/laptopcovers" element={<LaptopCoverNavbar />} />
         <Route path="/cases/laptopcovers/all" element={<All />} />
         <Route path="/cases/laptopcovers/zipped" element={<ZippedSleeves />} />
@@ -55,6 +60,8 @@ export default function AllRoutes() {
         <Route path="/accesories" element={<AllAccessories />} />
         <Route path="/sale" element={<Sale />} />
         <Route path="/wallets" element={<AllAccessories />} />
+        <Route path="/cart" element={<Cart />} />
+        <Route path="/buynow" element={<BuyNow />} />
       </Routes>
     </div>
   );

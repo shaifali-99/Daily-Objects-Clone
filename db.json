@@ -1157,7 +1157,6 @@
       "brand": "BUY 1 GET 1 FREE"
     }
   ],
-
   "messengerBags": [
     {
       "href": "https://www.dailyobjects.com/all-clove-commute-messenger-medium/dp?f=pid~ALL-CLVE-CMUTE-MSG-MED&amp;s=referer~lp",
@@ -1328,7 +1327,6 @@
       "id": 206
     }
   ],
-
   "DUFFLEBAGS": [
     {
       "image": "https://images.dailyobjects.com/marche/product-images/1205/all-clove-trail-weekender-images/All-Clove-Trail-Weekender-p.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
@@ -1571,42 +1569,12 @@
   ],
   "WishlistiphoneCovers": [
     {
-      "href": "https://www.dailyobjects.com/dailyobjects-dual-holo-satin-glass-case-cover-for-xiaomi-mi-11i/dp?f=pid~GLAS-DUAL-HOLO-SATI-DOB-XI-MI11I&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-dual-holo-satin-glass-case-cover-for-xiaomi-mi-11i-images/DailyObjects-Dual-Holo-Satin-Glass-Case-Cover-For-Xiaomi-Mi-11i.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
-      "title": "Dual Holo Satin Glass Case Cover For Xiaomi Mi 11i",
-      "id": 699
-    },
-    {
-      "href": "https://www.dailyobjects.com/dailyobjects-guwahati-city-tag-glass-case-cover-for-xiaomi-mi-11i/dp?f=pid~GLAS-GUWA-CITY-TAG-DOB-XI-MI11I&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-guwahati-city-tag-glass-case-cover-for-xiaomi-mi-11i-images/DailyObjects-Guwahati-City-Tag-Glass-Case-Cover-For-Xiaomi-Mi-11i.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
-      "title": "Guwahati City Tag Glass Case Cover For Xiaomi Mi 11i",
-      "id": 700
-    },
-    {
-      "href": "https://www.dailyobjects.com/dailyobjects-vulcan-case-cover-for-iphone-14/dp?f=pid~VLCN-DOB-AP-IPH14&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-vulcan-case-cover-for-iphone-14-images/DailyObjects-Prima-Case-Cover-For-iPhone-14-vw.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
-      "title": "Vulcan Case Cover For iPhone 14",
-      "price": "Rs.1999",
-      "strike": "2499",
-      "id": 2
-
-    },
-
-    {
-      "href": "https://www.dailyobjects.com/dailyobjects-magsafe-flekt-silicone-case-cover-for-iphone-14/dp?f=pid~MEGSAF-FLKT-SLCN-DOB-AP-IPH14&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-magsafe-flekt-silicone-case-cover-for-iphone-14-images/DailyObjects-MagSafe-Flekt-Silicone-Case-Cover-For-iPhone-14.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
-      "title": "MagSafe Flekt Silicone Case Cover For iPhone 14",
-      "price": "Rs.1999",
-      "strike": "2499",
-      "id": 5
-    },
-    {
-      "href": "https://www.dailyobjects.com/slick-phone-case-cover-for-iphone-14/dp?f=pid~SLIK-PHN-DOB-AP-IPH14&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1101/slick-phone-case-cover-for-iphone-14-images/Nimbus-Phone-Case-Cover-For-iPhone-14.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
-      "title": "Nimbus Phone Case Cover For iPhone 14",
-      "price": "Rs.1999",
-      "strike": "2499",
-      "id": 1
+      "href": "https://www.dailyobjects.com/dailyobjects-blue-flekt-silicone-case-cover-for-iphone-14/dp?f=pid~BLUE-FLKT-SLCN-DOB-AP-IPH14&amp;s=referer~lp",
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-blue-flekt-silicone-case-cover-for-iphone-14-images/DailyObjects-Blue-Flekt-Silicone-Case-Cover-For-iPhone-14.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "title": "Blue Flekt Silicone Case Cover For iPhone 14",
+      "price": "Rs.1799",
+      "strike": "1999",
+      "id": 6
     }
   ],
   "iphoneCovers": [

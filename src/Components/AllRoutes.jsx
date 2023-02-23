@@ -27,9 +27,9 @@ export default function AllRoutes() {
         <Routes>
             <Route path='/' element={<Home/>}/>
             <Route path='/cases' element={<Cases/>}/>
-            <Route path='/cases/phonecovers' element={<PhoneCovers/>}/>
-            {/* <Route path='/rewards' element={<Rewards/>}/> */}
             <Route path='/cases/phonecovers' element={<FilterMobiles/>}/>
+            {/* <Route path='/rewards' element={<Rewards/>}/> */}
+            {/* <Route path='/cases/phonecovers/mobiles' element={<FilterMobiles/>}/> */}
             <Route path='/cases/phonecovers/apple' element={<PhoneCovers/>}/>
             <Route path='/cases/phonecovers/samsung' element={<SamsumgCover/>}/>
             <Route path='/cases/phonecovers/xiaomi' element={<NothingCover/>}/>

@@ -1589,24 +1589,9 @@
       "price": "Rs.1999",
       "strike": "2499",
       "id": 2
-    },
-    {
 
-      "href": "https://www.dailyobjects.com/dailyobjects-ishq-matchsticks-black-hybrid-clear-case-cover-for-iphone-14/dp?f=pid~BLK-HYBRD-CLR-ISHQ-MATC-AP-IPH14&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-ishq-matchsticks-black-hybrid-clear-case-cover-for-iphone-14-images/DailyObjects-Ishq-Matchsticks-Black-Hybrid-Clear-Case-Cover-For-iPhone-14.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
-      "title": "Ishq Matchsticks Black Hybrid Clear Case Cover For iPhone 14",
-      "price": "Rs.1199",
-      "strike": "2199",
-      "new": "NEW!",
-      "id": 8
-
-      "href": "https://www.dailyobjects.com/dailyobjects-black-flekt-silicone-case-cover-for-iphone-14/dp?f=pid~BLK-FLKT-SLCN-DOB-AP-IPH14&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-black-flekt-silicone-case-cover-for-iphone-14-images/DailyObjects-Black-Flekt-Silicone-Case-Cover-For-iPhone-14.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
-      "title": "Black Flekt Silicone Case Cover For iPhone 14",
-      "price": "Rs.1799",
-      "strike": "1999",
-      "id": 3
     },
+
     {
       "href": "https://www.dailyobjects.com/dailyobjects-magsafe-flekt-silicone-case-cover-for-iphone-14/dp?f=pid~MEGSAF-FLKT-SLCN-DOB-AP-IPH14&amp;s=referer~lp",
       "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-magsafe-flekt-silicone-case-cover-for-iphone-14-images/DailyObjects-MagSafe-Flekt-Silicone-Case-Cover-For-iPhone-14.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
@@ -1622,7 +1607,6 @@
       "price": "Rs.1999",
       "strike": "2499",
       "id": 1
-
     }
   ],
   "iphoneCovers": [

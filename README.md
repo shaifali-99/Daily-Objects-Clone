@@ -1,70 +1,152 @@
-# Getting Started with Create React App
+import { Heading } from "@chakra-ui/react";
+import React from "react";
+import { Link } from "react-router-dom";
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+import Navbar from "../../Components/Navbar";
+import { extendTheme } from "@chakra-ui/react";
+import ImageEveryPage from "../../Components/Cases and covers/ImageEveryPage";
 
-## Available Scripts
 
-In the project directory, you can run:
+// import Navbar from "../../components/Navbar";
+// import ImageEveryPage from "../../Components/Cases and covers/ImageEveryPage";
+// import Navbar from "../../Components/Navbar";
+console.log("dgdf")
+const navLinks = {
+  borderRadius: "20%",
+};
+function Cases() {
+  // console.log("dbdf")
+  return (
+    <div >
+      <Navbar/>
+<ImageEveryPage name={`CASES & SLEEVES`}/>
+      <div
+        style={{
+          display: "grid",
+          gridTemplateColumns: "repeat(4,1fr)",
+          // border: "2px solid red",
+          width: "70%",
+          margin: "auto",
+          gap: "0px",
+          marginTop: "50px",
+        }}
+      >
+        <div className="navLinksToFurther">
+          <Link to={'/cases/phonecovers'}>
+            <img
+              src="https://images.dailyobjects.com/marche/tmp/phone-cases.png?tr=cm-pad_resize,v-2,w-160,h-160,dpr-2,q-60"
+              alt=""
+              style={{ borderRadius: "60%", width: "200px", margin: "auto" }}
+            />
+            <br />
+            {/* <h1>SDDD</h1> */}
+            <Heading as="h6" size={"md"}>
+              PHONE CASES
+            </Heading>
+          </Link>
+        </div>
+        <div className="navLinksToFurther">
+          <Link to={"/cases/laptopcovers"}>
+            <img
+              src="https://images.dailyobjects.com/marche/icons/category/cases-sleeves-intermediate-image.jpg?tr=cm-pad_crop,v-2,w-160,h-160,dpr-2,q-60"
+              alt=""
+              style={{ borderRadius: "60%", width: "200px", margin: "auto" }}
+            />
+            <br />
+            {/* <h1>SDDD</h1> */}
+            <Heading as="h6" size={"md"}>
+              LAPTOP/MACBOOK SLEEVES
+            </Heading>
+          </Link>
+        </div>
+        <div className="navLinksToFurther">
+          <Link>
+            <img
+              src="https://images.dailyobjects.com/marche/icons/category/airpod-case-cover-updated.jpg?tr=cm-pad_crop,v-2,w-160,h-160,dpr-2,q-60"
+              alt=""
+              style={{ borderRadius: "60%", width: "200px", margin: "auto" }}
+            />
+            <br />
+            {/* <h1>SDDD</h1> */}
+            <Heading as="h6" size={"md"}>
+              AIRPODS CASE COVER
+            </Heading>
+          </Link>
+        </div>
+        <div className="navLinksToFurther">
+          <Link>
+            <img
+              src="https://images.dailyobjects.com/marche/icons/category/ipad-new.png?tr=cm-pad_resize,v-2,w-160,h-160,dpr-2,q-60"
+              alt=""
+              style={{ borderRadius: "60%", width: "200px", margin: "auto" }}
+            />
+            <br />
+            {/* <h1>SDDD</h1> */}
+            <Heading as="h6" size={"md"}>
+              IPADS COVERS & SLEEVES
+            </Heading>
+          </Link>
+        </div>
+        <div className="navLinksToFurther">
+          <Link>
+            <img
+              src="https://images.dailyobjects.com/marche/icons/category/passport.png?tr=cm-pad_resize,v-2,w-160,h-160,dpr-2,q-60"
+              alt=""
+              style={{
+                borderRadius: "60%",
+                width: "200px",
+                margin: "auto",
+                marginTop: "30px",
+              }}
+            />
+            <br />
+            {/* <h1>SDDD</h1> */}
+            <Heading as="h6" size={"md"}>
+              PASSPORT WALLETS
+            </Heading>
+          </Link>
+        </div>
+        <div className="navLinksToFurther">
+          <Link>
+            <img
+              src="https://images.dailyobjects.com/marche/icons/category/eyewear-cases.png?tr=cm-pad_resize,v-2,w-160,h-160,dpr-2,q-60"
+              alt=""
+              style={{
+                borderRadius: "60%",
+                width: "200px",
+                margin: "auto",
+                marginTop: "30px",
+              }}
+            />
+            <br />
+            {/* <h1>SDDD</h1> */}
+            <Heading as="h6" size={"md"}>
+              EYEWEAR CASES
+            </Heading>
+          </Link>
+        </div>
+        <div className="navLinksToFurther">
+          <Link>
+            <img
+              src="https://images.dailyobjects.com/marche/icons/category/airtag-category-icon.png?tr=cm-pad_resize,v-2,w-160,h-160,dpr-2,q-60"
+              alt=""
+              style={{
+                borderRadius: "60%",
+                width: "200px",
+                margin: "auto",
+                marginTop: "30px",
+              }}
+            />
+            <br />
+            {/* <h1>SDDD</h1> */}
+            <Heading as="h6" size={"md"}>
+              AIRTAG CASES
+            </Heading>
+          </Link>
+        </div>
+      </div>
+    </div>
+  );
+}
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+export default Cases;

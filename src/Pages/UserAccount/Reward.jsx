@@ -1,7 +1,3 @@
 export const Rewards=()=>{
-    return <div>
-        <div className="sign_redeem">
-
-        </div>
-    </div>
+    return <div>Rewards</div>
 }

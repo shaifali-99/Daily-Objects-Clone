@@ -7,10 +7,19 @@ import Footer from "./Components/Footer";
 
 function App() {
   return (
+
     <div className="App">
       <AllRoutes />
       <Footer />
       {/* <AccountPage/> */}
+
+
+
+    <div className="App">
+      <AllRoutes />
+      <Footer />
+
+
     </div>
   );
 }

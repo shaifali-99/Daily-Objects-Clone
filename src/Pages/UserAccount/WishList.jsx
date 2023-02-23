@@ -2,8 +2,8 @@ import { useEffect, useState } from "react"
 import { Button, ButtonGroup, Divider, Heading ,Image,Stack,Text } from '@chakra-ui/react';
 import { Link } from "react-router-dom";
 import axios from "axios";
-import { Card, CardHeader, CardBody, CardFooter } from '@chakra-ui/react';
-import { RepeatClockIcon } from "@chakra-ui/icons";
+import { Card, CardBody, CardFooter } from '@chakra-ui/react';
+// import { RepeatClockIcon } from "@chakra-ui/icons";
 
 export const Wishlist =()=>{
     const [wishlistData,setWishlistData] = useState([]);
@@ -34,7 +34,7 @@ export const Wishlist =()=>{
                         .catch((err)=>{console.log(err)});
                         setChange((prev)=>!prev)
                     }
-                    return <Card maxW='sm' boxShadow="rgba(100, 100, 111, 0.2) 0px 7px 29px 0px">    
+                    return <Card key={e.id} maxW='sm' boxShadow="rgba(100, 100, 111, 0.2) 0px 7px 29px 0px">    
                     <CardBody>
                       <Image
                         src={e.image}

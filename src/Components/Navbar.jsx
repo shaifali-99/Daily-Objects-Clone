@@ -572,7 +572,7 @@ const Navbar = () => {
         <a href="./cart.jsx">
           <FaShoppingCart />
         </a>
-        <a href="./account.jsx">
+        <a href="/account/*">
           <FaUser />
         </a>
         <a href="./search.jsx">

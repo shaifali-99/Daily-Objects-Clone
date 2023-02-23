@@ -1,11 +1,13 @@
 import React from 'react'
 import { Route, Routes } from 'react-router-dom'
 import Cases from '../Pages/Cases and sleeves/cases'
-import Home from '../Pages/Home/Home'
-import PhoneCovers from './Cases and covers/GroupSingle/PhoneCovers'
-import Cases from '../Pages/Cases and sleeves/Cases'
+// import Home from '../Pages/Home/Home'
+// import PhoneCovers from './Cases and covers/GroupSingle/PhoneCovers'
+// import Cases from '../Pages/Cases and sleeves/cases'
 // import Cases from '../Pages/Cases and sleeves/Cases'
 import Home from '../Pages/Home/Home'
+import { AccountPage } from '../Pages/UserAccount/AccountPage'
+import { Rewards } from '../Pages/UserAccount/Reward'
 import FilterMobiles from './Cases and covers/FilterMobiles'
 import PhoneCovers from './Cases and covers/GroupSingle/Iphone.jsx/PhoneCovers'
 import OppoCover from './Cases and covers/GroupSingle/Oppo/OppoCover'
@@ -41,6 +43,9 @@ export default function AllRoutes() {
             <Route path='/cases/laptopcovers/macbook'  element={<MacbookSleeves/>}/>
             <Route path='/cases/laptopcovers/envelope'  element={<Envelop/>}/>
             <Route path='/cases/laptopcovers/messenger'  element={<Messenger/>}/>
+            <Route path='/account/*' element={<AccountPage/>}/>
+            <Route path='/rewards' element={<Rewards/>}/>
+
             {/* <Route path='/cases/phonecovers' element={<PhoneCovers/>}/> */}
 
         </Routes>

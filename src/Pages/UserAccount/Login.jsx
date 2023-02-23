@@ -1,134 +1,129 @@
 import {
-    Flex,
-    Box,
-    FormControl,
-    FormLabel,
-    Input,
-    InputGroup,
-    InputRightElement,
-    Stack,
-    Button,
-    Heading,
-    Text,
-    useColorModeValue,
-    Link,
-  } from '@chakra-ui/react';
-  import axios from 'axios';
-  import { useState } from 'react';
-  import { ViewIcon, ViewOffIcon } from '@chakra-ui/icons';
-  
-  export default function Login() {
-      const [showPassword, setShowPassword] = useState(false);
-      const [email, setEmail] = useState("");
-      const [name, setName] = useState("");
-      const [password, setPassword] = useState("");
-      const handleSubmit=async(e)=>{
-          e.preventDefault();
-        //   const checkUserData=axios.get(`http://localhost:${process.env.REACT_APP_JSON_SERVER_PORT}/users`);
-          const checkUserData = await axios.get(`http://localhost:8080/users`);
-        //   console.log("checkUserData",checkUserData)
+  Flex,
+  Box,
+  FormControl,
+  FormLabel,
+  Input,
+  Checkbox,
+  Stack,
+  Link,
+  Button,
+  Heading,
+  Text,
+  useColorModeValue,
+} from '@chakra-ui/react';
 
-          let userIsHere=0;
-          const userData={"name":name,"email":email,"password":password};
+import axios from 'axios';
+import { useContext } from 'react';
+import { useState} from 'react';
+import { useNavigate } from 'react-router-dom';
+import { AuthContext } from './AccountContextAuth/AuthContextAccount';
 
-          console.log(userData);
-          
-          if(name===""||email===""||password===""){
-              alert('Please fill All Details 🙏');
-              return 
-            }else{
-                checkUserData.data.forEach((el)=>{
-                    console.log(el.email)
-                    if(el.email===email||el.name===name){
-                        userIsHere=1;
-                    }
-                })
-            }
-            if(userIsHere===1||userIsHere>0){
-                alert("User already exist 🙎‍♂️");
-                return
-            }
-        //   let resPost=await axios.post(`http://localhost:${process.env.REACT_APP_JSON_SERVER_PORT}/users`,userData);
-        let resPost=await axios.post(`http://localhost:8080/users`,userData);
-        alert("🎉 Hurray!⚛Sign Up Successfully 😃✔")
-          window.location.reload()
-          console.log(resPost);
-        //   window.location.href="/";
-        localStorage.setItem("userName",name)
-    } 
-    return (
-      <Flex
-        minH={'100vh'}
-        align={'center'}
-        justify={'center'}
-        // bg={useColorModeValue('gray.50', 'gray.800')}
-        >
-        <Stack spacing={8} mx={'auto'}>
+export default function Login() {
+  const nav=useNavigate();
+  const [email,setEmail]=useState("gaurav123@gmail.com");
+      const [name, setName] = useState("gaurav");
+      const [password,setPassword]=useState("gauru1234");
+      let {setpersonalId}=useContext(AuthContext);
+  let {login,isAuth,setAuth,token,setToken} = useContext(AuthContext);
+
+  let userExist =0;
+  const handleLogin = async(e) =>{
+      e.preventDefault()
+      let checkIsUser = await axios.get(`http://localhost:8080/users`);
+      // console.log(checkIsUser.data);
+      checkIsUser.data.map((el)=>{
+          if(el.email===email&&el.password===password&&el.name===name){
+              let id=el.id;
+              userExist=1;
+              isAuth=true;
+              token=id;
+              setAuth(!isAuth);
+              setToken(token)
+              login(token,isAuth);
+              console.log(isAuth)
+              setpersonalId(el.id);
+          }
+          return
+      })
+      if(userExist===1){
+          alert("🎉🎊Successfully Logged In 🤗🥳");
+          console.log("loginSuccessfull",token,isAuth);
+          localStorage.setItem("userName",name)
+          // window.location.href("/account/personalInfo")  
+        }else{
+          alert("Invalid Credentials❌");
+        }
+        if(isAuth){
+          nav('/account/personalInfo') 
+        }
+      }
+      
+  //     useEffect(()=>{
+      
+  // },[])
+
+  return (
+    <Flex
+      minH={'100vh'}
+      align={'center'}
+      justify={'center'}>
+      <Stack spacing={8} mx={'auto'} maxW={'lg'} py={12} px={8}>
         <Stack align={'center'}>
-            <Heading fontSize={'4xl'}>Log in</Heading>
-          </Stack>
-          <Box
-          w={'27rem'}
-            rounded={'lg'}
-            bg={useColorModeValue('white', 'gray.700')}
-            boxShadow={'rgba(0, 0, 0, 0.35) 0px 5px 15px'}
-            p={8}>
-            <Stack spacing={4} >
-              {/* <HStack> */}
-                <Box>
-                  <FormControl 
+          <Heading fontSize={'4xl'}>Log in</Heading>
+        </Stack>
+        <Box
+          w={'25rem'}
+          rounded={'lg'}
+          bg={useColorModeValue('white', 'gray.700')}
+          boxShadow={'lg'}
+          p={8}>
+          <Stack spacing={4}>
+            <FormControl 
                   id="firstName" 
                   isRequired>
                     <FormLabel>Name</FormLabel>
                     <Input type="text"  
                             value={name}
                             onChange={(e)=>setName(e.target.value)}/>
-                  </FormControl>
-                </Box>
-              <FormControl id="email" isRequired>
-                <FormLabel>Email address</FormLabel>
-                <Input type="email" value={email}
-              onChange={(e)=>setEmail(e.target.value)} />
-              </FormControl>
-              <FormControl id="password" isRequired>
-                <FormLabel>Password</FormLabel>
-                <InputGroup>
-                  <Input type={showPassword ? 'text' : 'password'} 
-                  value={password} 
-                  onChange={(e)=>setPassword(e.target.value)} />
-                  <InputRightElement h={'full'}>
-                    <Button
-                      variant={'ghost'}
-                      onClick={() =>
-                        setShowPassword((showPassword) => !showPassword)
-                      }>
-                      {showPassword ? <ViewIcon /> : <ViewOffIcon />}
-                    </Button>
-                  </InputRightElement>
-                </InputGroup>
-              </FormControl>
-              <Stack spacing={10} pt={2}>
-                <Button
-                  loadingText="Submitting"
-                  size="lg"
-                  bg={'blue.400'}
-                  color={'white'}
-                  _hover={{
-                    bg: 'blue.500',
-                  }}
-                  onClick={handleSubmit}
-                  >
-                  Sign up
-                </Button>
+            </FormControl>         
+            <FormControl id="email" >
+              <FormLabel>Email address</FormLabel>
+              <Input type="email" value={email} onChange={(e)=>{setEmail(e.target.value)}}/>
+            </FormControl>
+            <FormControl id="password">
+              <FormLabel>Password</FormLabel>
+              <Input type="password" value={password} onChange={(e)=>{setPassword(e.target.value)}} />
+            </FormControl>
+            <Stack spacing={10}>
+              <Stack
+                direction={{ base: 'column', sm: 'row' }}
+                align={'start'}
+                justify={'space-between'}>
+                <Checkbox>Remember me</Checkbox>
+                <Link color={'blue.400'}>Forgot password?</Link>
               </Stack>
-              {/* <Stack pt={6}>
-                <Text align={'center'}>
-                  Already a user? <Link href='/login' color={'blue.400'}>Login</Link>
-                </Text>
-              </Stack> */}
+              <Button
+                bg={'blue.400'}
+                color={'white'}
+                _hover={{
+                  bg: 'blue.500',
+                }}
+                onClick={handleLogin}
+                >
+                Log in
+              </Button>
+              <Text align={'center'}>
+                  Don't have an account ?  
+                  <Link onClick={()=>nav("/account/signup")} color={'blue.400'}>
+                  Sign Up
+                  </Link>
+              </Text>
             </Stack>
-          </Box>
-        </Stack>
-      </Flex>
-    );
-  }
+
+          </Stack>
+        </Box>
+      </Stack>
+    </Flex>
+  );
+}

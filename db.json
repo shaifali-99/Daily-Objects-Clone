@@ -11740,12 +11740,40 @@
   ],
   "cartItems": [
     {
-      "href": "https://www.dailyobjects.com/dailyobjects-black-flekt-silicone-case-cover-for-iphone-14/dp?f=pid~BLK-FLKT-SLCN-DOB-AP-IPH14&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-black-flekt-silicone-case-cover-for-iphone-14-images/DailyObjects-Black-Flekt-Silicone-Case-Cover-For-iPhone-14.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
-      "title": "Black Flekt Silicone Case Cover For iPhone 14",
+      "href": "https://www.dailyobjects.com/dailyobjects-pink-hibiscus-blue-hybrid-clear-case-cover-for-iphone-14/dp?f=pid~BLUE-HYBRD-CLR-PINK-HIBI-DOB-AP-IPH14&amp;s=referer~lp",
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-pink-hibiscus-blue-hybrid-clear-case-cover-for-iphone-14-images/DailyObjects-Pink-Hibiscus-Blue-Hybrid-Clear-Case-Cover-For-iPhone-14.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "title": "Pink Hibiscus Blue Hybrid Clear Case Cover For iPhone 14",
+      "price": "Rs.1199",
+      "strike": "2199",
+      "new": "NEW!",
+      "id": 339
+    },
+    {
+      "href": "https://www.dailyobjects.com/dailyobjects-lavender-flekt-silicone-case-cover-for-iphone-14/dp?f=pid~LVNDR-FLKT-SLCN-DOB-AP-IPH14&amp;s=referer~lp",
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-lavender-flekt-silicone-case-cover-for-iphone-14-images/DailyObjects-Lavender-Flekt-Silicone-Case-Cover-For-iPhone-14.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "title": "Lavender Flekt Silicone Case Cover For iPhone 14",
       "price": "Rs.1799",
       "strike": "1999",
-      "id": 3
+      "id": 4
+    }
+  ],
+  "buyNow": [
+    {
+      "href": "https://www.dailyobjects.com/dailyobjects-pink-hibiscus-blue-hybrid-clear-case-cover-for-iphone-14/dp?f=pid~BLUE-HYBRD-CLR-PINK-HIBI-DOB-AP-IPH14&amp;s=referer~lp",
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-pink-hibiscus-blue-hybrid-clear-case-cover-for-iphone-14-images/DailyObjects-Pink-Hibiscus-Blue-Hybrid-Clear-Case-Cover-For-iPhone-14.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "title": "Pink Hibiscus Blue Hybrid Clear Case Cover For iPhone 14",
+      "price": "Rs.1199",
+      "strike": "2199",
+      "new": "NEW!",
+      "id": 339
+    },
+    {
+      "href": "https://www.dailyobjects.com/dailyobjects-lavender-flekt-silicone-case-cover-for-iphone-14/dp?f=pid~LVNDR-FLKT-SLCN-DOB-AP-IPH14&amp;s=referer~lp",
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-lavender-flekt-silicone-case-cover-for-iphone-14-images/DailyObjects-Lavender-Flekt-Silicone-Case-Cover-For-iPhone-14.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "title": "Lavender Flekt Silicone Case Cover For iPhone 14",
+      "price": "Rs.1799",
+      "strike": "1999",
+      "id": 4
     }
   ],
   "existingWishlist": []

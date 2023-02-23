@@ -3,6 +3,7 @@ import axios from "axios";
 import React, { useEffect, useState } from "react";
 import { AlertIcon, AlertTitle, AlertDescription } from "@chakra-ui/react";
 import Navbar from "../../../Navbar";
+import { Link } from "react-router-dom";
 export default function PhoneCoverItem({
   title,
   id,
@@ -31,11 +32,11 @@ export default function PhoneCoverItem({
 
   return (
     <div>
-    
-
       <div style={{ textAlign: "start" }}>
         <div style={{ backgroundColor: "rgb(247,247,247)" }}>
-          <img src={image} alt="" />
+          <Link to={`/${brand}/${id}`} >
+            <img src={image} alt="" />
+          </Link>
           <Button
             isDisabled={isThere.includes(id)}
             size={"lg"}

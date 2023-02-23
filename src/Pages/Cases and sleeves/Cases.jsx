@@ -15,7 +15,7 @@ const navLinks = {
   borderRadius: "20%",
 };
 function Cases() {
-  // console.log("dbdf")
+  console.log("dbdf")
   return (
     <div >
       <Navbar/>

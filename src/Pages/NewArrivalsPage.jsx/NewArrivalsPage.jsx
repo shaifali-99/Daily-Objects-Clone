@@ -1,25 +1,26 @@
 import { Heading } from "@chakra-ui/react";
 import React from "react";
-import { Link } from "react-router-dom";
-
+import { Link,NavLink } from "react-router-dom";
 import Navbar from "../../Components/Navbar";
 import { extendTheme } from "@chakra-ui/react";
 import ImageEveryPage from "../../Components/Cases and covers/ImageEveryPage";
+import NewArrivalComp from "../../Components/NewArrivalComp/NewArrivalComp";
 
 
-// import Navbar from "../../components/Navbar";
-// import ImageEveryPage from "../../Components/Cases and covers/ImageEveryPage";
-// import Navbar from "../../Components/Navbar";
-console.log("dgdf")
+
+
 const navLinks = {
   borderRadius: "20%",
 };
-function Cases() {
-  // console.log("dbdf")
+
+
+function NewArrivalsPage() {
+    console.log("heelo")
   return (
     <div >
-      <Navbar/>
-<ImageEveryPage name={`CASES & SLEEVES`}/>
+        
+      <Navbar />
+<ImageEveryPage name={`NEW ARRIVALS`}/>
       <div
         style={{
           display: "grid",
@@ -32,65 +33,66 @@ function Cases() {
         }}
       >
         <div className="navLinksToFurther">
-          <Link to={'/cases/phonecovers'}>
+         
+        <Link to ={"/newarrivalcomp"}>
             <img
-              src="https://images.dailyobjects.com/marche/tmp/phone-cases.png?tr=cm-pad_resize,v-2,w-160,h-160,dpr-2,q-60"
+              src="https://images.dailyobjects.com/marche/icons/new-arrival/all.png?tr=cm-pad_resize,v-2,w-160,h-160,dpr-1"
               alt=""
               style={{ borderRadius: "60%", width: "200px", margin: "auto" }}
             />
             <br />
             {/* <h1>SDDD</h1> */}
             <Heading as="h6" size={"md"}>
-              PHONE CASES
-            </Heading>
-          </Link>
-        </div>
-        <div className="navLinksToFurther">
-          <Link to={"/cases/laptopcovers"}>
-            <img
-              src="https://images.dailyobjects.com/marche/icons/category/cases-sleeves-intermediate-image.jpg?tr=cm-pad_crop,v-2,w-160,h-160,dpr-2,q-60"
-              alt=""
-              style={{ borderRadius: "60%", width: "200px", margin: "auto" }}
-            />
-            <br />
-            {/* <h1>SDDD</h1> */}
-            <Heading as="h6" size={"md"}>
-              LAPTOP/MACBOOK SLEEVES
+              ALL
             </Heading>
           </Link>
         </div>
         <div className="navLinksToFurther">
           <Link>
             <img
-              src="https://images.dailyobjects.com/marche/icons/category/airpod-case-cover-updated.jpg?tr=cm-pad_crop,v-2,w-160,h-160,dpr-2,q-60"
+              src="https://images.dailyobjects.com/marche/icons/category/watchbands-filter-icon-for-new-arrival.jpg?tr=cm-pad_crop,v-2,w-160,h-160,dpr-1"
               alt=""
               style={{ borderRadius: "60%", width: "200px", margin: "auto" }}
             />
             <br />
             {/* <h1>SDDD</h1> */}
             <Heading as="h6" size={"md"}>
-              AIRPODS CASE COVER
+              WATCHBANDS
             </Heading>
           </Link>
         </div>
         <div className="navLinksToFurther">
           <Link>
             <img
-              src="https://images.dailyobjects.com/marche/icons/category/ipad-new.png?tr=cm-pad_resize,v-2,w-160,h-160,dpr-2,q-60"
+              src="https://images.dailyobjects.com/marche/icons/category/laptop-brifcae-new-arrival-icon.jpg?tr=cm-pad_crop,v-2,w-160,h-160,dpr-1"
               alt=""
               style={{ borderRadius: "60%", width: "200px", margin: "auto" }}
             />
             <br />
             {/* <h1>SDDD</h1> */}
             <Heading as="h6" size={"md"}>
-              IPADS COVERS & SLEEVES
+            MESSENGER BAGS
             </Heading>
           </Link>
         </div>
         <div className="navLinksToFurther">
           <Link>
             <img
-              src="https://images.dailyobjects.com/marche/icons/category/passport.png?tr=cm-pad_resize,v-2,w-160,h-160,dpr-2,q-60"
+              src="https://images.dailyobjects.com/marche/assets/images/other/charging-solution-icon.jpg?tr=cm-pad_crop,v-2,w-160,h-160,dpr-1"
+              alt=""
+              style={{ borderRadius: "60%", width: "200px", margin: "auto" }}
+            />
+            <br />
+            {/* <h1>SDDD</h1> */}
+            <Heading as="h6" size={"md"}>
+             CHARGING SOLUTIONS
+            </Heading>
+          </Link>
+        </div>
+        <div className="navLinksToFurther">
+          <Link>
+            <img
+              src="https://images.dailyobjects.com/marche/icons/new-arrival/pu-snap-sleeves.jpg?tr=cm-pad_crop,v-2,w-160,h-160,dpr-1"
               alt=""
               style={{
                 borderRadius: "60%",
@@ -102,14 +104,14 @@ function Cases() {
             <br />
             {/* <h1>SDDD</h1> */}
             <Heading as="h6" size={"md"}>
-              PASSPORT WALLETS
+              MACKBOOK SLEEVES
             </Heading>
           </Link>
         </div>
         <div className="navLinksToFurther">
           <Link>
             <img
-              src="https://images.dailyobjects.com/marche/icons/category/eyewear-cases.png?tr=cm-pad_resize,v-2,w-160,h-160,dpr-2,q-60"
+              src="https://images.dailyobjects.com/marche/icons/category/platrorm-desk-collection.png?tr=cm-pad_resize,v-2,w-160,h-160,dpr-1"
               alt=""
               style={{
                 borderRadius: "60%",
@@ -121,32 +123,14 @@ function Cases() {
             <br />
             {/* <h1>SDDD</h1> */}
             <Heading as="h6" size={"md"}>
-              EYEWEAR CASES
+              DESKS
             </Heading>
           </Link>
         </div>
-        <div className="navLinksToFurther">
-          <Link>
-            <img
-              src="https://images.dailyobjects.com/marche/icons/category/airtag-category-icon.png?tr=cm-pad_resize,v-2,w-160,h-160,dpr-2,q-60"
-              alt=""
-              style={{
-                borderRadius: "60%",
-                width: "200px",
-                margin: "auto",
-                marginTop: "30px",
-              }}
-            />
-            <br />
-            {/* <h1>SDDD</h1> */}
-            <Heading as="h6" size={"md"}>
-              AIRTAG CASES
-            </Heading>
-          </Link>
-        </div>
+    
       </div>
     </div>
   );
 }
 
-export default Cases;
+export default NewArrivalsPage;

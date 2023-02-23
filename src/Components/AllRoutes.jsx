@@ -18,6 +18,8 @@ import LaptopCoverNavbar from './Laptop Macbook Sleeves/GroupSingle/LaptopCoverN
 import MacbookSleeves from './Laptop Macbook Sleeves/GroupSingle/MacbookSleeves'
 import Messenger from './Laptop Macbook Sleeves/GroupSingle/Messenger'
 import ZippedSleeves from './Laptop Macbook Sleeves/GroupSingle/ZippedSleeves'
+import NewArrivalComp from './NewArrivalComp/NewArrivalComp'
+import NewArrivalsPage from '../Pages/NewArrivalsPage.jsx/NewArrivalsPage'
 
 export default function AllRoutes() {
   return (
@@ -40,6 +42,8 @@ export default function AllRoutes() {
             <Route path='/cases/laptopcovers/macbook'  element={<MacbookSleeves/>}/>
             <Route path='/cases/laptopcovers/envelope'  element={<Envelop/>}/>
             <Route path='/cases/laptopcovers/messenger'  element={<Messenger/>}/>
+            <Route path='/newarrivalspage' element={<NewArrivalsPage/>}></Route>
+            <Route path='/newarrivalcomp' element={<NewArrivalComp/>}></Route>
             {/* <Route path='/cases/phonecovers' element={<PhoneCovers/>}/> */}
 
         </Routes>

@@ -20,8 +20,6 @@ import ZippedSleeves from "./Laptop Macbook Sleeves/GroupSingle/ZippedSleeves";
 import Cases from "../Pages/Cases and sleeves/Cases"
 
 import React from "react";
-import { Route, Routes } from "react-router-dom";
-import Cases from "../Pages/Cases and sleeves/Cases";
 
 import NewArrivalComp from "./NewArrivalComp/NewArrivalComp";
 import NewArrivalsPage from "../Pages/NewArrivalsPage.jsx/NewArrivalsPage";
@@ -39,18 +37,11 @@ export default function AllRoutes() {
     <div>
       <Routes>
         <Route path="/" element={<Home />} />
-
-        <Route path="/cases" element={<Cases/>} />
-        <Route path="/" element={<Home />} />
         <Route path="/cases/phonecovers" element={<FilterMobiles />} />
         <Route path="/rewards" element={<Rewards />} />
         <Route path="/account/*" element={<AccountPage />} />
-        <Route path="/cases/phonecovers/mobiles" element={<FilterMobiles />} />
 
         <Route path="/cases" element={<Cases />} />
-        <Route path="/cases/phonecovers" element={<FilterMobiles />} />
-      
-        <Route path='/cases/phonecovers/mobiles' element={<FilterMobiles/>}/>
 
         <Route path="/cases/phonecovers/apple" element={<PhoneCovers />} />
         <Route path="/cases/phonecovers/samsung" element={<SamsumgCover />} />
@@ -67,15 +58,6 @@ export default function AllRoutes() {
         />
         <Route path="/cases/laptopcovers/envelope" element={<Envelop />} />
         <Route path="/cases/laptopcovers/messenger" element={<Messenger />} />
-        <Route path="/account/*" element={<AccountPage />} />
-        <Route path="/rewards" element={<Rewards />} />
-
-        {/* <Route path='/rewards' element={<Rewards/>}/> */}
-        <Route path="/cases/phonecovers" element={<FilterMobiles />} />
-        {/* <Route path="/cases/phonecovers/apple" element={<PhoneCovers />} /> */}
-
-
-        <Route path='/cases/phonecovers' element={<FilterMobiles/>}/>
 
         <Route
           path="/iphoneCovers/:id"

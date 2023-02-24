@@ -26,13 +26,14 @@ navigate(`/cart`)
   }, []);
   console.log(`individualData`,individualData);
   const { image, href, id, price, title, strike } = individualData;
+  const ss = `>>`
   return (
     <div>
       <Navbar />
       <ImageEveryPage />
       <div style={{textAlign:"end"}}>
 
-     <Button marginTop={"-250px"} marginLeft="300px" onClick={handleCart} >Go To Cart >></Button>
+     <Button marginTop={"-250px"} marginLeft="300px" onClick={handleCart} >Go To Cart {ss}</Button>
       </div>
       {
         <div style={{ display: "flex",marginTop:"-100px" }}>

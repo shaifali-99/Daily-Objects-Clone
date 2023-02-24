@@ -11,15 +11,6 @@ function App() {
     <div className="App">
       <AllRoutes />
       <Footer />
-      {/* <AccountPage/> */}
-
-
-
-    <div className="App">
-      <AllRoutes />
-      <Footer />
-
-
     </div>
   );
 }

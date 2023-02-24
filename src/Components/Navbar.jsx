@@ -6,18 +6,18 @@ import { Link } from "react-router-dom";
 const Navbar = () => {
   return (
     <nav className="navbar">
-      <a href="./home.jsx">
+      <Link to={"/"}>
         <img className="logo" src="logo.jpg" alt="" />
-      </a>
+      </Link>
       <div class="container">
         <div class="row">
           <div class="header-item item-center">
             <nav class="menu">
               <ul class="menu-main">
                 <li class="menu-item-has-children">
-                  <a href="" id="new">
+                  <Link to={"/newarrivalspage"} id="new">
                     NEW ARRIVAL
-                  </a>
+                  </Link>
                   <div class="sub-menu mega-menu mega-menu-column-4">
                     <div class="list-item">
                       <ul>
@@ -201,9 +201,9 @@ const Navbar = () => {
                   </div>
                 </li>
                 <li class="menu-item-has-children">
-                  <a href="#" id="new">
+                  <Link to={"/accesories"} id="new">
                     ACCESSORIES
-                  </a>
+                  </Link>
                   <div class="sub-menu mega-menu mega-menu-column-4">
                     <div class="list-item">
                       <ul>
@@ -309,14 +309,14 @@ const Navbar = () => {
                   </div>
                 </li>
                 <li class="menu-item-has-children">
-                  <a href="" id="new">
+                  <Link to={"/sale"} id="new">
                     SALE
-                  </a>
+                  </Link>
                 </li>
                 <li class="menu-item-has-children">
-                  <a href="" id="new">
+                  <Link to={"/wallets"} id="new">
                     BAGS & WALLETS
-                  </a>
+                  </Link>
                   <div class="sub-menu mega-menu mega-menu-column-4">
                     <div class="list-item">
                       <ul>
@@ -569,11 +569,15 @@ const Navbar = () => {
         </div>
       </div>
       <div className="navbar__icons">
-        <a href="./cart.jsx">
+        <a href="">
+          <Link to={'/cart'}>
           <FaShoppingCart />
+          </Link>
         </a>
-        <a href="./account.jsx">
+        <a href="">
+          <Link to={'/account/*'}>
           <FaUser />
+          </Link>
         </a>
         <a href="./search.jsx">
           <FaSearch />

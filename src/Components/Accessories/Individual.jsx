@@ -1,10 +1,9 @@
+
 import { Alert, Button, Heading } from "@chakra-ui/react";
 import axios from "axios";
 import React, { useEffect, useState } from "react";
 import { AlertIcon, AlertTitle, AlertDescription } from "@chakra-ui/react";
-import Navbar from "../../../Navbar";
-import { Link } from "react-router-dom";
-export default function PhoneCoverItem({
+export default function Individual({
   title,
   id,
   price,
@@ -29,14 +28,13 @@ export default function PhoneCoverItem({
     postItem(id);
     alert(`${text} has been added to your wishlist`);
   };
-
   return (
     <div>
+    
+
       <div style={{ textAlign: "start" }}>
         <div style={{ backgroundColor: "rgb(247,247,247)" }}>
-          <Link to={`/${brand}/${id}`} >
-            <img src={image} alt="" />
-          </Link>
+          <img src={image} alt="" />
           <Button
             isDisabled={isThere.includes(id)}
             size={"lg"}

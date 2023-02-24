@@ -1,5 +1,6 @@
 import axios from "axios";
 import React, { useEffect, useState } from "react";
+import Navbar from "../../Navbar";
 import PhoneCoverItem from "../GroupSingle/CoverItem/PhoneCoverItem";
 import ImageEveryPage from "../ImageEveryPage";
 
@@ -14,6 +15,7 @@ export default function OneplusCover() {
 
   return (
     <div>
+    <Navbar/>
       <div>
         <ImageEveryPage name={`PHONE COVERS`} />
       </div>

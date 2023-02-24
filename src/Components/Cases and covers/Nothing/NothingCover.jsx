@@ -1,6 +1,7 @@
 
 import axios from "axios";
 import React, { useEffect, useState } from "react";
+import Navbar from "../../Navbar";
 // import PhoneCoverItem from "../CoverItem/PhoneCoverItem";
 // import ImageEveryPage from "../../ImageEveryPage";
 import PhoneCoverItem from "../GroupSingle/CoverItem/PhoneCoverItem";
@@ -17,6 +18,7 @@ export default function NothingCover() {
 
   return (
     <div>
+    <Navbar/>
       <div>
         <ImageEveryPage name={`PHONE COVERS`} />
       </div>

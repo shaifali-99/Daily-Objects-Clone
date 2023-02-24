@@ -21,9 +21,9 @@ import { AuthContext } from './AccountContextAuth/AuthContextAccount';
 
 export default function Login() {
   const nav=useNavigate();
-  const [email,setEmail]=useState("gaurav123@gmail.com");
-      const [name, setName] = useState("gaurav");
-      const [password,setPassword]=useState("gauru1234");
+  const [email,setEmail]=useState("dummy@gmail.com");
+      const [name, setName] = useState("Dummy");
+      const [password,setPassword]=useState("123456");
       let {setpersonalId}=useContext(AuthContext);
   let {login,isAuth,setAuth,token,setToken} = useContext(AuthContext);
 
@@ -49,7 +49,7 @@ export default function Login() {
       if(userExist===1){
           alert("🎉🎊Successfully Logged In 🤗🥳");
           console.log("loginSuccessfull",token,isAuth);
-          localStorage.setItem("userName",name)
+          localStorage.setItem("userName",JSON.stringify({name,email}))
           // window.location.href("/account/personalInfo")  
         }else{
           alert("Invalid Credentials❌");

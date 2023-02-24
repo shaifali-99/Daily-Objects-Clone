@@ -9,9 +9,9 @@ function App() {
     <div className="App">
       <AllRoutes />
       <Home />
-      <Footer />
-    </div>
+      <Footer /></div>
   );
+
 }
 
 export default App;

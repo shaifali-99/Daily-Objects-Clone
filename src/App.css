@@ -91,6 +91,8 @@
   width: 100%;
   display: flex;
   gap: 5rem;
+  margin: 0%;
+  padding: 0%;
   /* border: 1px solid; */
   justify-content: space-between;
 }

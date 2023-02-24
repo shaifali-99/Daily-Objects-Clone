@@ -1,3 +1,4 @@
+import { Route, Routes } from 'react-router-dom'
 import Home from "../Pages/Home/Home";
 import { AccountPage } from "../Pages/UserAccount/AccountPage";
 import { Rewards } from "../Pages/UserAccount/Reward";

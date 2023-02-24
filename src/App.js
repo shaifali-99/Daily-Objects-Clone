@@ -1,6 +1,4 @@
 
-import axios from 'axios';
-import { useEffect, useState } from "react";
 import "./App.css";
 import AllRoutes from "./Components/AllRoutes";
 import Footer from "./Components/Footer";

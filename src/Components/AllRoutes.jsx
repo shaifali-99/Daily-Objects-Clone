@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import React from 'react'
 import { Route, Routes } from 'react-router-dom'
 import Cases from '../Pages/Cases and sleeves/cases'
@@ -22,7 +21,6 @@ import LaptopCoverNavbar from './Laptop Macbook Sleeves/GroupSingle/LaptopCoverN
 import MacbookSleeves from './Laptop Macbook Sleeves/GroupSingle/MacbookSleeves'
 import Messenger from './Laptop Macbook Sleeves/GroupSingle/Messenger'
 import ZippedSleeves from './Laptop Macbook Sleeves/GroupSingle/ZippedSleeves'
-=======
 import React from "react";
 import { Route, Routes } from "react-router-dom";
 import Cases from "../Pages/Cases and sleeves/Cases";
@@ -47,13 +45,11 @@ import NewArrivalsPage from "../Pages/NewArrivalsPage.jsx/NewArrivalsPage";
 import AllAccessories from "./Accessories/AllAccessories";
 import Sale from "./Sale/Sale";
 import IndividualPhoneCoverData from "./Cases and covers/SingleSingle/IndividualPhoneCoverData";
->>>>>>> 10752214d763e000310121c5aeedd6288f4f159d
 
 export default function AllRoutes() {
   console.log("dbdf");
   return (
     <div>
-<<<<<<< HEAD
         <Routes>
             <Route path='/' element={<Home/>}/>
             <Route path='/cases' element={<Cases/>}/>
@@ -78,7 +74,6 @@ export default function AllRoutes() {
             {/* <Route path='/cases/phonecovers' element={<PhoneCovers/>}/> */}
 
         </Routes>
-=======
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/cases" element={<Cases />} />
@@ -108,7 +103,6 @@ export default function AllRoutes() {
         <Route path="/sale" element={<Sale />} />
         <Route path="/wallets" element={<AllAccessories />} />
       </Routes>
->>>>>>> 10752214d763e000310121c5aeedd6288f4f159d
     </div>
   );
 }

@@ -1279,7 +1279,6 @@
       "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
     }
   ],
-
   "DUFFLEBAGS": [
     {
       "image": "https://images.dailyobjects.com/marche/product-images/1205/all-clove-trail-weekender-images/All-Clove-Trail-Weekender-p.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
@@ -1520,32 +1519,19 @@
       "id": 7
     },
     {
-      "name": "gaurav",
+      "name": "Amit Bhandari",
       "email": "gaurav123@gmail.com",
       "password": "gauru1234",
       "id": 8,
       "area": "dholakpur",
-      "state": "puranapardesh",
-      "city": "mayanagari",
-      "phone": "9205098889",
+      "state": "uttrakhand",
+      "city": "chelusain",
+      "phone": "09675517579",
       "houseNo": "111",
-      "pincode": "110022"
+      "pincode": "246128"
     }
   ],
-  "WishlistiphoneCovers": [
-    {
-      "href": "https://www.dailyobjects.com/dailyobjects-dual-holo-satin-glass-case-cover-for-xiaomi-mi-11i/dp?f=pid~GLAS-DUAL-HOLO-SATI-DOB-XI-MI11I&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-dual-holo-satin-glass-case-cover-for-xiaomi-mi-11i-images/DailyObjects-Dual-Holo-Satin-Glass-Case-Cover-For-Xiaomi-Mi-11i.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
-      "title": "Dual Holo Satin Glass Case Cover For Xiaomi Mi 11i",
-      "id": 699
-    },
-    {
-      "href": "https://www.dailyobjects.com/dailyobjects-guwahati-city-tag-glass-case-cover-for-xiaomi-mi-11i/dp?f=pid~GLAS-GUWA-CITY-TAG-DOB-XI-MI11I&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-guwahati-city-tag-glass-case-cover-for-xiaomi-mi-11i-images/DailyObjects-Guwahati-City-Tag-Glass-Case-Cover-For-Xiaomi-Mi-11i.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
-      "title": "Guwahati City Tag Glass Case Cover For Xiaomi Mi 11i",
-      "id": 700
-    }
-  ],
+  "WishlistiphoneCovers": [],
   "iphoneCovers": [
     {
       "href": "https://www.dailyobjects.com/slick-phone-case-cover-for-iphone-14/dp?f=pid~SLIK-PHN-DOB-AP-IPH14&amp;s=referer~lp",
@@ -11755,6 +11741,14 @@
       "price": "Rs.1799",
       "strike": "1999",
       "id": 4
+    },
+    {
+      "href": "https://www.dailyobjects.com/dailyobjects-vulcan-case-cover-for-iphone-14/dp?f=pid~VLCN-DOB-AP-IPH14&amp;s=referer~lp",
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-vulcan-case-cover-for-iphone-14-images/DailyObjects-Prima-Case-Cover-For-iPhone-14-vw.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "title": "Vulcan Case Cover For iPhone 14",
+      "price": "Rs.1999",
+      "strike": "2499",
+      "id": 2
     }
   ],
   "buyNow": [

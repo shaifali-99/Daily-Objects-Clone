@@ -1,7 +1,5 @@
 import React, { useContext, useState } from 'react';
 import { SlLogin ,SlArrowRight, SlLogout} from "react-icons/sl";
-import React, { useState } from 'react';
-import { SlLogin ,SlArrowRight} from "react-icons/sl";
 import { BiUser } from "react-icons/bi";
 import { BsCartCheck, BsHeart, BsGift} from "react-icons/bs";
 import Login from './Login';
@@ -24,13 +22,13 @@ const LinkItems = [
 ];
 export default function Sidebar() {
   let {isAuth,setAuth}=useContext(AuthContext)
-  let userName = localStorage.getItem("userName");
+  let {name,email} = JSON.parse(localStorage.getItem("userName"));
   const [isOpen,setOpen]= useState(true);
   const toggle = () =>{
     setOpen((prev)=>!prev);
   }
   // console.log(userName)
- return <div className="container ">
+ return <div className="container">
   <div style={{width:isOpen?"25%":"10%"}} className='sidebar'>
     <div className='top-section'>
       {/* <div style={{flexDirection:isOpen?"row":"column"}} className='bars'> */}
@@ -38,7 +36,7 @@ export default function Sidebar() {
        <div style={{color:"#319795",display:"flex",alignItems:"center"}}>
         <FaUserCircle/> | 
         <div>
-        {userName!==""&&isAuth? userName : "USER"}
+        {name!==""&&isAuth? name : "USER"}
         </div>
        </div> 
         <FaBars style={{marginLeft:isOpen?"40%":"12px"}} onClick={toggle}/>

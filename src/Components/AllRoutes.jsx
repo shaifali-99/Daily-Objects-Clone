@@ -65,7 +65,7 @@ export default function AllRoutes() {
         {/* <Route path='/rewards' element={<Rewards/>}/> */}
         {/* <Route path="/cases/phonecovers" element={<FilterMobiles />} /> */}
 
-           <Routes>
+        
         <Route path="/" element={<Home />} />
         <Route path="/cases" element={<Cases />} />
         <Route path="/cases/phonecovers" element={<FilterMobiles />} />

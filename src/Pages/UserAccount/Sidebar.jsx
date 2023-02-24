@@ -1,27 +1,4 @@
 import React, { useContext, useState } from 'react';
-// import {
-//   IconButton,
-//   Box,
-//   CloseButton,
-//   Flex,
-//   Icon,
-//   useColorModeValue,
-//   Link,
-//   Drawer,
-//   DrawerContent,
-//   useDisclosure,
-//   HStack,
-//   Heading,
-// } from '@chakra-ui/react';
-// import {
-//   FiHome,
-//   FiTrendingUp,
-//   FiCompass,
-//   FiStar,
-//   FiSettings,
-//   FiMenu,
-// } from 'react-icons/fi';
-// import { Divider } from '@chakra-ui/react';
 import { SlLogin ,SlArrowRight, SlLogout} from "react-icons/sl";
 import React, { useState } from 'react';
 import { SlLogin ,SlArrowRight} from "react-icons/sl";
@@ -52,7 +29,7 @@ export default function Sidebar() {
   const toggle = () =>{
     setOpen((prev)=>!prev);
   }
-  console.log(userName)
+  // console.log(userName)
  return <div className="container ">
   <div style={{width:isOpen?"25%":"10%"}} className='sidebar'>
     <div className='top-section'>

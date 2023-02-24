@@ -35,13 +35,6 @@ export default function AllRoutes() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/cases" element={<Cases />} />
-        {/* <Route path="/cases/phonecovers" element={<PhoneCovers />} /> */}
-        {/* <Route path='/rewards' element={<Rewards/>}/> */}
-        {/* <Route path="/cases/phonecovers" element={<FilterMobiles />} /> */}
-
-        
-        <Route path="/" element={<Home />} />
-        <Route path="/cases" element={<Cases />} />
         <Route path="/cases/phonecovers" element={<FilterMobiles />} />
       
         <Route path='/cases/phonecovers/mobiles' element={<FilterMobiles/>}/>
@@ -68,8 +61,8 @@ export default function AllRoutes() {
           path="/iphoneCovers/:id"
           element={<IndividualPhoneCoverData />}
         />
-        <Route path="/newarrivalspage" element={<NewArrivalsPage />}></Route>
-        <Route path="/newarrivalcomp" element={<NewArrivalComp />}></Route>
+        <Route path="/newarrivalspage" element={<NewArrivalsPage />}/>
+        <Route path="/newarrivalcomp" element={<NewArrivalComp />}/>
         <Route path="/accesories" element={<AllAccessories />} />
         <Route path="/sale" element={<Sale />} />
         <Route path="/wallets" element={<AllAccessories />} />

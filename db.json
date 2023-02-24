@@ -1517,32 +1517,7 @@
       "email": "test4@gmail.com",
       "password": "test123456",
       "id": 7
-    },
-    {
-      "href": "https://www.dailyobjects.com/dailyobjects-blue-flekt-silicone-case-cover-for-iphone-14/dp?f=pid~BLUE-FLKT-SLCN-DOB-AP-IPH14&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-blue-flekt-silicone-case-cover-for-iphone-14-images/DailyObjects-Blue-Flekt-Silicone-Case-Cover-For-iPhone-14.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
-      "title": "Blue Flekt Silicone Case Cover For iPhone 14",
-      "price": "Rs.1799",
-      "strike": "1999",
-      "id": 6
-    },
-    {
-      "href": "https://www.dailyobjects.com/dailyobjects-90s-rule-stride-2-0-case-cover-for-iphone-14/dp?f=pid~STRD-2-0-90S-RULE-DOB-AP-IPH14&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-90s-rule-stride-2-0-case-cover-for-iphone-14-images/DailyObjects-90s-Rule-Stride-2-0-Case-Cover-For-iPhone-14.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
-      "title": "90's Rule Stride 2.0 Case Cover For iPhone 14",
-      "price": "Rs.1199",
-      "strike": "2199",
-      "id": 18
-    },
-    {
-      "href": "https://www.dailyobjects.com/dailyobjects-mohobbat-sharbat-black-hybrid-clear-case-cover-for-iphone-14/dp?f=pid~BLK-HYBRD-CLR-MOHO-SHAR-AP-IPH14&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-mohobbat-sharbat-black-hybrid-clear-case-cover-for-iphone-14-images/DailyObjects-Mohobbat-Sharbat-Black-Hybrid-Clear-Case-Cover-For-iPhone-14.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
-      "title": "Mohobbat Sharbat Black Hybrid Clear Case Cover For iPhone 14",
-      "price": "Rs.1199",
-      "strike": "2199",
-      "new": "NEW!",
-      "id": 10
-    },
+    }
   ],
   "WishlistiphoneCovers": [],
   "iphoneCovers": [

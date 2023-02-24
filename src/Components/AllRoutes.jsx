@@ -1,5 +1,3 @@
-
-
 import Home from "../Pages/Home/Home";
 import { AccountPage } from "../Pages/UserAccount/AccountPage";
 import { Rewards } from "../Pages/UserAccount/Reward";
@@ -17,7 +15,7 @@ import MacbookSleeves from "./Laptop Macbook Sleeves/GroupSingle/MacbookSleeves"
 import Messenger from "./Laptop Macbook Sleeves/GroupSingle/Messenger";
 import ZippedSleeves from "./Laptop Macbook Sleeves/GroupSingle/ZippedSleeves";
 
-import Cases from "../Pages/Cases and sleeves/Cases"
+import Cases from "../Pages/Cases and sleeves/Cases";
 
 import React from "react";
 
@@ -63,8 +61,8 @@ export default function AllRoutes() {
           path="/iphoneCovers/:id"
           element={<IndividualPhoneCoverData />}
         />
-        <Route path="/newarrivalspage" element={<NewArrivalsPage />}/>
-        <Route path="/newarrivalcomp" element={<NewArrivalComp />}/>
+        <Route path="/newarrivalspage" element={<NewArrivalsPage />} />
+        <Route path="/newarrivalcomp" element={<NewArrivalComp />} />
         <Route path="/accesories" element={<AllAccessories />} />
         <Route path="/sale" element={<Sale />} />
         <Route path="/wallets" element={<AllAccessories />} />

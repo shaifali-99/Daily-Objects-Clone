@@ -1,5 +1,7 @@
 import React, { useContext, useState } from 'react';
 import { SlLogin ,SlArrowRight, SlLogout} from "react-icons/sl";
+// import  { useState } from 'react';
+// import { SlLogin ,SlArrowRight} from "react-icons/sl";
 import { BiUser } from "react-icons/bi";
 import { BsCartCheck, BsHeart, BsGift} from "react-icons/bs";
 import Login from './Login';

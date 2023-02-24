@@ -5,7 +5,7 @@ import { Tabs, TabList, TabPanels, Tab, TabPanel } from '@chakra-ui/react'
 export const AccountPage = () =>{
     return <div>
         <div>
-            <Navbar/>
+        <Navbar/>
             <div style={{border:"1px solid lightgray",margin:"auto",alignItems:"center",padding:"2.5rem"}}>
                 <Heading as={'h2'} size='xl'>MY ACCOUNT</Heading>
             </div>

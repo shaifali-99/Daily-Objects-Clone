@@ -1,19 +1,18 @@
-
-import axios from 'axios';
-import { useEffect, useState } from 'react';
 import axios from "axios";
 import { useEffect, useState } from "react";
 import "./App.css";
 import AllRoutes from "./Components/AllRoutes";
 import Footer from "./Components/Footer";
+// import Navbar from "./Components/Navbar";
+import Home from "./Components/Home";
 
 function App() {
   return (
-
     <div className="App">
       <AllRoutes />
+      <Home />
       <Footer />
-      </div>
+    </div>
   );
 }
 

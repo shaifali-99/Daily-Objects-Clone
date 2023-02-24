@@ -6,7 +6,7 @@ import reportWebVitals from "./reportWebVitals";
 import { BrowserRouter } from "react-router-dom";
 
 import { ChakraProvider } from "@chakra-ui/react";
-import {ProSidebarProvider} from 'react-pro-sidebar'
+// import {ProSidebarProvider} from 'react-pro-sidebar'
 import AuthContextProvider from "./Pages/UserAccount/AccountContextAuth/AuthContextAccount";
 
 // import {ProSidebarProvider} from 'react-pro-sidebar'

@@ -1,11 +1,12 @@
 import React from 'react'
 import Navbar from '../../Components/Navbar'
+import HomeRect from '../../Components/Home'
 
 export default function Home() {
   return (
     <div>
     <Navbar/>
-    <h1>Gaurav"s  page</h1>
+    <HomeRect/>
     
      </div>
   )

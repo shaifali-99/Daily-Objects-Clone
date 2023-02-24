@@ -6,13 +6,18 @@ import { extendTheme } from "@chakra-ui/react";
 import ImageEveryPage from "../../Components/Cases and covers/ImageEveryPage";
 
 
+// import Navbar from "../../components/Navbar";
+// import ImageEveryPage from "../../Components/Cases and covers/ImageEveryPage";
+// import Navbar from "../../Components/Navbar";
+console.log("dgdf")
 const navLinks = {
   borderRadius: "20%",
 };
 function Cases() {
+  // console.log("dbdf")
   return (
     <div >
-      <Navbar />
+      <Navbar/>
 <ImageEveryPage name={`CASES & SLEEVES`}/>
       <div
         style={{
@@ -40,7 +45,7 @@ function Cases() {
           </Link>
         </div>
         <div className="navLinksToFurther">
-          <Link>
+          <Link to={"/cases/laptopcovers"}>
             <img
               src="https://images.dailyobjects.com/marche/icons/category/cases-sleeves-intermediate-image.jpg?tr=cm-pad_crop,v-2,w-160,h-160,dpr-2,q-60"
               alt=""

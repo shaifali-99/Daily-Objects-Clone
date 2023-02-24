@@ -1159,172 +1159,124 @@
   ],
   "messengerBags": [
     {
-      "href": "https://www.dailyobjects.com/all-clove-commute-messenger-medium/dp?f=pid~ALL-CLVE-CMUTE-MSG-MED&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1202/all-clove-commute-messenger-medium-images/All-Clove-Commute-Messenger-Small-Vw.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
-      "title": "All Clove Commute Messenger Medium",
-      "price": "Rs.3999",
-      "strike": "5499",
-      "id": 186
-    },
-    {
-      "href": "https://www.dailyobjects.com/ivory-clove-commute-messenger-large/dp?f=pid~IVORY-CLVE-CMUTE-MSG-LARGE&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1202/ivory-clove-commute-messenger-large-images/Ivory-Clove-Commute-Messenger-Large-vw.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
-      "title": "Ivory - Clove Commute Messenger Large",
-      "price": "Rs.4399",
-      "strike": "6499",
-      "id": 187
-    },
-    {
-      "href": "https://www.dailyobjects.com/ivory-olive-commute-messenger-medium/dp?f=pid~IVORY-OLIV-CMUTE-MSG-MED&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1202/ivory-olive-commute-messenger-medium-images/Ivory-Olive-Commute-Messenger-Small-vw.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "image": "https://images.dailyobjects.com/marche/product-images/1202/ivory-olive-commute-messenger-medium-images/Ivory-Olive-Commute-Messenger-Small-vw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
       "title": "Ivory - Olive Commute Messenger Medium",
-      "price": "Rs.3999",
-      "strike": "5499",
-      "id": 188
+      "price": "Rs.3999\n\n5499",
+      "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
     },
     {
-      "href": "https://www.dailyobjects.com/midnight-blue-city-compact-messenger-bag/dp?f=pid~MIDNYT-BLUE-CIT-CMPT-MSG-BAG&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1202/midnight-blue-city-compact-messenger-bag-images/Midnight-Blue-City-Compact-Messenger-Bag.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
-      "title": "Midnight Blue City Compact Fleet Messenger Bag",
-      "price": "Rs.3499",
-      "strike": "4999",
-      "id": 189
+      "image": "https://images.dailyobjects.com/marche/product-images/1202/all-clove-commute-messenger-medium-images/All-Clove-Commute-Messenger-Small-Vw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+      "title": "All Clove Commute Messenger Medium",
+      "price": "Rs.3999\n\n5499",
+      "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
     },
     {
-      "href": "https://www.dailyobjects.com/ivory-navy-commute-messenger-medium/dp?f=pid~IVORT-NVY-CMUTE-MSG-MED&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1202/ivory-navy-commute-messenger-medium-images/Ivory-Navy-Commute-Messenger-Medium.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
-      "title": "Ivory - Navy Commute Messenger Medium",
-      "price": "Rs.3999",
-      "strike": "5499",
-      "id": 190
+      "image": "https://images.dailyobjects.com/marche/product-images/1202/ivory-clove-commute-messenger-large-images/Ivory-Clove-Commute-Messenger-Large-vw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+      "title": "Ivory - Clove Commute Messenger Large",
+      "price": "Rs.4399\n\n6499",
+      "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
     },
     {
-      "href": "https://www.dailyobjects.com/walnut-brown-urban-classic-briefcase-bag/dp?f=pid~WALNT-BRWN-URBN-CLASIC-BREFCASE-BAG&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1202/walnut-brown-urban-classic-briefcase-bag-images/Walnut-Brown-Urban-Classic-Briefcase-Bag-vw.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "image": "https://images.dailyobjects.com/marche/product-images/1202/walnut-brown-urban-classic-briefcase-bag-images/Walnut-Brown-Urban-Classic-Briefcase-Bag-vw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
       "title": "Walnut Brown Urban Classic Briefcase Bag",
-      "price": "Rs.4999",
-      "strike": "5999",
-      "id": 191
+      "price": "Rs.4999\n\n5999",
+      "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
     },
     {
-      "href": "https://www.dailyobjects.com/space-urban-classic-briefcase-bag/dp?f=pid~SPAC-BLUE-URBN-CLASIC-BREFCASE-BAG&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1202/space-urban-classic-briefcase-bag-images/Space-Blue-Urban-Classic-Briefcase-Bag-vw.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
-      "title": "Space Blue Urban Classic Briefcase Bag",
-      "price": "Rs.4999",
-      "strike": "5999",
-      "id": 192
-    },
-    {
-      "href": "https://www.dailyobjects.com/space-blue-bask-messenger-bag/dp?f=pid~SPAC-BLUE-BSK-MSG-BAG&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1202/space-blue-bask-messenger-bag-images/Space-Blue-Bask-Messenger-Bag.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
-      "title": "Space Blue Bask Messenger Bag",
-      "price": "Rs.3499",
-      "strike": "4999",
-      "id": 193
-    },
-    {
-      "href": "https://www.dailyobjects.com/khaki-beige-city-compact-messenger-bag/dp?f=pid~KHKI-BIGE-CIT-CMPT-MSG-BAG&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1202/khaki-beige-city-compact-messenger-bag-images/Khaki-Beige-City-Compact-Messenger-Bag.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "image": "https://images.dailyobjects.com/marche/product-images/1202/khaki-beige-city-compact-messenger-bag-images/Khaki-Beige-City-Compact-Messenger-Bag.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
       "title": "Khaki Beige City Compact Fleet Messenger Bag",
-      "price": "Rs.3499",
-      "strike": "4999",
-      "id": 194
+      "price": "Rs.3499\n\n4999",
+      "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
     },
     {
-      "href": "https://www.dailyobjects.com/terracotta-red-bask-messenger-bag/dp?f=pid~TRACTA-RED-BSK-MSG-BAG&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1202/terracotta-red-bask-messenger-bag-images/Terracotta-Red-Bask-Messenger-Bag.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "image": "https://images.dailyobjects.com/marche/product-images/1202/ivory-navy-commute-messenger-medium-images/Ivory-Navy-Commute-Messenger-Medium.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+      "title": "Ivory - Navy Commute Messenger Medium",
+      "price": "Rs.3999\n\n5499",
+      "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+    },
+    {
+      "image": "https://images.dailyobjects.com/marche/product-images/1202/terracotta-red-bask-messenger-bag-images/Terracotta-Red-Bask-Messenger-Bag.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
       "title": "Terracotta Red Bask Messenger Bag",
-      "price": "Rs.3499",
-      "strike": "4999",
-      "id": 195
+      "price": "Rs.3499\n\n4999",
+      "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
     },
     {
-      "href": "https://www.dailyobjects.com/mustard-yellow-city-compact-messenger-bag/dp?f=pid~MSTRD-YELW-CIT-CMPT-MSG-BAG&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1202/mustard-yellow-city-compact-messenger-bag-images/Mustard-Yellow-City-Compact-Messenger-Bag.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "image": "https://images.dailyobjects.com/marche/product-images/1202/space-blue-bask-messenger-bag-images/Space-Blue-Bask-Messenger-Bag.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+      "title": "Space Blue Bask Messenger Bag",
+      "price": "Rs.3499\n\n4999",
+      "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+    },
+    {
+      "image": "https://images.dailyobjects.com/marche/product-images/1202/space-urban-classic-briefcase-bag-images/Space-Blue-Urban-Classic-Briefcase-Bag-vw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+      "title": "Space Blue Urban Classic Briefcase Bag",
+      "price": "Rs.4999\n\n5999",
+      "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+    },
+    {
+      "image": "https://images.dailyobjects.com/marche/product-images/1202/midnight-blue-city-compact-messenger-bag-images/Midnight-Blue-City-Compact-Messenger-Bag.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+      "title": "Midnight Blue City Compact Fleet Messenger Bag",
+      "price": "Rs.3499\n\n4999",
+      "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
+    },
+    {
+      "image": "https://images.dailyobjects.com/marche/product-images/1202/mustard-yellow-city-compact-messenger-bag-images/Mustard-Yellow-City-Compact-Messenger-Bag.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
       "title": "Mustard Yellow City Compact Fleet Messenger Bag",
-      "price": "Rs.2999",
-      "strike": "4999",
-      "id": 196
+      "price": "Rs.2999\n\n4999",
+      "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
     },
     {
-      "href": "https://www.dailyobjects.com/crimson-red-city-compact-messenger-bag/dp?f=pid~CRMSON-RED-CIT-CMPT-MSG-BAG&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1202/crimson-red-city-compact-messenger-bag-images/Crimson-Red-City-Compact-Messenger-Bag.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "image": "https://images.dailyobjects.com/marche/product-images/1202/crimson-red-city-compact-messenger-bag-images/Crimson-Red-City-Compact-Messenger-Bag.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
       "title": "Crimson Red City Compact Fleet Messenger Bag",
-      "price": "Rs.2999",
-      "strike": "4999",
-      "id": 197
+      "price": "Rs.2999\n\n4999",
+      "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
     },
     {
-      "href": "https://www.dailyobjects.com/walnut-brown-bask-messenger-bag/dp?f=pid~WLNT-BRWN-BSK-MSG-BAG&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1202/walnut-brown-bask-messenger-bag-images/Walnut-Brown-Bask-Messenger-Bag.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "image": "https://images.dailyobjects.com/marche/product-images/1202/walnut-brown-bask-messenger-bag-images/Walnut-Brown-Bask-Messenger-Bag.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
       "title": "Walnut Brown Bask Messenger Bag",
-      "price": "Rs.3499",
-      "strike": "4999",
-      "id": 198
+      "price": "Rs.3499\n\n4999",
+      "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
     },
     {
-      "href": "https://www.dailyobjects.com/olive-green-city-compact-messenger-bag/dp?f=pid~OLIV-GRN-CIT-CMPT-MSG-BAG&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1202/olive-green-city-compact-messenger-bag-images/Olive-Green-City-Compact-Messenger-Bag.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "image": "https://images.dailyobjects.com/marche/product-images/1202/olive-green-city-compact-messenger-bag-images/Olive-Green-City-Compact-Messenger-Bag.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
       "title": "Olive Green City Compact Fleet Messenger Bag",
-      "price": "Rs.3499",
-      "strike": "4999",
-      "id": 199
+      "price": "Rs.3499\n\n4999",
+      "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
     },
     {
-      "href": "https://www.dailyobjects.com/black-urban-classic-briefcase-bag/dp?f=pid~BLK-URBN-CLASIC-BREFCASE-BAG&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1202/black-urban-classic-briefcase-bag-images/Black-Urban-Classic-Briefcase-Bag-vw.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "image": "https://images.dailyobjects.com/marche/product-images/1202/black-urban-classic-briefcase-bag-images/Black-Urban-Classic-Briefcase-Bag-vw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
       "title": "Black Urban Classic Briefcase Bag",
-      "price": "Rs.4999",
-      "strike": "5999",
-      "id": 200
+      "price": "Rs.4999\n\n5999",
+      "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
     },
     {
-      "href": "https://www.dailyobjects.com/ivory-olive-commute-messenger-large/dp?f=pid~IVORY-OLIV-CMUTE-MSG-LARGE&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1202/ivory-olive-commute-messenger-large-images/Ivory-Olive-Commute-Messenger-Large-vw.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
-      "title": "Ivory - Olive Commute Messenger Large",
-      "price": "Rs.4399",
-      "strike": "6499",
-      "id": 201
+      "image": "https://images.dailyobjects.com/marche/product-images/1202/clove-city-compact-messenger-bag-images/Clove-City-Compact-Fleet-Messenger-Bag.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+      "title": "Clove City Compact Fleet Messenger Bag",
+      "price": "Rs.3499\n\n4999",
+      "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
     },
     {
-      "href": "https://www.dailyobjects.com/all-clove-commute-messenger-large/dp?f=pid~ALL-CLVE-CMUTE-MSG-LARGE&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1202/all-clove-commute-messenger-large-images/All-Clove-Commute-Messenger-Large-vw.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
-      "title": "All Clove Commute Messenger Large",
-      "price": "Rs.4399",
-      "strike": "6499",
-      "id": 202
+      "image": "https://images.dailyobjects.com/marche/product-images/1202/all-mustard-commute-messenger-large-images/All-Mustard-Commute-Messenger-Large.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+      "title": "All Mustard Commute Messenger Large",
+      "price": "Rs.4399\n\n6499",
+      "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
     },
     {
-      "href": "https://www.dailyobjects.com/all-navy-commute-messenger-medium/dp?f=pid~ALL-NVY-CMUTE-MSG-MED&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1202/all-navy-commute-messenger-medium-images/All-Navy-Commute-Messenger-Small-Vw.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
-      "title": "All Navy Commute Messenger Medium",
-      "price": "Rs.3999",
-      "strike": "5499",
-      "id": 203
+      "image": "https://images.dailyobjects.com/marche/product-images/1202/all-mustard-commute-messenger-medium-images/All-Mustard-Commute-Messenger-Medium.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+      "title": "All Mustard Commute Messenger Medium",
+      "price": "Rs.3999\n\n5499",
+      "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
     },
     {
-      "href": "https://www.dailyobjects.com/all-navy-commute-messenger-large/dp?f=pid~ALL-NVY-CMUTE-MSG-LARGE&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1202/all-navy-commute-messenger-large-images/All-Navy-Commute-Messenger-Large-vw.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
-      "title": "All Navy Commute Messenger Large",
-      "price": "Rs.4399",
-      "strike": "6499",
-      "id": 204
-    },
-    {
-      "href": "https://www.dailyobjects.com/ivory-navy-commute-messenger-large/dp?f=pid~IVORT-NVY-CMUTE-MSG-LARGE&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1202/ivory-navy-commute-messenger-large-images/Ivory-Navy-Commute-Messenger-Large.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "image": "https://images.dailyobjects.com/marche/product-images/1202/ivory-navy-commute-messenger-large-images/Ivory-Navy-Commute-Messenger-Large.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
       "title": "Ivory - Navy Commute Messenger Large",
-      "price": "Rs.4399",
-      "strike": "6499",
-      "id": 205
+      "price": "Rs.4399\n\n6499",
+      "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
     },
     {
-      "href": "https://www.dailyobjects.com/ivory-clove-commute-messenger-medium/dp?f=pid~IVORY-CLVE-CMUTE-MSG-MED&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1202/ivory-clove-commute-messenger-medium-images/Ivory-Clove-Commute-Messenger-Small-vw.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
-      "title": "Ivory - Clove Commute Messenger Medium",
-      "price": "Rs.3999",
-      "strike": "5499",
-      "id": 206
+      "image": "https://images.dailyobjects.com/marche/product-images/1202/ivory-olive-commute-messenger-large-images/Ivory-Olive-Commute-Messenger-Large-vw.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
+      "title": "Ivory - Olive Commute Messenger Large",
+      "price": "Rs.4399\n\n6499",
+      "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
     }
   ],
   "DUFFLEBAGS": [
@@ -1565,9 +1517,7 @@
       "email": "test4@gmail.com",
       "password": "test123456",
       "id": 7
-    }
-  ],
-  "WishlistiphoneCovers": [
+    },
     {
       "href": "https://www.dailyobjects.com/dailyobjects-blue-flekt-silicone-case-cover-for-iphone-14/dp?f=pid~BLUE-FLKT-SLCN-DOB-AP-IPH14&amp;s=referer~lp",
       "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-blue-flekt-silicone-case-cover-for-iphone-14-images/DailyObjects-Blue-Flekt-Silicone-Case-Cover-For-iPhone-14.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
@@ -1600,8 +1550,19 @@
       "price": "Rs.1199",
       "strike": "2199",
       "id": 12
+      "name": "Amit Bhandari",
+      "email": "gaurav123@gmail.com",
+      "password": "gauru1234",
+      "id": 8,
+      "area": "dholakpur",
+      "state": "uttrakhand",
+      "city": "chelusain",
+      "phone": "09675517579",
+      "houseNo": "111",
+      "pincode": "246128"
     }
   ],
+  "WishlistiphoneCovers": [],
   "iphoneCovers": [
     {
       "href": "https://www.dailyobjects.com/slick-phone-case-cover-for-iphone-14/dp?f=pid~SLIK-PHN-DOB-AP-IPH14&amp;s=referer~lp",
@@ -11681,6 +11642,127 @@
       "id": 1014
     },
     {
+    {
+      "anchor-tag href": "https://www.dailyobjects.com/surge-2-in-1-magnetic-charging-station/dp?f=pid~SURG-2-N1-MGNT-CHRGN-STATION&amp;s=referer~lp",
+      "image": "https://images.dailyobjects.com/marche/product-images/1809/surge-2-in-1-magnetic-charging-station-images/Surge-2-In-1-Magnetic-Charging-Station.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "title": "DailyObjects SURGE™ 2-In-1 Universal Magnetic Wireless Charging Station (18W)",
+      "price": "Rs.3999",
+      "strike": "7999",
+      "id": 1000
+    },
+    {
+      "anchor-tag href": "https://www.dailyobjects.com/conoid-universal-magnetic-charging-stand/dp?f=pid~CNID-UNVRSL-MGNTC-CHRGN-STATION&amp;s=referer~lp",
+      "image": "https://images.dailyobjects.com/marche/product-images/1809/conoid-universal-magnetic-charging-stand-images/Conoid-Universal-Magnetic-Charging-Stand-vw.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "title": "Conoid Universal Magnetic Wireless Charging Stand (15W)",
+      "price": "Rs.2999",
+      "strike": "5999",
+      "id": 1001
+    },
+    {
+      "anchor-tag href": "https://www.dailyobjects.com/dailyobjects-surge-duoport-apple-watch-charger-black/dp?f=pid~BLK-SRG-DUOPRT-AP-WATCH-CHARNG&amp;s=referer~lp",
+      "image": "https://images.dailyobjects.com/marche/product-images/1809/dailyobjects-surge-duoport-apple-watch-charger-black-images/DailyObjects-Surge-DuoPort-Apple-Watch-Charger-Black.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "title": "DailyObjects Surge™ DuoPort Apple Watch Charger",
+      "price": "Rs.1399",
+      "strike": "2499",
+      "id": 1002
+    },
+    {
+      "anchor-tag href": "https://www.dailyobjects.com/dailyobjects-surge-condo-apple-watch-charging-stand/dp?f=pid~SRG-CNDO-AP-WATCH-CHARNG-STND&amp;s=referer~lp",
+      "image": "https://images.dailyobjects.com/marche/product-images/1809/dailyobjects-surge-condo-apple-watch-charging-stand-images/DailyObjects-Surge-Apple-Watch-Charging-Dock.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "title": "DailyObjects Surge™ Condo Apple Watch Charging Stand",
+      "price": "Rs.1799",
+      "strike": "2799",
+      "id": 1003
+    },
+    {
+      "anchor-tag href": "https://www.dailyobjects.com/dailyobjects-surge-porto-apple-watch-charger/dp?f=pid~SRG-PRTO-AP-WATCH-CHARGER&amp;s=referer~lp",
+      "image": "https://images.dailyobjects.com/marche/product-images/1809/dailyobjects-surge-porto-apple-watch-charger-images/DailyObjects-Surge-Porto-Apple-Watch-Charger.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "title": "DailyObjects Surge™ Porto Apple Watch Charger",
+      "price": "Rs.1799",
+      "strike": "2799",
+      "id": 1004
+    },
+    {
+      "anchor-tag href": "https://www.dailyobjects.com/surge-3-in-1-magnetic-charging-station/dp?f=pid~SURG-3-N1-MGNT-CHRGN-STATION&amp;s=referer~lp",
+      "image": "https://images.dailyobjects.com/marche/product-images/1809/surge-3-in-1-magnetic-charging-station-images/Surge-3-In-1-Magnetic-Charging-Station.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "title": "DailyObjects SURGE™ 3-In-1 Magnetic Wireless Charging Station (25W)",
+      "price": "Rs.4999",
+      "strike": "9999",
+      "id": 1005
+    },
+    {
+      "anchor-tag href": "https://www.dailyobjects.com/dailyobjects-surge-pd-33w-gan-tech-dual-port-charger/dp?f=pid~PD-33W-GAN-TCH-DUL-PRT-CHRGR&amp;s=referer~lp",
+      "image": "https://images.dailyobjects.com/marche/product-images/1809/dailyobjects-surge-pd-33w-gan-tech-dual-port-charger-images/DailyObjects-SURGE-PD-33W-GaN-Tech-Dual-Port-Charger-vW.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "title": "DailyObjects SURGE™ PD GaN 33W Dual Port Charger",
+      "price": "Rs.1999",
+      "strike": "2499",
+      "id": 1006
+    },
+    {
+      "anchor-tag href": "https://www.dailyobjects.com/white-clock-and-dock-charging-station/dp?f=pid~WHT-CLCK-AND-DCK-CHRG-STATION&amp;s=referer~lp",
+      "image": "https://images.dailyobjects.com/marche/product-images/1809/white-clock-and-dock-charging-station-images/White-Clock-And-Dock-Charging-Station-vw.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "title": "White Clock &amp; Dock Charging Station",
+      "price": "Rs.2999",
+      "strike": "3499",
+      "id": 1007
+    },
+    {
+      "anchor-tag href": "https://www.dailyobjects.com/trinity-wireless-charging-station/dp?f=pid~TRNTY-WRLES-CHRG-STATN&amp;s=referer~lp",
+      "image": "https://images.dailyobjects.com/marche/product-images/1809/undefined-images/Trinity-Wireless-Charging-Station.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "title": "Trinity Wireless Charging Station",
+      "price": "Rs.3999",
+      "strike": "7999",
+      "id": 1008
+    },
+    {
+      "anchor-tag href": "https://www.dailyobjects.com/dailyobjects-surge-4-in-1-universal-braided-charging-cable/dp?f=pid~4IN1-SRG-BRDED-CHRGNG-CABLE&amp;s=referer~lp",
+      "image": "https://images.dailyobjects.com/marche/product-images/1809/dailyobjects-surge-4-in-1-universal-braided-charging-cable-images/DailyObjects-SURGE-4-in-1-Universal-Braided-Charging-Cable.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "title": "DailyObjects SURGE™ 4-in-1 Universal Braided Charging Cable",
+      "price": "Rs.799",
+      "strike": "999",
+      "id": 1009
+    },
+    {
+      "anchor-tag href": "https://www.dailyobjects.com/dailyobjects-surge-pd-gan-33w-dual-port-charger-and-4-in-1-universal-braided-charging-cable-combo/dp?f=pid~PD-33W-GAN-DUL-CHRGR-COMBO&amp;s=referer~lp",
+      "image": "https://images.dailyobjects.com/marche/product-images/1809/dailyobjects-surge-pd-gan-33w-dual-port-charger-and-4-in-1-universal-braided-charging-cable-combo-images/SURGE-PD-GaN-33W-Dual-Port-Charger-And-4-in-1-Universal-Braided-Charging-Cable-Combo.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "title": "DailyObjects SURGE™ PD GaN 33W Dual Port Charger &amp; 4-in-1 Universal Braided Charging Cable Combo",
+      "price": "Rs.2499",
+      "strike": "3499",
+      "id": 1010
+    },
+    {
+      "anchor-tag href": "https://www.dailyobjects.com/dailyobjects-surge-pd-20w-dual-port-charger/dp?f=pid~PD-20W-DUL-PRT-CHRGR&amp;s=referer~lp",
+      "image": "https://images.dailyobjects.com/marche/product-images/1809/dailyobjects-surge-pd-20w-dual-port-charger-images/DailyObjects-SURGE-PD-20W-Dual-Port-Charger-vW.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "title": "DailyObjects SURGE™ PD 20W Dual Port Charger",
+      "price": "Rs.1499",
+      "strike": "1999",
+      "id": 1011
+    },
+    {
+      "anchor-tag href": "https://www.dailyobjects.com/dailyobjects-surge-pd-20w-dual-port-charger-and-4-in-1-universal-braided-charging-cable-combo/dp?f=pid~PD-20W-DUL-CHRGR-COMBO&amp;s=referer~lp",
+      "image": "https://images.dailyobjects.com/marche/product-images/1809/dailyobjects-surge-pd-20w-dual-port-charger-and-4-in-1-universal-braided-charging-cable-combo-images/SURGE-PD-20W-Dual-Port-Charger-And-4-in-1-Universal-Braided-Charging-Cable-Combo.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "title": "DailyObjects SURGE™ PD 20W Dual Port Charger &amp; 4-in-1 Universal Braided Charging Cable Combo",
+      "price": "Rs.1999",
+      "strike": "2999",
+      "id": 1012
+    },
+    {
+      "anchor-tag href": "https://www.dailyobjects.com/dailyobjects-surge-pd-65w-gan-tech-dual-port-charger/dp?f=pid~PD-65W-GAN-TCH-DUL-PRT-CHRGR&amp;s=referer~lp",
+      "image": "https://images.dailyobjects.com/marche/product-images/1809/dailyobjects-surge-pd-65w-gan-tech-dual-port-charger-images/DailyObjects-SURGE-PD-65W-GaN-Tech-Dual-Port-Charger.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "title": "DailyObjects SURGE™ PD 65W GaN Tech Dual Port Charger",
+      "price": "Rs.2799",
+      "strike": "3299",
+      "id": 1013
+    },
+    {
+      "anchor-tag href": "https://www.dailyobjects.com/black-clock-and-dock-charging-station/dp?f=pid~BLK-CLCK-AND-DCK-CHRG-STATION&amp;s=referer~lp",
+      "image": "https://images.dailyobjects.com/marche/product-images/1809/black-clock-and-dock-charging-station-images/Black-Clock-And-Dock-Charging-Station-vw.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "title": "Black Clock &amp; Dock Charging Station",
+      "price": "Rs.2999",
+      "strike": "3499",
+      "id": 1014
+    },
+    {
       "anchor-tag href": "https://www.dailyobjects.com/dailyobjects-surge-pd-gan-65w-dual-port-charger-and-4-in-1-universal-braided-charging-cable-combo/dp?f=pid~PD-65W-GAN-DUL-CHRGR-COMBO&amp;s=referer~lp",
       "image": "https://images.dailyobjects.com/marche/product-images/1809/dailyobjects-surge-pd-gan-65w-dual-port-charger-and-4-in-1-universal-braided-charging-cable-combo-images/SURGE-PD-GaN-65W-Dual-Port-Charger-And-4-in-1-Universal-Braided-Charging-Cable-Combo.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
       "title": "DailyObjects SURGE™ PD GaN 65W Dual Port Charger &amp; 4-in-1 Universal Braided Charging Cable Combo",
@@ -11792,6 +11874,90 @@
       "ttite": "Romantic Pink Retro Floral Pattern Teal Polka Dots - Trapeze Crossbody Bag",
       "price": "Rs.2499",
       "id": 1030
+    },
+    {
+      "anchor-tag href": "https://www.dailyobjects.com/dailyobjects-burgundy-vegan-leather-tallboi-crossbody-bag/dp?f=pid~BUR-VEG-LEATHER-TLBI-CROSSBODY-BAG&amp;s=referer~lp",
+      "image": "https://images.dailyobjects.com/marche/product-images/1203/dailyobjects-burgundy-vegan-leather-tallboi-crossbody-bag-images/DailyObjects-Burgundy-Vegan-Leather-TallBoi-Crossbody-Bag-vw.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "ttite": "Burgundy Vegan Leather - TallBoi Crossbody Bag",
+      "price": "Rs.1999",
+      "strike": "2499",
+      "id": 1026
+    },
+    {
+      "anchor-tag href": "https://www.dailyobjects.com/dailyobjects-tan-vegan-leather-tallboi-crossbody-bag/dp?f=pid~TAN-VEG-LEATHER-TLBI-CROSSBODY-BAG&amp;s=referer~lp",
+      "image": "https://images.dailyobjects.com/marche/product-images/1203/dailyobjects-tan-vegan-leather-tallboi-crossbody-bag-images/DailyObjects-Tan-Vegan-Leather-TallBoi-Crossbody-Bag-vw.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "ttite": "Tan Vegan Leather - TallBoi Crossbody Bag",
+      "price": "Rs.1999",
+      "strike": "2499",
+      "id": 1027
+    },
+    {
+      "anchor-tag href": "https://www.dailyobjects.com/dailyobjects-black-vegan-leather-tallboi-crossbody-bag/dp?f=pid~BLK-VEG-LEATHER-TLBI-CROSSBODY-BAG&amp;s=referer~lp",
+      "image": "https://images.dailyobjects.com/marche/product-images/2001/dailyobjects-black-vegan-leather-tallboi-crossbody-bag-images/DailyObjects-Black-Vegan-Leather-TallBoi-Crossbody-Bag-vw.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "ttite": "Black Vegan Leather - TallBoi Crossbody Bag",
+      "price": "Rs.1999",
+      "strike": "2499",
+      "id": 1028
+    },
+    {
+      "anchor-tag href": "https://www.dailyobjects.com/dailyobjects-how-to-chill-like-a-cat-trapeze-crossbody-bag/dp?f=pid~HOW-TO-CHI-LIK-A-MCK-TRAPEZE-CROSSBODY-BAG&amp;s=referer~lp",
+      "image": "https://images.dailyobjects.com/marche/product-images/bags-and-sleeves/dailyobjects/crossbody-bags/dailyobjects-how-to-chill-like-a-cat-trapeze-crossbody-bag-images/DailyObjects-How-to-Chill-Like-A-Cat-Trapeze-Crossbody-Bag.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "ttite": "How to Chill Like A Cat - Trapeze Crossbody Bag",
+      "price": "Rs.2499",
+      "id": 1029
+    },
+    {
+      "anchor-tag href": "https://www.dailyobjects.com/dailyobjects-romantic-pink-retro-floral-pattern-teal-polka-dots-trapeze-crossbody-bag/dp?f=pid~ROM-PIN-RET-FLO-PAT-GTD-TRAPEZE-CROSSBODY-BAG&amp;s=referer~lp",
+      "image": "https://images.dailyobjects.com/marche/product-images/bags-and-sleeves/dailyobjects/crossbody-bags/dailyobjects-romantic-pink-retro-floral-pattern-teal-polka-dots-trapeze-crossbody-bag-images/DailyObjects-Romantic-Pink-Retro-Floral-Pattern-Teal-Polka-Dots-Trapeze-Crossbody-Bag.png?tr=cm-pad_resize,v-2,w-366,h-451,dpr-2,q-60",
+      "ttite": "Romantic Pink Retro Floral Pattern Teal Polka Dots - Trapeze Crossbody Bag",
+      "price": "Rs.2499",
+      "id": 1030
+    }
+  ],
+  "cartItems": [
+    {
+      "href": "https://www.dailyobjects.com/dailyobjects-pink-hibiscus-blue-hybrid-clear-case-cover-for-iphone-14/dp?f=pid~BLUE-HYBRD-CLR-PINK-HIBI-DOB-AP-IPH14&amp;s=referer~lp",
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-pink-hibiscus-blue-hybrid-clear-case-cover-for-iphone-14-images/DailyObjects-Pink-Hibiscus-Blue-Hybrid-Clear-Case-Cover-For-iPhone-14.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "title": "Pink Hibiscus Blue Hybrid Clear Case Cover For iPhone 14",
+      "price": "Rs.1199",
+      "strike": "2199",
+      "new": "NEW!",
+      "id": 339
+    },
+    {
+      "href": "https://www.dailyobjects.com/dailyobjects-lavender-flekt-silicone-case-cover-for-iphone-14/dp?f=pid~LVNDR-FLKT-SLCN-DOB-AP-IPH14&amp;s=referer~lp",
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-lavender-flekt-silicone-case-cover-for-iphone-14-images/DailyObjects-Lavender-Flekt-Silicone-Case-Cover-For-iPhone-14.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "title": "Lavender Flekt Silicone Case Cover For iPhone 14",
+      "price": "Rs.1799",
+      "strike": "1999",
+      "id": 4
+    },
+    {
+      "href": "https://www.dailyobjects.com/dailyobjects-vulcan-case-cover-for-iphone-14/dp?f=pid~VLCN-DOB-AP-IPH14&amp;s=referer~lp",
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-vulcan-case-cover-for-iphone-14-images/DailyObjects-Prima-Case-Cover-For-iPhone-14-vw.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "title": "Vulcan Case Cover For iPhone 14",
+      "price": "Rs.1999",
+      "strike": "2499",
+      "id": 2
+    }
+  ],
+  "buyNow": [
+    {
+      "href": "https://www.dailyobjects.com/dailyobjects-pink-hibiscus-blue-hybrid-clear-case-cover-for-iphone-14/dp?f=pid~BLUE-HYBRD-CLR-PINK-HIBI-DOB-AP-IPH14&amp;s=referer~lp",
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-pink-hibiscus-blue-hybrid-clear-case-cover-for-iphone-14-images/DailyObjects-Pink-Hibiscus-Blue-Hybrid-Clear-Case-Cover-For-iPhone-14.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "title": "Pink Hibiscus Blue Hybrid Clear Case Cover For iPhone 14",
+      "price": "Rs.1199",
+      "strike": "2199",
+      "new": "NEW!",
+      "id": 339
+    },
+    {
+      "href": "https://www.dailyobjects.com/dailyobjects-lavender-flekt-silicone-case-cover-for-iphone-14/dp?f=pid~LVNDR-FLKT-SLCN-DOB-AP-IPH14&amp;s=referer~lp",
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-lavender-flekt-silicone-case-cover-for-iphone-14-images/DailyObjects-Lavender-Flekt-Silicone-Case-Cover-For-iPhone-14.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "title": "Lavender Flekt Silicone Case Cover For iPhone 14",
+      "price": "Rs.1799",
+      "strike": "1999",
+      "id": 4
     }
   ],
   "existingWishlist": []

@@ -22,7 +22,7 @@ export const Faq = () =>{
             </Stack>
             <Accordion allowMultiple>
                 {faqList.map((e)=>{
-                    return <AccordionItem padding={"1rem"} margin="0.5rem">
+                    return <AccordionItem key={e.title} padding={"1rem"} margin="0.5rem">
                     {({ isExpanded }) => (
                     <>
                         <h2>

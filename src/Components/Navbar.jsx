@@ -6,9 +6,9 @@ import { Link } from "react-router-dom";
 const Navbar = () => {
   return (
     <nav className="navbar">
-      <a href="./home.jsx">
+      <Link to={"/"}>
         <img className="logo" src="logo.jpg" alt="" />
-      </a>
+      </Link>
       <div class="container">
         <div class="row">
           <div class="header-item item-center">
@@ -572,7 +572,7 @@ const Navbar = () => {
         <a href="./cart.jsx">
           <FaShoppingCart />
         </a>
-        <a href="./account.jsx">
+        <a href="/account/*">
           <FaUser />
         </a>
         <a href="./search.jsx">

@@ -11909,13 +11909,6 @@
     },
     {
       "email": "gaurav123@gmail.com",
-      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-dual-holo-satin-glass-case-cover-for-xiaomi-mi-11i-images/DailyObjects-Dual-Holo-Satin-Glass-Case-Cover-For-Xiaomi-Mi-11i.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
-      "title": "Dual Holo Satin Glass Case Cover For Xiaomi Mi 11i",
-      "quantity": 1,
-      "id": 341
-    },
-    {
-      "email": "gaurav123@gmail.com",
       "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-guwahati-city-tag-glass-case-cover-for-xiaomi-mi-11i-images/DailyObjects-Guwahati-City-Tag-Glass-Case-Cover-For-Xiaomi-Mi-11i.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
       "title": "Guwahati City Tag Glass Case Cover For Xiaomi Mi 11i",
       "quantity": 1,
@@ -11927,7 +11920,7 @@
       "title": "Nimbus Phone Case Cover For iPhone 14",
       "price": "Rs.1999",
       "quantity": 1,
-      "id": 4
+      "id": 345
     }
   ],
   "buyNow": [
@@ -11941,12 +11934,19 @@
       "id": 339
     },
     {
-      "href": "https://www.dailyobjects.com/dailyobjects-lavender-flekt-silicone-case-cover-for-iphone-14/dp?f=pid~LVNDR-FLKT-SLCN-DOB-AP-IPH14&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-lavender-flekt-silicone-case-cover-for-iphone-14-images/DailyObjects-Lavender-Flekt-Silicone-Case-Cover-For-iPhone-14.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
-      "title": "Lavender Flekt Silicone Case Cover For iPhone 14",
-      "price": "Rs.1799",
-      "strike": "1999",
-      "id": 4
+      "email": "shaifali@gmail.com",
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-dual-holo-satin-glass-case-cover-for-xiaomi-mi-11i-images/DailyObjects-Dual-Holo-Satin-Glass-Case-Cover-For-Xiaomi-Mi-11i.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "title": "Dual Holo Satin Glass Case Cover For Xiaomi Mi 11i",
+      "quantity": 1,
+      "id": 340
+    },
+    {
+      "email": "dummy@gmail.com",
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-vulcan-case-cover-for-iphone-14-images/DailyObjects-Prima-Case-Cover-For-iPhone-14-vw.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "title": "Vulcan Case Cover For iPhone 14",
+      "price": "Rs.1999",
+      "quantity": 1,
+      "id": 344
     }
   ],
   "existingWishlist": []

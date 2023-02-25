@@ -9,7 +9,7 @@ export const Wishlist =()=>{
   const nav=useNavigate();
     const [wishlistData,setWishlistData] = useState([]);
     const [change,setChange]=useState(false);
-  let {name,email} = JSON.parse(localStorage.getItem("userName"));
+  let {email} = JSON.parse(localStorage.getItem("userName"));
     useEffect(()=>{
         axios.get('http://localhost:8080/WishlistiphoneCovers')
         .then((res)=>{

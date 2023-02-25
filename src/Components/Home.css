@@ -1,0 +1,116 @@
+.slider1_left {
+  float: left;
+  padding: 40px;
+  font-size: 18px;
+  line-height: 0.5rem;
+  text-align: left;
+}
+
+.slider1_left > p {
+  font-size: 15px;
+}
+
+.slider1_left > button {
+  background-color: black;
+  color: white;
+  border: none;
+  padding: 10px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.middleTab1 {
+  text-align: left;
+  padding: 20px;
+}
+
+.middleTab1 > .middleTab1_card {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.middleTab1 > h2 {
+  text-align: left;
+}
+
+.middleTab1 > h3 > .middleTab1_card > a {
+  color: black;
+}
+.middleTab3 {
+  display: flex;
+}
+
+.middleTab4 {
+  text-align: left;
+  padding: 20px;
+}
+
+.middleTab4 > .middleTab4_card {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.middleTab4 > h3 > .middleTab4_card > a {
+  color: black;
+}
+
+.middleTab7 {
+  display: flex;
+  justify-content: space-between;
+  padding: 60px;
+  border-bottom: 1px solid rgb(209, 209, 209);
+}
+
+.middleTab7 > .middleTab7_right > img {
+  justify-items: center;
+  width: 600px;
+  height: 300px;
+}
+
+.bottomTab2 {
+  padding: 20px;
+}
+
+.bottomTab2 > .bottomTab2_input > input {
+  font-size: 25px;
+  border: 0px;
+  padding: 10px;
+  text-align: center;
+  background-color: antiquewhite;
+  width: 500px;
+}
+.bottomTab2 > .bottomTab2_input > button {
+  font-size: 25px;
+  color: black;
+  padding: 10px;
+  font-weight: 500;
+  border: 0px;
+}
+
+.slick-slide img {
+  display: block;
+  height: 200px;
+  width: 270px;
+}
+
+.slider2_right {
+  margin: 30px;
+  line-height: 5px;
+}
+
+@media only screen and (max-width: 600px) {
+  .middleTab1 > .middleTab1_card {
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    gap: 20px;
+  }
+
+  .middleTab1 > .middleTab1_card img {
+    width: 100%;
+  }
+
+  .slider1 {
+    flex-direction: column;
+    gap: 120px;
+  }
+}

@@ -1,5 +1,4 @@
-
-
+import { Route, Routes } from 'react-router-dom'
 import Home from "../Pages/Home/Home";
 import { AccountPage } from "../Pages/UserAccount/AccountPage";
 import { Rewards } from "../Pages/UserAccount/Reward";
@@ -17,11 +16,9 @@ import MacbookSleeves from "./Laptop Macbook Sleeves/GroupSingle/MacbookSleeves"
 import Messenger from "./Laptop Macbook Sleeves/GroupSingle/Messenger";
 import ZippedSleeves from "./Laptop Macbook Sleeves/GroupSingle/ZippedSleeves";
 
-import Cases from "../Pages/Cases and sleeves/Cases"
+import Cases from "../Pages/Cases and sleeves/Cases";
 
 import React from "react";
-import { Route, Routes } from "react-router-dom";
-import Cases from "../Pages/Cases and sleeves/Cases";
 
 import NewArrivalComp from "./NewArrivalComp/NewArrivalComp";
 import NewArrivalsPage from "../Pages/NewArrivalsPage.jsx/NewArrivalsPage";
@@ -31,7 +28,6 @@ import IndividualPhoneCoverData from "./Cases and covers/SingleSingle/Individual
 
 import Cart from "../Pages/cart/Cart";
 import BuyNow from "../Pages/BuyNow";
-import { Route, Routes } from "react-router-dom";
 
 export default function AllRoutes() {
   console.log("dbdf");
@@ -39,18 +35,11 @@ export default function AllRoutes() {
     <div>
       <Routes>
         <Route path="/" element={<Home />} />
-
-        <Route path="/cases" element={<Cases/>} />
-        <Route path="/" element={<Home />} />
         <Route path="/cases/phonecovers" element={<FilterMobiles />} />
         <Route path="/rewards" element={<Rewards />} />
         <Route path="/account/*" element={<AccountPage />} />
-        <Route path="/cases/phonecovers/mobiles" element={<FilterMobiles />} />
 
         <Route path="/cases" element={<Cases />} />
-        <Route path="/cases/phonecovers" element={<FilterMobiles />} />
-      
-        <Route path='/cases/phonecovers/mobiles' element={<FilterMobiles/>}/>
 
         <Route path="/cases/phonecovers/apple" element={<PhoneCovers />} />
         <Route path="/cases/phonecovers/samsung" element={<SamsumgCover />} />
@@ -67,22 +56,13 @@ export default function AllRoutes() {
         />
         <Route path="/cases/laptopcovers/envelope" element={<Envelop />} />
         <Route path="/cases/laptopcovers/messenger" element={<Messenger />} />
-        <Route path="/account/*" element={<AccountPage />} />
-        <Route path="/rewards" element={<Rewards />} />
-
-        {/* <Route path='/rewards' element={<Rewards/>}/> */}
-        <Route path="/cases/phonecovers" element={<FilterMobiles />} />
-        {/* <Route path="/cases/phonecovers/apple" element={<PhoneCovers />} /> */}
-
-
-        <Route path='/cases/phonecovers' element={<FilterMobiles/>}/>
 
         <Route
           path="/iphoneCovers/:id"
           element={<IndividualPhoneCoverData />}
         />
-        <Route path="/newarrivalspage" element={<NewArrivalsPage />}/>
-        <Route path="/newarrivalcomp" element={<NewArrivalComp />}/>
+        <Route path="/newarrivalspage" element={<NewArrivalsPage />} />
+        <Route path="/newarrivalcomp" element={<NewArrivalComp />} />
         <Route path="/accesories" element={<AllAccessories />} />
         <Route path="/sale" element={<Sale />} />
         <Route path="/wallets" element={<AllAccessories />} />

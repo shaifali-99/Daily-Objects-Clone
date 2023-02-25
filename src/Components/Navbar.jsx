@@ -569,11 +569,15 @@ const Navbar = () => {
         </div>
       </div>
       <div className="navbar__icons">
-        <a href="./cart.jsx">
+        <a href="">
+          <Link to={'/cart'}>
           <FaShoppingCart />
+          </Link>
         </a>
-        <a href="/account/*">
+        <a href="">
+          <Link to={'/account/*'}>
           <FaUser />
+          </Link>
         </a>
         <a href="./search.jsx">
           <FaSearch />

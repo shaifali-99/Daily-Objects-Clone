@@ -1519,32 +1519,36 @@
       "id": 7
     },
     {
-      "href": "https://www.dailyobjects.com/dailyobjects-blue-flekt-silicone-case-cover-for-iphone-14/dp?f=pid~BLUE-FLKT-SLCN-DOB-AP-IPH14&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-blue-flekt-silicone-case-cover-for-iphone-14-images/DailyObjects-Blue-Flekt-Silicone-Case-Cover-For-iPhone-14.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
-      "title": "Blue Flekt Silicone Case Cover For iPhone 14",
-      "price": "Rs.1799",
-      "strike": "1999",
-      "id": 6
-    },
-    {
-      "href": "https://www.dailyobjects.com/dailyobjects-90s-rule-stride-2-0-case-cover-for-iphone-14/dp?f=pid~STRD-2-0-90S-RULE-DOB-AP-IPH14&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-90s-rule-stride-2-0-case-cover-for-iphone-14-images/DailyObjects-90s-Rule-Stride-2-0-Case-Cover-For-iPhone-14.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
-      "title": "90's Rule Stride 2.0 Case Cover For iPhone 14",
-      "price": "Rs.1199",
-      "strike": "2199",
-      "id": 18
-    },
-    {
-      "href": "https://www.dailyobjects.com/dailyobjects-mohobbat-sharbat-black-hybrid-clear-case-cover-for-iphone-14/dp?f=pid~BLK-HYBRD-CLR-MOHO-SHAR-AP-IPH14&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-mohobbat-sharbat-black-hybrid-clear-case-cover-for-iphone-14-images/DailyObjects-Mohobbat-Sharbat-Black-Hybrid-Clear-Case-Cover-For-iPhone-14.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
-      "title": "Mohobbat Sharbat Black Hybrid Clear Case Cover For iPhone 14",
-      "price": "Rs.1199",
-      "strike": "2199",
-      "new": "NEW!",
-      "id": 10
+      "name": "Gaurav J",
+      "email": "gaurav123@gmail.com",
+      "password": "gauru1234",
+      "id": 8,
+      "area": "Najafgarh",
+      "state": "Delhi ",
+      "city": "Dawarka",
+      "phone": "9205098889",
+      "houseNo": "111",
+      "pincode": "110022"
     }
   ],
-  "WishlistiphoneCovers": [],
+  "WishlistiphoneCovers": [
+    {
+      "href": "https://www.dailyobjects.com/slick-phone-case-cover-for-iphone-14/dp?f=pid~SLIK-PHN-DOB-AP-IPH14&amp;s=referer~lp",
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/slick-phone-case-cover-for-iphone-14-images/Nimbus-Phone-Case-Cover-For-iPhone-14.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "title": "Nimbus Phone Case Cover For iPhone 14",
+      "price": "Rs.1999",
+      "strike": "2499",
+      "id": 1
+    },
+    {
+      "href": "https://www.dailyobjects.com/dailyobjects-vulcan-case-cover-for-iphone-14/dp?f=pid~VLCN-DOB-AP-IPH14&amp;s=referer~lp",
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-vulcan-case-cover-for-iphone-14-images/DailyObjects-Prima-Case-Cover-For-iPhone-14-vw.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "title": "Vulcan Case Cover For iPhone 14",
+      "price": "Rs.1999",
+      "strike": "2499",
+      "id": 2
+    }
+  ],
   "iphoneCovers": [
     {
       "href": "https://www.dailyobjects.com/slick-phone-case-cover-for-iphone-14/dp?f=pid~SLIK-PHN-DOB-AP-IPH14&amp;s=referer~lp",
@@ -11624,7 +11628,6 @@
       "id": 1014
     },
     {
-    {
       "anchor-tag href": "https://www.dailyobjects.com/surge-2-in-1-magnetic-charging-station/dp?f=pid~SURG-2-N1-MGNT-CHRGN-STATION&amp;s=referer~lp",
       "image": "https://images.dailyobjects.com/marche/product-images/1809/surge-2-in-1-magnetic-charging-station-images/Surge-2-In-1-Magnetic-Charging-Station.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
       "title": "DailyObjects SURGE™ 2-In-1 Universal Magnetic Wireless Charging Station (18W)",
@@ -11898,29 +11901,33 @@
   ],
   "cartItems": [
     {
-      "href": "https://www.dailyobjects.com/dailyobjects-pink-hibiscus-blue-hybrid-clear-case-cover-for-iphone-14/dp?f=pid~BLUE-HYBRD-CLR-PINK-HIBI-DOB-AP-IPH14&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-pink-hibiscus-blue-hybrid-clear-case-cover-for-iphone-14-images/DailyObjects-Pink-Hibiscus-Blue-Hybrid-Clear-Case-Cover-For-iPhone-14.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
-      "title": "Pink Hibiscus Blue Hybrid Clear Case Cover For iPhone 14",
-      "price": "Rs.1199",
-      "strike": "2199",
-      "new": "NEW!",
-      "id": 339
+      "email": "shaifali@gmail.com",
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-dual-holo-satin-glass-case-cover-for-xiaomi-mi-11i-images/DailyObjects-Dual-Holo-Satin-Glass-Case-Cover-For-Xiaomi-Mi-11i.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "title": "Dual Holo Satin Glass Case Cover For Xiaomi Mi 11i",
+      "quantity": 1,
+      "id": 340
     },
     {
-      "href": "https://www.dailyobjects.com/dailyobjects-lavender-flekt-silicone-case-cover-for-iphone-14/dp?f=pid~LVNDR-FLKT-SLCN-DOB-AP-IPH14&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-lavender-flekt-silicone-case-cover-for-iphone-14-images/DailyObjects-Lavender-Flekt-Silicone-Case-Cover-For-iPhone-14.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
-      "title": "Lavender Flekt Silicone Case Cover For iPhone 14",
-      "price": "Rs.1799",
-      "strike": "1999",
-      "id": 4
+      "email": "gaurav123@gmail.com",
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-dual-holo-satin-glass-case-cover-for-xiaomi-mi-11i-images/DailyObjects-Dual-Holo-Satin-Glass-Case-Cover-For-Xiaomi-Mi-11i.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "title": "Dual Holo Satin Glass Case Cover For Xiaomi Mi 11i",
+      "quantity": 1,
+      "id": 341
     },
     {
-      "href": "https://www.dailyobjects.com/dailyobjects-vulcan-case-cover-for-iphone-14/dp?f=pid~VLCN-DOB-AP-IPH14&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-vulcan-case-cover-for-iphone-14-images/DailyObjects-Prima-Case-Cover-For-iPhone-14-vw.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
-      "title": "Vulcan Case Cover For iPhone 14",
+      "email": "gaurav123@gmail.com",
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-guwahati-city-tag-glass-case-cover-for-xiaomi-mi-11i-images/DailyObjects-Guwahati-City-Tag-Glass-Case-Cover-For-Xiaomi-Mi-11i.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "title": "Guwahati City Tag Glass Case Cover For Xiaomi Mi 11i",
+      "quantity": 1,
+      "id": 342
+    },
+    {
+      "email": "dummy@gmail.com",
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/slick-phone-case-cover-for-iphone-14-images/Nimbus-Phone-Case-Cover-For-iPhone-14.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "title": "Nimbus Phone Case Cover For iPhone 14",
       "price": "Rs.1999",
-      "strike": "2499",
-      "id": 2
+      "quantity": 1,
+      "id": 4
     }
   ],
   "buyNow": [

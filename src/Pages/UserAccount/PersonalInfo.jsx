@@ -48,7 +48,8 @@ export const PersonalInfo = () =>{
         axios.patch(`http://localhost:8080/users/${personalId}`,obj)
         .then((res)=>{
             console.log("after submit",res);
-            setChange((prev)=>!prev)
+            setChange((prev)=>!prev);
+            onClose();
         })
         .catch((err)=>{
             console.log(err)

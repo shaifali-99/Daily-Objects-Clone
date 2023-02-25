@@ -28,7 +28,6 @@ import IndividualPhoneCoverData from "./Cases and covers/SingleSingle/Individual
 
 import Cart from "../Pages/cart/Cart";
 import BuyNow from "../Pages/BuyNow";
-import { Route, Routes } from "react-router-dom";
 
 export default function AllRoutes() {
   console.log("dbdf");

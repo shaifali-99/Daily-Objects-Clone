@@ -77,9 +77,9 @@ export const Wishlist =()=>{
                         <Button variant='solid' colorScheme='blue' onClick={handleAddToCart}>
                           Add to cart
                         </Button>
-                        <Button variant='solid' colorScheme='green' onClick={()=>{nav('/buynow')}}>
+                        {/* <Button variant='solid' colorScheme='green' onClick={()=>{nav('/buynow')}}>
                           Buy now
-                        </Button>
+                        </Button> */}
                         <Button colorScheme='red' onClick={handleDeleteFromWishList}>Remove</Button>
                       </ButtonGroup>
                     </CardFooter>

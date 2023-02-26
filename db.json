@@ -1525,7 +1525,7 @@
       "id": 7
     },
     {
-      "name": "Gaurav J",
+      "name": "Gaurav ",
       "email": "gaurav123@gmail.com",
       "password": "gauru1234",
       "id": 8,
@@ -1538,14 +1538,6 @@
     }
   ],
   "WishlistiphoneCovers": [
-    {
-      "href": "https://www.dailyobjects.com/slick-phone-case-cover-for-iphone-14/dp?f=pid~SLIK-PHN-DOB-AP-IPH14&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1101/slick-phone-case-cover-for-iphone-14-images/Nimbus-Phone-Case-Cover-For-iPhone-14.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
-      "title": "Nimbus Phone Case Cover For iPhone 14",
-      "price": "Rs.1999",
-      "strike": "2499",
-      "id": 1
-    },
     {
       "href": "https://www.dailyobjects.com/dailyobjects-vulcan-case-cover-for-iphone-14/dp?f=pid~VLCN-DOB-AP-IPH14&amp;s=referer~lp",
       "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-vulcan-case-cover-for-iphone-14-images/DailyObjects-Prima-Case-Cover-For-iPhone-14-vw.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
@@ -11972,8 +11964,6 @@
       "price": "Rs.1699",
       "offer": "FREE DUFFLE BAG / KEYCHAIN SET*"
     }
-   
-],
+  ],
   "existingWishlist": []
-
 }

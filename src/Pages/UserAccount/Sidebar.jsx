@@ -24,7 +24,7 @@ const LinkItems = [
 ];
 export default function Sidebar() {
   let {isAuth,setAuth}=useContext(AuthContext)
-  let {name,email} = JSON.parse(localStorage.getItem("userName"));
+  let name= localStorage.getItem("userName");
   const [isOpen,setOpen]= useState(true);
   const toggle = () =>{
     setOpen((prev)=>!prev);
@@ -38,7 +38,7 @@ export default function Sidebar() {
        <div style={{color:"#319795",display:"flex",alignItems:"center"}}>
         <FaUserCircle/> | 
         <div>
-        {name!==""&&isAuth? name : "USER"}
+        {name!==""&&isAuth?name : "USER"}
         </div>
        </div> 
         <FaBars style={{marginLeft:isOpen?"40%":"12px"}} onClick={toggle}/>

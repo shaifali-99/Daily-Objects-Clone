@@ -21,9 +21,9 @@ import { AuthContext } from './AccountContextAuth/AuthContextAccount';
 
 export default function Login() {
   const nav=useNavigate();
-  const [email,setEmail]=useState("euegene213@gmail.com");
-      const [name, setName] = useState("Eugene Addams");
-      const [password,setPassword]=useState("123456");
+  const [email,setEmail]=useState("gaurav123@gmail.com");
+      const [name, setName] = useState("Gaurav J");
+      const [password,setPassword]=useState("gauru1234");
       let {setpersonalId}=useContext(AuthContext);
       let {login,isAuth,setAuth,token,setToken} = useContext(AuthContext);
 
@@ -49,7 +49,7 @@ export default function Login() {
       if(userExist===1){
           alert("🎉🎊Successfully Logged In 🤗🥳");
           console.log("loginSuccessfull",token,isAuth);
-          localStorage.setItem("userName",JSON.stringify({name,email}));
+          localStorage.setItem("userName",name);
           console.log(localStorage.getItem("userName"))
           // window.location.href("/account/personalInfo")  
         }else{

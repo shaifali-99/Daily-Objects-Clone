@@ -13,7 +13,6 @@ function App() {
       <GoToTop/>
       <Footer />
     </div>
-      <Footer /></div>
   );
 
 }

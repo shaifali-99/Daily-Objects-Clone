@@ -9,12 +9,13 @@ function App() {
   return (
     <div className="App">
       <AllRoutes />
-      {/* <Navbar/> */}
       <Home />
       <GoToTop/>
       <Footer />
     </div>
+      <Footer /></div>
   );
+
 }
 
 export default App;

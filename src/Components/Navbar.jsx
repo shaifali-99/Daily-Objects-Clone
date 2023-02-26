@@ -2,6 +2,7 @@ import React from "react";
 import { FaSearch, FaUser, FaShoppingCart } from "react-icons/fa";
 import "./Navbar.css";
 import { Link } from "react-router-dom";
+import { Button } from "@chakra-ui/react";
 
 const Navbar = () => {
   return (
@@ -569,15 +570,23 @@ const Navbar = () => {
         </div>
       </div>
       <div className="navbar__icons">
-        <a href="./cart.jsx">
+        <a href="">
+          <Link to={'/cart'}>
           <FaShoppingCart />
+          </Link>
         </a>
-        <a href="/account/*">
+        <a href="">
+          <Link to={'/account/*'}>
           <FaUser />
+          </Link>
         </a>
-        <a href="./search.jsx">
-          <FaSearch />
-        </a>
+      
+        <a href="">
+          <Link to={'/searchproduct'} >
+         <Button> <FaSearch /></Button>
+         </Link>
+        </a>
+        
       </div>
     </nav>
   );

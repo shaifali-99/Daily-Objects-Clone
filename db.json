@@ -1353,7 +1353,7 @@
       "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
     }
   ],
-  "DESK": [
+  "Desks": [
     {
       "image": "https://images.dailyobjects.com/marche/product-images/1702/bearcub-pen-stand-images/Bearcub-Pen-Stand.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
       "title": "Bearcub Pen Stand",
@@ -1517,9 +1517,38 @@
       "email": "test4@gmail.com",
       "password": "test123456",
       "id": 7
+    },
+    {
+      "name": "Gaurav J",
+      "email": "gaurav123@gmail.com",
+      "password": "gauru1234",
+      "id": 8,
+      "area": "Najafgarh",
+      "state": "Delhi ",
+      "city": "Dawarka",
+      "phone": "9205098889",
+      "houseNo": "111",
+      "pincode": "110022"
     }
   ],
-  "WishlistiphoneCovers": [],
+  "WishlistiphoneCovers": [
+    {
+      "href": "https://www.dailyobjects.com/slick-phone-case-cover-for-iphone-14/dp?f=pid~SLIK-PHN-DOB-AP-IPH14&amp;s=referer~lp",
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/slick-phone-case-cover-for-iphone-14-images/Nimbus-Phone-Case-Cover-For-iPhone-14.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "title": "Nimbus Phone Case Cover For iPhone 14",
+      "price": "Rs.1999",
+      "strike": "2499",
+      "id": 1
+    },
+    {
+      "href": "https://www.dailyobjects.com/dailyobjects-vulcan-case-cover-for-iphone-14/dp?f=pid~VLCN-DOB-AP-IPH14&amp;s=referer~lp",
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-vulcan-case-cover-for-iphone-14-images/DailyObjects-Prima-Case-Cover-For-iPhone-14-vw.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "title": "Vulcan Case Cover For iPhone 14",
+      "price": "Rs.1999",
+      "strike": "2499",
+      "id": 2
+    }
+  ],
   "iphoneCovers": [
     {
       "href": "https://www.dailyobjects.com/slick-phone-case-cover-for-iphone-14/dp?f=pid~SLIK-PHN-DOB-AP-IPH14&amp;s=referer~lp",
@@ -11872,29 +11901,26 @@
   ],
   "cartItems": [
     {
-      "href": "https://www.dailyobjects.com/dailyobjects-pink-hibiscus-blue-hybrid-clear-case-cover-for-iphone-14/dp?f=pid~BLUE-HYBRD-CLR-PINK-HIBI-DOB-AP-IPH14&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-pink-hibiscus-blue-hybrid-clear-case-cover-for-iphone-14-images/DailyObjects-Pink-Hibiscus-Blue-Hybrid-Clear-Case-Cover-For-iPhone-14.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
-      "title": "Pink Hibiscus Blue Hybrid Clear Case Cover For iPhone 14",
-      "price": "Rs.1199",
-      "strike": "2199",
-      "new": "NEW!",
-      "id": 339
+      "email": "shaifali@gmail.com",
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-dual-holo-satin-glass-case-cover-for-xiaomi-mi-11i-images/DailyObjects-Dual-Holo-Satin-Glass-Case-Cover-For-Xiaomi-Mi-11i.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "title": "Dual Holo Satin Glass Case Cover For Xiaomi Mi 11i",
+      "quantity": 1,
+      "id": 340
     },
     {
-      "href": "https://www.dailyobjects.com/dailyobjects-lavender-flekt-silicone-case-cover-for-iphone-14/dp?f=pid~LVNDR-FLKT-SLCN-DOB-AP-IPH14&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-lavender-flekt-silicone-case-cover-for-iphone-14-images/DailyObjects-Lavender-Flekt-Silicone-Case-Cover-For-iPhone-14.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
-      "title": "Lavender Flekt Silicone Case Cover For iPhone 14",
-      "price": "Rs.1799",
-      "strike": "1999",
-      "id": 4
+      "email": "gaurav123@gmail.com",
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-guwahati-city-tag-glass-case-cover-for-xiaomi-mi-11i-images/DailyObjects-Guwahati-City-Tag-Glass-Case-Cover-For-Xiaomi-Mi-11i.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "title": "Guwahati City Tag Glass Case Cover For Xiaomi Mi 11i",
+      "quantity": 1,
+      "id": 342
     },
     {
-      "href": "https://www.dailyobjects.com/dailyobjects-vulcan-case-cover-for-iphone-14/dp?f=pid~VLCN-DOB-AP-IPH14&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-vulcan-case-cover-for-iphone-14-images/DailyObjects-Prima-Case-Cover-For-iPhone-14-vw.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
-      "title": "Vulcan Case Cover For iPhone 14",
+      "email": "dummy@gmail.com",
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/slick-phone-case-cover-for-iphone-14-images/Nimbus-Phone-Case-Cover-For-iPhone-14.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "title": "Nimbus Phone Case Cover For iPhone 14",
       "price": "Rs.1999",
-      "strike": "2499",
-      "id": 2
+      "quantity": 1,
+      "id": 345
     }
   ],
   "buyNow": [
@@ -11908,13 +11934,54 @@
       "id": 339
     },
     {
-      "href": "https://www.dailyobjects.com/dailyobjects-lavender-flekt-silicone-case-cover-for-iphone-14/dp?f=pid~LVNDR-FLKT-SLCN-DOB-AP-IPH14&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-lavender-flekt-silicone-case-cover-for-iphone-14-images/DailyObjects-Lavender-Flekt-Silicone-Case-Cover-For-iPhone-14.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
-      "title": "Lavender Flekt Silicone Case Cover For iPhone 14",
-      "price": "Rs.1799",
-      "strike": "1999",
-      "id": 4
+      "email": "shaifali@gmail.com",
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-dual-holo-satin-glass-case-cover-for-xiaomi-mi-11i-images/DailyObjects-Dual-Holo-Satin-Glass-Case-Cover-For-Xiaomi-Mi-11i.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "title": "Dual Holo Satin Glass Case Cover For Xiaomi Mi 11i",
+      "quantity": 1,
+      "id": 340
+    },
+    {
+      "email": "dummy@gmail.com",
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-vulcan-case-cover-for-iphone-14-images/DailyObjects-Prima-Case-Cover-For-iPhone-14-vw.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "title": "Vulcan Case Cover For iPhone 14",
+      "price": "Rs.1999",
+      "quantity": 1,
+      "id": 344
     }
   ],
+  "pedalback": [
+    {
+      "image": "https://images.dailyobjects.com/marche/product-images/1201/all-beige-pedal-daypack-images/All-Beige-Pedal-Daypack-vw.png?tr=cm-pad_resize,v-2,w-352,h-434,dpr-1",
+      "title": "All Beige Pedal Daypack",
+      "price": "Rs.1699",
+      "offer": "FREE DUFFLE BAG / KEYCHAIN SET*"
+    },
+    {
+      "image": "https://images.dailyobjects.com/marche/product-images/1201/all-blue-pedal-daypack-images/All-Blue-Pedal-Daypack-vw.png?tr=cm-pad_resize,v-2,w-352,h-434,dpr-1",
+      "title": "All Blue Pedal Daypack",
+      "price": "Rs.1699",
+      "offer": "FREE DUFFLE BAG / KEYCHAIN SET*"
+    },
+    {
+      "image": "https://images.dailyobjects.com/marche/product-images/1201/all-red-pedal-daypack-images/All-Red-Pedal-Daypack-vw.png?tr=cm-pad_resize,v-2,w-352,h-434,dpr-1",
+      "title": "All Red Pedal Daypack",
+      "price": "Rs.1699",
+      "offer": "FREE DUFFLE BAG / KEYCHAIN SET*"
+    },
+    {
+      "image": "https://images.dailyobjects.com/marche/product-images/1201/all-olive-pedal-daypack-images/All-Olive-Pedal-Daypack-vw.png?tr=cm-pad_resize,v-2,w-352,h-434,dpr-1",
+      "title": "All Olive Pedal Daypack",
+      "price": "Rs.1699",
+      "offer": "FREE DUFFLE BAG / KEYCHAIN SET*"
+    },
+    {
+      "image": "https://images.dailyobjects.com/marche/product-images/1201/all-clove-pedal-daypack-images/All-Clove-Pedal-Daypack-vw.png?tr=cm-pad_resize,v-2,w-352,h-434,dpr-1",
+      "title": "All Clove Pedal Daypack",
+      "price": "Rs.1699",
+      "offer": "FREE DUFFLE BAG / KEYCHAIN SET*"
+    }
+   
+],
   "existingWishlist": []
+
 }

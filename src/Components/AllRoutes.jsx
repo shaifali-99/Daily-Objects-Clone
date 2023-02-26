@@ -7,7 +7,6 @@ import Navbar from "./Navbar";
 import Footer from "./Footer";
 import GoToTop from "./GoToTop";
 import { Route, Routes } from 'react-router-dom'
-// import Home from "./Home";
 import { AccountPage } from "../Pages/UserAccount/AccountPage";
 import { Rewards } from "../Pages/UserAccount/Reward";
 import FilterMobiles from "./Cases and covers/FilterMobiles";

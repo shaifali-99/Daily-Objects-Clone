@@ -8,9 +8,9 @@ const Navbar = () => {
   return (
     <nav className="navbar">
       <Link to={"/"}>
-        <img className="logo" src="logo.jpg" alt="" />
+        <img style={{width:"150px"}} className="logo" src="logo.jpg" alt="" />
       </Link>
-      <div style={{marginLeft: "140px", border:"none"}} class="container">
+      <div style={{marginLeft: "100px", border:"none"}} class="container">
         <div class="row">
           <div class="header-item item-center">
             <nav class="menu">
@@ -522,54 +522,12 @@ const Navbar = () => {
                     </div>
                   </div>
                 </li>
-                <li class="menu-item-has-children">
-                  <a href="" id="new">
-                    GIFTING
-                  </a>
-                  <div class="sub-menu mega-menu mega-menu-column-4">
-                    <div class="list-item">
-                      <ul>
-                      <li><b>CORPORATE GIFTING</b></li>
-                        <li>Employee Kits</li>
-                        <li>Festive Kits</li>
-                      </ul>
-                    </div>
-                    <div class="list-item">
-                      <ul>
-                      <li><b>HOLIDAY GIFTING BUNDLES</b></li>
-                      <li><b>E GIFT CARDS</b></li>
-                      </ul>
-                    </div>
-                    <div class="list-item">
-                      <ul>
-                      <li><b>GIFTING BY BUDGET</b></li>
-                        <li><a href="#">Gift under 1000</a></li>
-                        <li><a href="#">Gift under 2500</a></li>
-                        <li><a href="#">Gift under 5000</a></li>
-                      </ul>
-                    </div>
-                    <div class="list-item">
-                      <ul>
-                      <li><b>GIFTS BY PERSONAS</b></li>
-                        <li>Gifts For The Techie</li>
-                        <li>Gifts For The Organisers</li>
-                        <li>Gifts For The Workaholic</li>
-                      </ul>
-                    </div>
-                    <div class="list-item">
-                        <img
-                          src="https://images.dailyobjects.com/marche/assets/images/other/gifting-page-drop-down-banner-1-update-up.png?tr=cm-pad_resize,v-2,w-1000,w-140,h-380,dpr-1"
-                          alt=""
-                        />
-                      </div>
-                  </div>
-                </li>
               </ul>
             </nav>
           </div>
         </div>
       </div>
-      <div className="navbar__icons">
+      <div style={{marginTop:"20px"}} className="navbar__icons">
         <a href="">
           <Link to={'/cart'}>
           <FaShoppingCart />
@@ -580,13 +538,11 @@ const Navbar = () => {
           <FaUser />
           </Link>
         </a>
-      
         <a href="">
           <Link to={'/searchproduct'} >
-         <Button> <FaSearch /></Button>
+         <FaSearch />
          </Link>
         </a>
-        
       </div>
     </nav>
   );

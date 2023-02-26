@@ -1353,7 +1353,7 @@
       "brand": "FREE DUFFLE BAG / KEYCHAIN SET*"
     }
   ],
-  "DESK": [
+  "Desks": [
     {
       "image": "https://images.dailyobjects.com/marche/product-images/1702/bearcub-pen-stand-images/Bearcub-Pen-Stand.png?tr=cm-pad_resize,v-2,w-393,h-484,dpr-1",
       "title": "Bearcub Pen Stand",
@@ -11949,5 +11949,39 @@
       "id": 344
     }
   ],
+  "pedalback": [
+    {
+      "image": "https://images.dailyobjects.com/marche/product-images/1201/all-beige-pedal-daypack-images/All-Beige-Pedal-Daypack-vw.png?tr=cm-pad_resize,v-2,w-352,h-434,dpr-1",
+      "title": "All Beige Pedal Daypack",
+      "price": "Rs.1699",
+      "offer": "FREE DUFFLE BAG / KEYCHAIN SET*"
+    },
+    {
+      "image": "https://images.dailyobjects.com/marche/product-images/1201/all-blue-pedal-daypack-images/All-Blue-Pedal-Daypack-vw.png?tr=cm-pad_resize,v-2,w-352,h-434,dpr-1",
+      "title": "All Blue Pedal Daypack",
+      "price": "Rs.1699",
+      "offer": "FREE DUFFLE BAG / KEYCHAIN SET*"
+    },
+    {
+      "image": "https://images.dailyobjects.com/marche/product-images/1201/all-red-pedal-daypack-images/All-Red-Pedal-Daypack-vw.png?tr=cm-pad_resize,v-2,w-352,h-434,dpr-1",
+      "title": "All Red Pedal Daypack",
+      "price": "Rs.1699",
+      "offer": "FREE DUFFLE BAG / KEYCHAIN SET*"
+    },
+    {
+      "image": "https://images.dailyobjects.com/marche/product-images/1201/all-olive-pedal-daypack-images/All-Olive-Pedal-Daypack-vw.png?tr=cm-pad_resize,v-2,w-352,h-434,dpr-1",
+      "title": "All Olive Pedal Daypack",
+      "price": "Rs.1699",
+      "offer": "FREE DUFFLE BAG / KEYCHAIN SET*"
+    },
+    {
+      "image": "https://images.dailyobjects.com/marche/product-images/1201/all-clove-pedal-daypack-images/All-Clove-Pedal-Daypack-vw.png?tr=cm-pad_resize,v-2,w-352,h-434,dpr-1",
+      "title": "All Clove Pedal Daypack",
+      "price": "Rs.1699",
+      "offer": "FREE DUFFLE BAG / KEYCHAIN SET*"
+    }
+   
+],
   "existingWishlist": []
+
 }

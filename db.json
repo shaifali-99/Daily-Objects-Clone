@@ -1495,10 +1495,16 @@
       "id": 3
     },
     {
-      "name": "Dummy",
-      "email": "dummy@gmail.com",
+      "name": "Eugene Addams",
+      "email": "euegene213@gmail.com",
       "password": "123456",
-      "id": 4
+      "id": 4,
+      "area": "Manhattan",
+      "state": "New York ",
+      "city": "Jersey City",
+      "phone": "8529630253",
+      "houseNo": "St.- 079",
+      "pincode": "110022"
     },
     {
       "name": "test3",
@@ -11901,44 +11907,12 @@
   ],
   "cartItems": [
     {
-      "email": "shaifali@gmail.com",
-      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-dual-holo-satin-glass-case-cover-for-xiaomi-mi-11i-images/DailyObjects-Dual-Holo-Satin-Glass-Case-Cover-For-Xiaomi-Mi-11i.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
-      "title": "Dual Holo Satin Glass Case Cover For Xiaomi Mi 11i",
-      "quantity": 1,
-      "id": 340
-    },
-    {
-      "email": "gaurav123@gmail.com",
-      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-guwahati-city-tag-glass-case-cover-for-xiaomi-mi-11i-images/DailyObjects-Guwahati-City-Tag-Glass-Case-Cover-For-Xiaomi-Mi-11i.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
-      "title": "Guwahati City Tag Glass Case Cover For Xiaomi Mi 11i",
-      "quantity": 1,
-      "id": 342
-    },
-    {
       "email": "dummy@gmail.com",
       "image": "https://images.dailyobjects.com/marche/product-images/1101/slick-phone-case-cover-for-iphone-14-images/Nimbus-Phone-Case-Cover-For-iPhone-14.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
       "title": "Nimbus Phone Case Cover For iPhone 14",
       "price": "Rs.1999",
       "quantity": 1,
-      "id": 345
-    }
-  ],
-  "buyNow": [
-    {
-      "href": "https://www.dailyobjects.com/dailyobjects-pink-hibiscus-blue-hybrid-clear-case-cover-for-iphone-14/dp?f=pid~BLUE-HYBRD-CLR-PINK-HIBI-DOB-AP-IPH14&amp;s=referer~lp",
-      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-pink-hibiscus-blue-hybrid-clear-case-cover-for-iphone-14-images/DailyObjects-Pink-Hibiscus-Blue-Hybrid-Clear-Case-Cover-For-iPhone-14.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
-      "title": "Pink Hibiscus Blue Hybrid Clear Case Cover For iPhone 14",
-      "price": "Rs.1199",
-      "strike": "2199",
-      "new": "NEW!",
-      "id": 339
-    },
-    {
-      "email": "shaifali@gmail.com",
-      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-dual-holo-satin-glass-case-cover-for-xiaomi-mi-11i-images/DailyObjects-Dual-Holo-Satin-Glass-Case-Cover-For-Xiaomi-Mi-11i.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
-      "title": "Dual Holo Satin Glass Case Cover For Xiaomi Mi 11i",
-      "quantity": 1,
-      "id": 340
+      "id": 346
     },
     {
       "email": "dummy@gmail.com",
@@ -11946,7 +11920,25 @@
       "title": "Vulcan Case Cover For iPhone 14",
       "price": "Rs.1999",
       "quantity": 1,
-      "id": 344
+      "id": 347
+    },
+    {
+      "email": "euegene213@gmail.com",
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/slick-phone-case-cover-for-iphone-14-images/Nimbus-Phone-Case-Cover-For-iPhone-14.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "title": "Nimbus Phone Case Cover For iPhone 14",
+      "price": "Rs.1999",
+      "quantity": 1,
+      "id": 348
+    }
+  ],
+  "buyNow": [
+    {
+      "email": "dummy@gmail.com",
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/slick-phone-case-cover-for-iphone-14-images/Nimbus-Phone-Case-Cover-For-iPhone-14.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "title": "Nimbus Phone Case Cover For iPhone 14",
+      "price": "Rs.1999",
+      "quantity": 1,
+      "id": 346
     }
   ],
   "pedalback": [

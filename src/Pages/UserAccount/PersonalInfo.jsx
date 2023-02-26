@@ -35,6 +35,7 @@ export const PersonalInfo = () =>{
             setDetailInfo(res.data);
             setArea(res.data.area);
             setCity(res.data.city);
+            setState(res.data.state)
             setPhone(res.data.phone);
             setHouseNo(res.data.houseNo);
             setPincode(res.data.pincode);
@@ -44,10 +45,12 @@ export const PersonalInfo = () =>{
     useEffect(()=>{fetchPersonalDetails(personalId)},[personalId,change]);
 
     const handleSubmit=()=>{
-        let obj={name,area,state,city,phone,houseNo,pincode};
+        let obj={name,area,state,city,phone,houseNo,pincode,email};
         axios.patch(`http://localhost:8080/users/${personalId}`,obj)
         .then((res)=>{
-            console.log("after submit",res);
+            // console.log("after submit",res);
+            let user={name,email}
+            localStorage.setItem("userName",JSON.stringify(user))
             setChange((prev)=>!prev);
             onClose();
         })
@@ -62,7 +65,7 @@ export const PersonalInfo = () =>{
             <Heading as="h3" size={'lg'}>🙎‍♂️Personal Info</Heading>
             <p>Name :--{name}</p>
             <p>PhoneNo :-- +91 {detailInfo.phone}</p>
-            <p>Address :-- {detailInfo.houseNo},{detailInfo.area}<p>,{detailInfo.state},{detailInfo.pincode}</p></p>
+            <p>Address :-- {detailInfo.houseNo},{detailInfo.area}<p>,{detailInfo.city},{detailInfo.state},{detailInfo.pincode}</p></p>
             <p>Email :-- {email}</p>
             </div>
             <Button onClick={onOpen} colorScheme="green" margin={'1rem'}>Update Details</Button>

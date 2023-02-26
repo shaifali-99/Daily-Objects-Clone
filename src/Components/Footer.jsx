@@ -25,7 +25,7 @@ const Footer = () => {
         <p>Quality Assured</p>
       </div>
       <div className="socials">
-        <div className="leftSocials">
+        <div style={{ padding: "30px" }} className="leftSocials">
           <div>
             <ul>
               <li id="subHead">KNOW US</li>
@@ -47,7 +47,7 @@ const Footer = () => {
                 <li>Warranty Policy</li>
               </a>
               <a href="">
-                <li>SHipping Policy</li>
+                <li>Shipping Policy</li>
               </a>
               <a href="">
                 <li>Cancellation Policy</li>
@@ -74,7 +74,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="rightSocials">
-        <h2>FOLLOW US ON</h2>
+        <h2 style={{ fontSize: "40px", fontWeight: "800" }}>FOLLOW US ON</h2>
         <div className="rightSocials_img">
           <a href="https://www.instagram.com/dailyobjects_official/">
             <img
@@ -113,8 +113,10 @@ const Footer = () => {
           </a>
         </div>
       </div>
-      <div className="rightSocials_bottom">
-        <h2>DOWNLOAD OUR APP</h2>
+      <div style={{ padding: "44px" }} className="rightSocials_bottom">
+        <h2 style={{ fontSize: "35px", fontWeight: "800" }}>
+          DOWNLOAD OUR APP
+        </h2>
         <div className="rightSocials_bottom_img">
           <a href="https://play.google.com/store/apps/details?id=com.dailyobjects">
             <img
@@ -131,7 +133,9 @@ const Footer = () => {
         </div>
       </div>
       <div className="payements">
-        <h3>100% SECURE PAYMENT</h3>
+        <h3 style={{ fontSize: "20px", fontWeight: "800", padding: "20px" }}>
+          100% SECURE PAYMENT
+        </h3>
         <div className="payements_img">
           <img
             src="https://images.dailyobjects.com/marche/icons/payments/amex-update.png?tr=cm-pad_resize,v-2,w-82,dpr-1"
@@ -168,7 +172,9 @@ const Footer = () => {
         </div>
       </div>
       <div className="Reviews">
-        <h2>HONEST REVIEWS. NOTHING ELSE.</h2>
+        <h2 style={{ fontSize: "28px", fontWeight: "800", padding: "20px" }}>
+          HONEST REVIEWS. NOTHING ELSE.
+        </h2>
         <div className="img">
           <img
             src="https://images.dailyobjects.com/marche/assets/images/other/reviews-desktop-updated-23.png?tr=cm-pad_resize,v-2,w-1440,h-200,dpr-1"
@@ -176,9 +182,13 @@ const Footer = () => {
           />
         </div>
       </div>
-      <div className="bottomTabs1">
+      <div style={{ padding: "30px" }} className="bottomTabs1">
         <div>
-          <h4>MOST SEARCHED ON DAILYOBJECTS </h4>
+          <h4
+            style={{ fontSize: "24px", fontWeight: "800", marginLeft: "-40px" }}
+          >
+            MOST SEARCHED ON DAILYOBJECTS{" "}
+          </h4>
         </div>
 
         <div className="bottomTabs_list">
@@ -330,7 +340,7 @@ const Footer = () => {
       </div>
       <div className="bottomTabs2">
         <div>
-          <h4>HOME OFFICE</h4>
+          <h4 style={{ fontSize: "22px", fontWeight: "800" }}>HOME OFFICE</h4>
         </div>
         <div className="bottomTabs2_list">
           <a href="">
@@ -349,7 +359,9 @@ const Footer = () => {
       </div>
       <div className="bottomTabs3">
         <div>
-          <h4>STRAPS & WATCHBANDS</h4>
+          <h4 style={{ fontSize: "22px", fontWeight: "800" }}>
+            STRAPS & WATCHBANDS
+          </h4>
         </div>
         <div className="bottomTabs3_list">
           <div>
@@ -416,7 +428,9 @@ const Footer = () => {
       </div>
       <div className="bottomTabs2">
         <div>
-          <h4>BAGS & SLEEVES</h4>
+          <h4 style={{ fontSize: "22px", fontWeight: "800" }}>
+            BAGS & SLEEVES
+          </h4>
         </div>
         <div className="bottomTabs2_list">
           <a href="">
@@ -444,7 +458,7 @@ const Footer = () => {
       </div>
       <div className="bottomTabs2">
         <div>
-          <h4>WALLETS</h4>
+          <h4 style={{ fontSize: "22px", fontWeight: "800" }}>WALLETS</h4>
         </div>
         <div className="bottomTabs2_list">
           <a href="">
@@ -463,7 +477,7 @@ const Footer = () => {
       </div>
       <div className="bottomTabs4">
         <div>
-          <h4>OTHERS</h4>
+          <h4 style={{ fontSize: "22px", fontWeight: "800" }}>OTHERS</h4>
         </div>
         <div className="bottomTabs4_list">
           <a href="">
@@ -480,102 +494,111 @@ const Footer = () => {
           </a>
         </div>
       </div>
+      <div style={{ padding: "20px" }}>
+        <div className="bottomTabs2">
+          <div>
+            <h4 style={{ fontSize: "22px", fontWeight: "800" }}>
+              GIFTS BY OCCASIONS
+            </h4>
+          </div>
+          <div className="bottomTabs2_list">
+            <a href="">
+              <p>Proposed Day Gift</p>
+            </a>
+            <a href="">
+              <p>Valentines Day Gift</p>
+            </a>
+            <a href="">
+              <p>Doctors Day Gift</p>
+            </a>
+            <a href="">
+              <p>Christmas Gift</p>
+            </a>
+            <a href="">
+              <p>New Year Gift</p>
+            </a>
+          </div>
+        </div>
+        <div className="bottomTabs2">
+          <div>
+            <h4 style={{ fontSize: "22px", fontWeight: "800" }}>
+              GIFTS BY RELATIONSHIP
+            </h4>
+          </div>
+          <div className="bottomTabs2_list">
+            <a href="">
+              <p>Gifts For Men</p>
+            </a>
+            <a href="">
+              <p>Gifts For Her</p>
+            </a>
+            <a href="">
+              <p>Gifts For Boyfriend</p>
+            </a>
+            <a href="">
+              <p>Gifts For Girlfriend</p>
+            </a>
+          </div>
+        </div>
+        <div className="bottomTabs2">
+          <div>
+            <h4 style={{ fontSize: "22px", fontWeight: "800" }}>
+              GIFTS BY PERSONA
+            </h4>
+          </div>
+          <div className="bottomTabs2_list">
+            <a href="">
+              <p>Gifts For Anime Lover</p>
+            </a>
+            <a href="">
+              <p>Gifts For Coffee Lover</p>
+            </a>
+            <a href="">
+              <p>Gifts For Car Lover</p>
+            </a>
+            <a href="">
+              <p>Gifts For Cricket Lover</p>
+            </a>
+            <a href="">
+              <p>Gifts For iPhone Users</p>
+            </a>
+          </div>
+        </div>
+        <div
+          style={{ borderBottom: "1px solid rgb(209, 209, 209)" }}
+          className="bottomTabs2"
+        >
+          <div>
+            <h4 style={{ fontSize: "22px", fontWeight: "800" }}>
+              GIFTS BY BUDGET
+            </h4>
+          </div>
+          <div className="bottomTabs2_list">
+            <a href="">
+              <p>Gifts Under 500</p>
+            </a>
+            <a href="">
+              <p>Gifts Under 1000</p>
+            </a>
+            <a href="">
+              <p>Gifts Under 2000</p>
+            </a>
+            <a href="">
+              <p>Gifts Under 3000</p>
+            </a>
+            <a href="">
+              <p>Gifts Under 4000</p>
+            </a>
+            <a href="">
+              <p>Gifts Under 5000</p>
+            </a>
+          </div>
+        </div>
+      </div>
 
-      <div className="bottomTabs2">
-        <div>
-          <h4>GIFTS BY OCCASIONS</h4>
-        </div>
-        <div className="bottomTabs2_list">
-          <a href="">
-            <p>Proposed Day Gift</p>
-          </a>
-          <a href="">
-            <p>Valentines Day Gift</p>
-          </a>
-          <a href="">
-            <p>Doctors Day Gift</p>
-          </a>
-          <a href="">
-            <p>Christmas Gift</p>
-          </a>
-          <a href="">
-            <p>New Year Gift</p>
-          </a>
-        </div>
-      </div>
-      <div className="bottomTabs2">
-        <div>
-          <h4>GIFTS BY RELATIONSHIP</h4>
-        </div>
-        <div className="bottomTabs2_list">
-          <a href="">
-            <p>Gifts For Men</p>
-          </a>
-          <a href="">
-            <p>Gifts For Her</p>
-          </a>
-          <a href="">
-            <p>Gifts For Boyfriend</p>
-          </a>
-          <a href="">
-            <p>Gifts For Girlfriend</p>
-          </a>
-        </div>
-      </div>
-      <div className="bottomTabs2">
-        <div>
-          <h4>GIFTS BY PERSONA</h4>
-        </div>
-        <div className="bottomTabs2_list">
-          <a href="">
-            <p>Gifts For Anime Lover</p>
-          </a>
-          <a href="">
-            <p>Gifts For Coffee Lover</p>
-          </a>
-          <a href="">
-            <p>Gifts For Car Lover</p>
-          </a>
-          <a href="">
-            <p>Gifts For Cricket Lover</p>
-          </a>
-          <a href="">
-            <p>Gifts For iPhone Users</p>
-          </a>
-        </div>
-      </div>
-      <div
-        style={{ borderBottom: "1px solid rgb(209, 209, 209)" }}
-        className="bottomTabs2"
-      >
-        <div>
-          <h4>GIFTS BY BUDGET</h4>
-        </div>
-        <div className="bottomTabs2_list">
-          <a href="">
-            <p>Gifts Under 500</p>
-          </a>
-          <a href="">
-            <p>Gifts Under 1000</p>
-          </a>
-          <a href="">
-            <p>Gifts Under 2000</p>
-          </a>
-          <a href="">
-            <p>Gifts Under 3000</p>
-          </a>
-          <a href="">
-            <p>Gifts Under 4000</p>
-          </a>
-          <a href="">
-            <p>Gifts Under 5000</p>
-          </a>
-        </div>
-      </div>
       <footer>
-      <span
-        >© 2012 - 2023 Firki Wholesale Pvt. Ltd.</span>
-    </footer>
+        <span>© 2012 - 2023 Firki Wholesale Pvt. Ltd.</span>
+      </footer>
     </>
   );
 };

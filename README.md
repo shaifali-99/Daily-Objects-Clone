@@ -32,5 +32,8 @@ Here are some Glimpse of our Website..</h1>
   <h3>Cart Page</h3>
   
   
+ 
+ 
+ 
  <h2> Tech Stack We Used <h2>
-   <h4>CSS||REACT||CHAKRA UI||HTML||TAILWIND CSS</h4>
+   <h4> CSS||REACT||CHAKRA UI||HTML||TAILWIND CSS </h4>

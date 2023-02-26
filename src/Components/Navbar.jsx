@@ -9,7 +9,7 @@ const Navbar = () => {
       <Link to={"/"}>
         <img className="logo" src="logo.jpg" alt="" />
       </Link>
-      <div class="container">
+      <div style={{marginLeft: "140px", border:"none"}} class="container">
         <div class="row">
           <div class="header-item item-center">
             <nav class="menu">

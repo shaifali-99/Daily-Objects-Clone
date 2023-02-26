@@ -1,4 +1,11 @@
-import Home from "../Pages/Home/Home";
+import Home from "./Home";
+import "./Home.css"
+import "./Navbar.css"
+import "./Footer.css"
+import "./GoToTop.css"
+import Navbar from "./Navbar";
+import Footer from "./Footer";
+import GoToTop from "./GoToTop";
 import { AccountPage } from "../Pages/UserAccount/AccountPage";
 import { Rewards } from "../Pages/UserAccount/Reward";
 import FilterMobiles from "./Cases and covers/FilterMobiles";
@@ -34,7 +41,11 @@ export default function AllRoutes() {
   return (
     <div>
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/" element={<Navbar/>}/>
+        <Route path="/" element={<Navbar/>}/>
+        <Route path="/" element={<GoToTop/>}/>
+        <Route path="/" element={<Footer />} />
+
         <Route path="/cases/phonecovers" element={<FilterMobiles />} />
         <Route path="/rewards" element={<Rewards />} />
         <Route path="/account/*" element={<AccountPage />} />

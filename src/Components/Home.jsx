@@ -51,47 +51,47 @@ const Data = [
 ];
 
 const Data2 = [
-    {
-      id: 1,
-      src: "https://images.dailyobjects.com/marche/assets/images/other/cases-ups.jpg?tr=cm-pad_crop,v-2,w-942,dpr-1",
-      name: "Cases",
-    },
-    {
-      id: 2,
-      src: "https://images.dailyobjects.com/marche/assets/images/other/laptop-sleeve-ups.jpg?tr=cm-pad_crop,v-2,w-942,dpr-1",
-      name: "Laptop Sleeves",
-    },
-    {
-      id: 3,
-      src: "https://images.dailyobjects.com/marche/assets/images/other/charging-solution-ups.jpg?tr=cm-pad_crop,v-2,w-942,dpr-1",
-      name: "Chargin Solution",
-    },
-    {
-      id: 4,
-      src: "https://images.dailyobjects.com/marche/assets/images/other/tote-ups.jpg?tr=cm-pad_crop,v-2,w-942,dpr-1",
-      name: "Tote Bags",
-    },
-    {
-      id: 5,
-      src: "https://images.dailyobjects.com/marche/assets/images/other/crossbody-ups.jpg?tr=cm-pad_crop,v-2,w-942,dpr-1",
-      name: "Crossbody Bags",
-    },
-    {
-      id: 6,
-      src: "https://images.dailyobjects.com/marche/assets/images/other/backpack-ups.jpg?tr=cm-pad_crop,v-2,w-942,dpr-1",
-      name: "Backpack",
-    },
-    {
-      id: 7,
-      src: "https://images.dailyobjects.com/marche/assets/images/other/deskmat-ups.jpg?tr=cm-pad_crop,v-2,w-942,dpr-1",
-      name: "Desk Mat",
-    },
-    {
-        id:8,
-        src:"https://images.dailyobjects.com/marche/assets/images/other/watchbands-ups.jpg?tr=cm-pad_crop,v-2,w-942,dpr-1",
-        name:"Watchbands",
-    }
-  ];
+  {
+    id: 1,
+    src: "https://images.dailyobjects.com/marche/assets/images/other/cases-ups.jpg?tr=cm-pad_crop,v-2,w-942,dpr-1",
+    name: "Cases",
+  },
+  {
+    id: 2,
+    src: "https://images.dailyobjects.com/marche/assets/images/other/laptop-sleeve-ups.jpg?tr=cm-pad_crop,v-2,w-942,dpr-1",
+    name: "Laptop Sleeves",
+  },
+  {
+    id: 3,
+    src: "https://images.dailyobjects.com/marche/assets/images/other/charging-solution-ups.jpg?tr=cm-pad_crop,v-2,w-942,dpr-1",
+    name: "Chargin Solution",
+  },
+  {
+    id: 4,
+    src: "https://images.dailyobjects.com/marche/assets/images/other/tote-ups.jpg?tr=cm-pad_crop,v-2,w-942,dpr-1",
+    name: "Tote Bags",
+  },
+  {
+    id: 5,
+    src: "https://images.dailyobjects.com/marche/assets/images/other/crossbody-ups.jpg?tr=cm-pad_crop,v-2,w-942,dpr-1",
+    name: "Crossbody Bags",
+  },
+  {
+    id: 6,
+    src: "https://images.dailyobjects.com/marche/assets/images/other/backpack-ups.jpg?tr=cm-pad_crop,v-2,w-942,dpr-1",
+    name: "Backpack",
+  },
+  {
+    id: 7,
+    src: "https://images.dailyobjects.com/marche/assets/images/other/deskmat-ups.jpg?tr=cm-pad_crop,v-2,w-942,dpr-1",
+    name: "Desk Mat",
+  },
+  {
+    id: 8,
+    src: "https://images.dailyobjects.com/marche/assets/images/other/watchbands-ups.jpg?tr=cm-pad_crop,v-2,w-942,dpr-1",
+    name: "Watchbands",
+  },
+];
 
 const slider1 = {
   dots: true,
@@ -128,47 +128,48 @@ const slider1 = {
   ],
 };
 const slider2 = {
-      autoplay: true,
-      autoplaySpeed: 5000,
-      dots: true,
-      arrows: true,
-      infinite: true,
-      speed: 500,
-      slidesToShow: 3,
-      slidesToScroll: 3,
-      responsive: [
-        {
-          breakpoint: 1024,
-          settings: {
-            slidesToShow: 3,
-            slidesToScroll: 3,
-            infinite: true,
-            dots: true,
-          },
-        },
-        {
-          breakpoint: 600,
-          settings: {
-            slidesToShow: 2,
-            slidesToScroll: 2,
-            initialSlide: 2,
-          },
-        },
-        {
-          breakpoint: 480,
-          settings: {
-            slidesToShow: 1,
-            slidesToScroll: 1,
-          },
-        },
-      ],
-    };
+  autoplay: true,
+  autoplaySpeed: 5000,
+  dots: true,
+  arrows: true,
+  infinite: true,
+  speed: 500,
+  slidesToShow: 3,
+  slidesToScroll: 3,
+  responsive: [
+    {
+      breakpoint: 1024,
+      settings: {
+        slidesToShow: 3,
+        slidesToScroll: 3,
+        infinite: true,
+        dots: true,
+      },
+    },
+    {
+      breakpoint: 600,
+      settings: {
+        slidesToShow: 2,
+        slidesToScroll: 2,
+        initialSlide: 2,
+      },
+    },
+    {
+      breakpoint: 480,
+      settings: {
+        slidesToShow: 1,
+        slidesToScroll: 1,
+      },
+    },
+  ],
+};
 
 const Home = () => {
   return (
     <>
       <div className="topTab1_img">
         <img
+          style={{ width: "100%" }}
           src="https://images.dailyobjects.com/marche/assets/images/other/key-valentines-offer-banners-homepage-desktop.jpg?tr=cm-pad_crop,v-2,w-1440,dpr-1"
           alt=""
         />
@@ -176,6 +177,7 @@ const Home = () => {
       <div className="topTab2_img">
         <a href="">
           <img
+            style={{ width: "100%", padding: "20px" }}
             src="https://images.dailyobjects.com/marche/assets/images/other/watchbands-desktops.jpg?tr=cm-pad_crop,v-2,w-1440,dpr-1"
             alt=""
           />
@@ -183,11 +185,19 @@ const Home = () => {
       </div>
       <div className="silder1">
         <div className="slider1_left">
-          <h2>NEW ARRIVALS</h2>
+          <h2 style={{ fontWeight: "800" }}>NEW ARRIVALS</h2>
           <p>Check out our newest launches.</p>
           <button>Shop New Arrivals</button>
         </div>
-        <div className="slider2_right">
+        <div
+          style={{
+            width: "100%",
+            lineHeight: "30px",
+            textAlign: "center",
+            alignItems: "center",
+          }}
+          className="slider2_right"
+        >
           <Slider {...slider1}>
             {Data.map((item) => (
               <SliderRct name={item.name} src={item.src} desc={item.desc} />
@@ -197,6 +207,7 @@ const Home = () => {
         <div className="topTab3_img">
           <a href="">
             <img
+              style={{ width: "100%", padding: "20px" }}
               src="https://images.dailyobjects.com/marche/assets/images/homepage/desktop/Desktop-banner_backpacks-updated.jpg?tr=cm-pad_crop,v-2,w-1440,dpr-1"
               alt=""
             />
@@ -205,14 +216,15 @@ const Home = () => {
         <div className="topTab4_img">
           <a href="">
             <img
+              style={{ width: "100%", padding: "20px" }}
               src="https://images.dailyobjects.com/marche/assets/images/other/messenger-bags-desktops.jpg?tr=cm-pad_crop,v-2,w-1440,dpr-1"
               alt=""
             />
           </a>
         </div>
-        <div className="middleTab1">
-          <h2>STUDIO COLLECTIONS</h2>
-          <div className="middleTab1_card">
+        <div style={{padding:"20px"}} className="middleTab1">
+          <h2 style={{fontWeight:"800", fontSize:"26px"}}>STUDIO COLLECTIONS</h2>
+          <div style={{marginTop:"20px"}} className="middleTab1_card">
             <div>
               <a href="">
                 <img
@@ -220,7 +232,7 @@ const Home = () => {
                   alt=""
                 />
               </a>
-              <h4>DREAMSCAPE</h4>
+              <h4 style={{fontWeight:"900", marginTop:"10px"}}>DREAMSCAPE</h4>
               <p>
                 A vivid dream journal that lets you carry your daydreaming
                 stance into real life.
@@ -236,7 +248,7 @@ const Home = () => {
                   alt=""
                 />
               </a>
-              <h4>ZODIAC</h4>
+              <h4 style={{fontWeight:"900", marginTop:"10px"}}>ZODIAC</h4>
               <p>
                 Zodiac Collection reflects the unique personality of every
                 individual out there!
@@ -252,7 +264,7 @@ const Home = () => {
                   alt=""
                 />
               </a>
-              <h4>PIXEL</h4>
+              <h4 style={{fontWeight:"900", marginTop:"10px"}}>PIXEL</h4>
               <p>
                 A reflection of modern pop-culture with a vintage appeal that
                 evokes nostalgia.
@@ -267,6 +279,7 @@ const Home = () => {
       <div className="middleTab2">
         <a href="">
           <img
+          style={{ width: "100%", padding: "20px" }}
             src="https://images.dailyobjects.com/marche/colllectionPage/zootopia/smartsters-homepages-desktop.jpg?tr=cm-pad_crop,v-2,w-1440,dpr-1"
             alt=""
           />
@@ -274,14 +287,19 @@ const Home = () => {
       </div>
       <div className="slider1">
         <div className="slider1_left">
-          <h2>SHOP CATEGORIES</h2>
-          <p style={{lineHeight:"15px"}}>
-            Now browse our selection of carefully curated <br /> products in sorted
-            categories.
+          <h2 style={{ fontWeight: "800", fontSize:"26px", lineHeight:"2.5rem" }}>SHOP CATEGORIES</h2>
+          <p style={{ lineHeight: "15px" }}>
+            Now browse our selection of carefully curated <br /> products in
+            sorted categories.
           </p>
         </div>
-        <div className="slider2_right">
-          <Slider {...slider2}>
+        <div style={{
+            width: "100%",
+            lineHeight: "30px",
+            textAlign: "center",
+            alignItems: "center",
+          }} className="slider2_right">
+          <Slider style={{textAlign:"center", alignItems:"center"}} {...slider2}>
             {Data2.map((item) => (
               <SliderRct2 name={item.name} src={item.src} />
             ))}
@@ -297,7 +315,7 @@ const Home = () => {
                 alt=""
               />
             </a>
-            <h4>CHARGING SOLUTIONS</h4>
+            <h4 style={{ fontWeight: "800", fontSize:"22px", marginTop:"10px"}}>CHARGING SOLUTIONS</h4>
             <a style={{ color: "black" }} href="">
               <u>Shop Now</u>
             </a>
@@ -309,16 +327,18 @@ const Home = () => {
                 alt=""
               />
             </a>
-            <h4>WORK ESSENTIALS</h4>
+            <h4 style={{ fontWeight: "800", fontSize:"22px", marginTop:"10px"}}>WORK ESSENTIALS</h4>
             <a style={{ color: "black" }} href="">
               <u>Shop Now</u>
             </a>
           </div>
         </div>
       </div>
-      <div className="middleTab1">
-        <h2>COLLECTIONS</h2>
-        <div style={{gap:"20px", padding:"20px"}} className="middleTab1_card">
+      <div style={{padding:"30px"}} className="middleTab1">
+        <h2 style={{ fontWeight: "800", fontSize:"26px", marginTop:"10px"}}>COLLECTIONS</h2>
+        <div
+          className="middleTab1_card"
+        >
           <div>
             <a href="">
               <img
@@ -326,7 +346,7 @@ const Home = () => {
                 alt=""
               />
             </a>
-            <h4>08:01 COLLECTION</h4>
+            <h4 style={{ fontWeight: "800", fontSize:"22px", marginTop:"10px"}}>08:01 COLLECTION</h4>
             <p>
               A collection featured to preserve all brief encounters on your
               everyday journey.
@@ -338,11 +358,12 @@ const Home = () => {
           <div>
             <a href="">
               <img
+              style={{marginLeft:"-27px"}}
                 src="https://images.dailyobjects.com/marche/assets/images/other/collection-tarp.jpg?tr=cm-pad_crop,v-2,w-450,dpr-1"
                 alt=""
               />
             </a>
-            <h4>TARP COLLECTION</h4>
+            <h4 style={{ fontWeight: "800", fontSize:"22px", marginTop:"10px"}}>TARP COLLECTION</h4>
             <p>
               Urban-inspired carriers, made for free-spirited and powerful
               wearers.
@@ -358,7 +379,7 @@ const Home = () => {
                 alt=""
               />
             </a>
-            <h4>PLATFORM COLLECTION</h4>
+            <h4 style={{ fontWeight: "800", fontSize:"22px", marginTop:"10px"}}>PLATFORM COLLECTION</h4>
             <p>
               Designed with minimal geometric innovations to add comfort to your
               workspace.
@@ -372,14 +393,16 @@ const Home = () => {
       <div className="middleTab5">
         <a href="">
           <img
+          style={{ width: "100%", padding: "20px" }}
             src="https://images.dailyobjects.com/marche/assets/images/other/organisers-desktops.jpg?tr=cm-pad_crop,v-2,w-1440,dpr-1"
             alt=""
           />
         </a>
       </div>
-      <div style={{marginTop:"40px"}} className="middleTab6">
+      <div style={{ marginTop: "40px" }} className="middleTab6">
         <a href="">
           <img
+          style={{ width: "100%", padding: "20px" }}
             src="https://images.dailyobjects.com/marche/assets/images/other/corporate-gifting-desktops.jpg?tr=cm-pad_crop,v-2,w-1440,dpr-1"
             alt=""
           />
@@ -387,7 +410,7 @@ const Home = () => {
       </div>
       <div className="middleTab7">
         <div style={{ textAlign: "left" }} className="middleTab7_left">
-          <h1>OUR STORY</h1>
+          <h1 style={{fontSize:"40px", fontWeight:"800", marginBottom:"10px"}}>OUR STORY</h1>
           <p style={{ fontSize: "22px" }}>
             Founded in 2012, DailyObjects is a design-obsessed lifestyle <br />{" "}
             accessories brand committed to making your everyday carry <br />{" "}
@@ -414,7 +437,7 @@ const Home = () => {
         className="bottomTab1"
       >
         <div>
-          <h2>FEATURED IN</h2>
+          <h2 style={{fontSize:"30px", fontWeight:"800"}}>FEATURED IN</h2>
         </div>
         <div>
           <img
@@ -425,11 +448,11 @@ const Home = () => {
       </div>
       <div className="bottomTab2">
         <div>
-          <h2>GET EXCLUSIVE ACCESS TO NEW PRODUCTS, DEALS & SURPRISE TREATS</h2>
+          <h2 style={{ fontWeight: "800", fontSize:"22px"}}>GET EXCLUSIVE ACCESS TO NEW PRODUCTS, DEALS & SURPRISE TREATS</h2>
         </div>
         <div className="bottomTab2_input">
-          <input type="email" placeholder="Enter Your Email" />
-          <button>SUBSCRIBE</button>
+          <input style={{marginTop:"20px"}} type="email" placeholder="Enter Your Email" />
+          <button style={{backgroundColor:"grey"}}>SUBSCRIBE</button>
         </div>
       </div>
     </>

@@ -24,7 +24,7 @@ const LinkItems = [
 ];
 export default function Sidebar() {
   let {isAuth,setAuth}=useContext(AuthContext)
-  let {name} = JSON.parse(localStorage.getItem("userName"));
+  let {name,email} = JSON.parse(localStorage.getItem("userName"));
   const [isOpen,setOpen]= useState(true);
   const toggle = () =>{
     setOpen((prev)=>!prev);

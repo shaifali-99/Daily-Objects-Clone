@@ -15,15 +15,16 @@ export default function PhoneCovers() {
   }, []);
 
   return (
-    <div>
+    <div >
     <Navbar/>
-      <div>
+      <div >
         <ImageEveryPage name={`PHONE COVERS`} />
       </div>
       <div
+     class="grid md:grid-cols-2 sm:grid-cols-1 lg:grid-cols-4 "
         style={{
-          display: "grid",
-          gridTemplateColumns: "repeat(4,1fr)",
+          // display: "grid",
+          // gridTemplateColumns: "repeat(4,1fr)",
           width: "95%",
           margin: "auto",
           gap: "20px",

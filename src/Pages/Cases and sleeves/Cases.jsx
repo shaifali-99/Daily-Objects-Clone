@@ -30,7 +30,7 @@ function Cases() {
           marginTop: "50px",
         }}
       >
-        <div className="navLinksToFurther">
+        <div className="navLinksToFurther" >
           <Link to={'/cases/phonecovers'}>
             <img
               src="https://images.dailyobjects.com/marche/tmp/phone-cases.png?tr=cm-pad_resize,v-2,w-160,h-160,dpr-2,q-60"

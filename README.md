@@ -21,17 +21,17 @@ Here are some Glimpse of our Website..</h1>
   
   
   <h3>Landing page</h3>
-  
+  <img src="https://i.ibb.co/HVXkwRC/dailyobj1.png"/>
   
   <h3>Product Page</h3>
-  
-  
+  <img src="https://i.ibb.co/sRpCJgc/dailyobj2.png"/><br/>
+  <img src="https://i.ibb.co/X4bwNtY/dailyobj4.png"/>
   <h3>Login Page</h3>
-    
+    <img src="https://i.ibb.co/MSV67Xh/dailyobj3.png"/>
   
   <h3>Cart Page</h3>
   
-  
+  <img src="https://i.ibb.co/x31FwjC/dailyobj5.png"/>
  
  
  

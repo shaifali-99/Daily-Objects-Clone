@@ -3,7 +3,7 @@
 # BRANDS-HUB CLONE OF DAILY OBJECTS <br>
 
 <h3>Tech stacks</h3>
-<h2>HTML,CSS,eact,Redux,Local Server&Typescript</h2>
+<h2>HTML, CSS, React, Redux, Local Server&Typescript</h2>
 <h2>This is a Group Project</h2>
 <ul>
  <li>

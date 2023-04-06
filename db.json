@@ -1477,64 +1477,16 @@
   ],
   "users": [
     {
-      "name": "test1",
-      "email": "test1@gmail.com",
-      "password": "test1@123",
-      "id": 1
-    },
-    {
-      "name": "test2",
-      "email": "test2@gmail.com",
-      "password": "test1@123",
-      "id": 2
-    },
-    {
-      "name": "Shaifali",
-      "email": "shaifali@gmail.com",
-      "password": "shaifali@123",
-      "id": 3
-    },
-    {
-      "name": "Eugene Addams",
-      "email": "euegene213@gmail.com",
+      "name": "Shaifali J",
+      "email": "shaifali123@gmail.com",
       "password": "123456",
-      "id": 4,
-      "area": "Manhattan",
-      "state": "New York ",
-      "city": "Jersey City",
-      "phone": "8529630253",
-      "houseNo": "St.- 079",
-      "pincode": "110022"
-    },
-    {
-      "name": "test3",
-      "email": "test3@gmail.com",
-      "password": "12345",
-      "id": 5
-    },
-    {
-      "name": "Gaurav ",
-      "email": "gaurav@gmail.com",
-      "password": "12345",
-      "id": 6
-    },
-    {
-      "name": "test4",
-      "email": "test4@gmail.com",
-      "password": "test123456",
-      "id": 7
-    },
-    {
-      "name": "Gaurav ",
-      "email": "gaurav123@gmail.com",
-      "password": "gauru1234",
-      "id": 8,
-      "area": "Najafgarh",
-      "state": "Delhi ",
-      "city": "Dawarka",
-      "phone": "9205098889",
-      "houseNo": "111",
-      "pincode": "110022"
+      "id": 9,
+      "area": "",
+      "state": "Delhi",
+      "city": "Najafgarh",
+      "phone": "9205044556",
+      "houseNo": "1232",
+      "pincode": "110044"
     }
   ],
   "WishlistiphoneCovers": [
@@ -11921,6 +11873,14 @@
       "price": "Rs.1999",
       "quantity": 1,
       "id": 348
+    },
+    {
+      "email": "test@gmail.com",
+      "image": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-vulcan-case-cover-for-iphone-14-images/DailyObjects-Prima-Case-Cover-For-iPhone-14-vw.png?tr=cm-pad_resize,v-2,w-368,h-453,dpr-2,q-60",
+      "title": "Vulcan Case Cover For iPhone 14",
+      "price": "Rs.1999",
+      "quantity": 1,
+      "id": 349
     }
   ],
   "buyNow": [

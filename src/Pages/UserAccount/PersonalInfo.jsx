@@ -46,7 +46,7 @@ export const PersonalInfo = () =>{
 
     const handleSubmit=()=>{
         let obj={name,area,state,city,phone,houseNo,pincode,email};
-        axios.patch(`http://localhost:8080/users/${personalId}`,obj)
+        axios.patch(`https://dailyobjects-f06p.onrender.com/users/${personalId}`,obj)
         .then((res)=>{
             // console.log("after submit",res);
             let user={name,email}
@@ -60,9 +60,9 @@ export const PersonalInfo = () =>{
     }
     
     return <div>
-        {detailInfo.area?(<div>
+        {detailInfo.city||detailInfo.phone||detailInfo.houseNo?(<div>
             <div style={{width:"50%",border:"1px solid",borderRadius:"5px",padding:"1rem",fontSize:"16px",margin:"auto"}}>
-            <Heading as="h3" size={'lg'}>🙎‍♂️Personal Info</Heading>
+            <Heading as="h3" size={'lg'}> 🙎‍♂️ Personal Info</Heading>
             <p>Name :--{name}</p>
             <p>PhoneNo :-- +91 {detailInfo.phone}</p>
             <p>Address :-- {detailInfo.houseNo},{detailInfo.area}<p>,{detailInfo.city},{detailInfo.state},{detailInfo.pincode}</p></p>

@@ -4,6 +4,7 @@ import SliderRct2 from "./Slider2";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
+import Navbar from "./Navbar";
 
 const Data = [
   {
@@ -167,6 +168,7 @@ const slider2 = {
 const Home = () => {
   return (
     <>
+    <Navbar/>
       <div className="topTab1_img">
         <img
           style={{ width: "100%" }}
